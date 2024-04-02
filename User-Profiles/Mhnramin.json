@@ -2148,9 +2148,9 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xcd161c02f4db2d41919ca1d55de0926689c6737c0e2f4508e0b6a129f669814c\",\n        \"s\": \"0x72ef6d60ea600fa74220d0b3f8422324bc56bf65a3152b3f8dcf5bf799a68515\",\n        \"signature\": \"0xcd161c02f4db2d41919ca1d55de0926689c6737c0e2f4508e0b6a129f669814c72ef6d60ea600fa74220d0b3f8422324bc56bf65a3152b3f8dcf5bf799a685151b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x1cbb56730ae7d49efe4b29bf4d4c2e7e92dce1e6a1f23eb1dc4c026756528dbe\",\n        \"s\": \"0x56c8c762cb41b5f3a92aebffc8b4edb9d835588388d8d9db80065bbc8f089962\",\n        \"signature\": \"0x1cbb56730ae7d49efe4b29bf4d4c2e7e92dce1e6a1f23eb1dc4c026756528dbe56c8c762cb41b5f3a92aebffc8b4edb9d835588388d8d9db80065bbc8f0899621c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "5eaa47b1-e689-4634-b536-6898095c22e8",
+                        "id": "334d36e1-e82a-4f32-ad35-6cedbef37630",
                         "savedPayload": {
                             "position": {
                                 "x": 29568.10176243868,
@@ -2263,17 +2263,17 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x4812549f680ae0e51368bbb0bea58b99d73474fb4d2ba8b96ef1695d7d78f4a5\",\n        \"s\": \"0x3b50f821f71b8a0b24cbb1c9e819283a5fc251ff9beb28fe04a7cb24b22804d3\",\n        \"signature\": \"0x4812549f680ae0e51368bbb0bea58b99d73474fb4d2ba8b96ef1695d7d78f4a53b50f821f71b8a0b24cbb1c9e819283a5fc251ff9beb28fe04a7cb24b22804d31b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xbd7dff7c127f85e648672a8fbf92d0f0eb9b9b62c0b8f5bb82d278468ef7717b\",\n        \"s\": \"0x39dd9732fb2e3a7e06a8149a2eec7e6c1b9b0b2a3c16b5a956fbaac602949122\",\n        \"signature\": \"0xbd7dff7c127f85e648672a8fbf92d0f0eb9b9b62c0b8f5bb82d278468ef7717b39dd9732fb2e3a7e06a8149a2eec7e6c1b9b0b2a3c16b5a956fbaac6029491221b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "3edcbe2e-40b4-4615-984c-d64031deadc6",
+                        "id": "0a0823ba-b41d-412e-a01b-a8e356c26749",
                         "savedPayload": {
                             "position": {
-                                "x": 29748.08978279057,
-                                "y": 33267.70641015774
+                                "x": 29536.743223458383,
+                                "y": 32793.014265859514
                             },
                             "targetPosition": {
-                                "x": 29779.448321770866,
-                                "y": 32969.34984154726
+                                "x": 29810.806860751163,
+                                "y": 32670.993272936772
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2296,12 +2296,12 @@
                             "id": "b63c9237-7c4c-4371-b127-ebba445f50a2",
                             "savedPayload": {
                                 "position": {
-                                    "x": 29536.743223458383,
-                                    "y": 32793.014265859514
+                                    "x": 29842.16539973146,
+                                    "y": 32372.63670432629
                                 },
                                 "targetPosition": {
-                                    "x": 29779.448321770866,
-                                    "y": 32969.34984154726
+                                    "x": 29810.806860751163,
+                                    "y": 32670.993272936772
                                 },
                                 "floatingObject": {
                                     "isPinned": false,
@@ -2343,116 +2343,8 @@
                     "id": "914b41a3-7193-4789-aee2-dbd3a0ff9835",
                     "savedPayload": {
                         "position": {
-                            "x": 29779.448321770866,
-                            "y": 32969.34984154726
-                        },
-                        "targetPosition": {
-                            "x": 30053.511959063646,
-                            "y": 32847.328848624515
-                        },
-                        "floatingObject": {
-                            "isPinned": false,
-                            "isFrozen": false,
-                            "isCollapsed": false,
-                            "angleToParent": 1,
-                            "distanceToParent": 3,
-                            "arrangementStyle": 0
-                        },
-                        "uiObject": {
-                            "isRunning": false
-                        }
-                    }
-                },
-                {
-                    "type": "Social Trading Bot",
-                    "name": "Social Trading Bot #2",
-                    "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"handle\": \"Mhnramin-Social-Trading-Bot-2\"\n}",
-                    "project": "Social-Trading",
-                    "signingAccount": {
-                        "type": "Signing Account",
-                        "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x94c137fa582c2764e31cbff4f6165e8f2e880e6f7949ad0fe629f194684274c2\",\n        \"s\": \"0x39cd57b0165d4e21a4b0910c32b6b38801963899ada5f9f67edd667dfd50b05a\",\n        \"signature\": \"0x94c137fa582c2764e31cbff4f6165e8f2e880e6f7949ad0fe629f194684274c239cd57b0165d4e21a4b0910c32b6b38801963899ada5f9f67edd667dfd50b05a1b\"\n    }\n}",
-                        "project": "Governance",
-                        "id": "923004ff-ae65-4d32-af2f-88be8be2da89",
-                        "savedPayload": {
-                            "position": {
-                                "x": 29842.16539973146,
-                                "y": 32372.63670432629
-                            },
-                            "targetPosition": {
-                                "x": 30084.870498043943,
-                                "y": 32548.972280014033
-                            },
-                            "floatingObject": {
-                                "isPinned": false,
-                                "isFrozen": false,
-                                "isCollapsed": false,
-                                "angleToParent": 1,
-                                "distanceToParent": 3,
-                                "arrangementStyle": 0
-                            },
-                            "uiObject": {
-                                "isRunning": false
-                            }
-                        }
-                    },
-                    "followedBotReference": [
-                        {
-                            "type": "Followed Bot Reference",
-                            "name": "Follower Test",
-                            "project": "Social-Trading",
-                            "id": "8657d4c3-ee4e-4823-b205-a99ac9541a39",
-                            "savedPayload": {
-                                "position": {
-                                    "x": 30358.934135336724,
-                                    "y": 32426.951287091295
-                                },
-                                "targetPosition": {
-                                    "x": 30084.870498043943,
-                                    "y": 32548.972280014033
-                                },
-                                "floatingObject": {
-                                    "isPinned": false,
-                                    "isFrozen": false,
-                                    "isCollapsed": false,
-                                    "angleToParent": 1,
-                                    "distanceToParent": 3,
-                                    "arrangementStyle": 0
-                                },
-                                "uiObject": {
-                                    "isRunning": false
-                                },
-                                "referenceParent": {
-                                    "type": "Social Trading Bot",
-                                    "name": "Follower Test",
-                                    "id": "e9bb06e5-d92d-4835-b5e3-f4cbee0303de"
-                                },
-                                "referenceParentCombinedNodePath": [
-                                    [
-                                        "BastianMuc",
-                                        "User Profile"
-                                    ],
-                                    [
-                                        "New User Bots",
-                                        "User Bots"
-                                    ],
-                                    [
-                                        "New Social Trading Bots",
-                                        "Social Trading Bots"
-                                    ],
-                                    [
-                                        "Follower Test",
-                                        "Social Trading Bot"
-                                    ]
-                                ]
-                            }
-                        }
-                    ],
-                    "id": "b244181c-acf0-4fce-a9f7-40676d0296e4",
-                    "savedPayload": {
-                        "position": {
-                            "x": 30084.870498043943,
-                            "y": 32548.972280014033
+                            "x": 29810.806860751163,
+                            "y": 32670.993272936772
                         },
                         "targetPosition": {
                             "x": 30053.511959063646,
