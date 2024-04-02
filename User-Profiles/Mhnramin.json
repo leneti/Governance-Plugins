@@ -1,12 +1,12 @@
 {
     "type": "User Profile",
     "name": "Mhnramin",
-    "config": "{\"signature\":{\"message\":\"Mhnramin\",\"messageHash\":\"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\"v\":\"0x1b\",\"r\":\"0xed8961a1de35b8d7a8931cab7958498d1767f2963f4b65fd8ce75a933bdceafd\",\"s\":\"0x6fd92242ae81f17c24bc8f59f69e4c87aaa44c337284293ab1d4b66dc49d8fed\",\"signature\":\"0xed8961a1de35b8d7a8931cab7958498d1767f2963f4b65fd8ce75a933bdceafd6fd92242ae81f17c24bc8f59f69e4c87aaa44c337284293ab1d4b66dc49d8fed1b\"},\"codeName\":\"Mhnramin\"}",
+    "config": "{\r\n    \"signature\": {\r\n        \"message\": \"Mhnramin\",\r\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\r\n        \"v\": \"0x1b\",\r\n        \"r\": \"0xed8961a1de35b8d7a8931cab7958498d1767f2963f4b65fd8ce75a933bdceafd\",\r\n        \"s\": \"0x6fd92242ae81f17c24bc8f59f69e4c87aaa44c337284293ab1d4b66dc49d8fed\",\r\n        \"signature\": \"0xed8961a1de35b8d7a8931cab7958498d1767f2963f4b65fd8ce75a933bdceafd6fd92242ae81f17c24bc8f59f69e4c87aaa44c337284293ab1d4b66dc49d8fed1b\"\r\n    },\r\n    \"codeName\": \"Mhnramin\"\r\n}",
     "project": "Governance",
     "tokenPowerSwitch": {
         "type": "Token Power Switch",
         "name": "New Token Power Switch",
-        "config": "{}",
+        "config": "{\r\n    \"percentage\": 0\r\n}",
         "project": "Governance",
         "tokenPowerSwitch": [],
         "onboardingPrograms": {
@@ -2148,9 +2148,9 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x1cbb56730ae7d49efe4b29bf4d4c2e7e92dce1e6a1f23eb1dc4c026756528dbe\",\n        \"s\": \"0x56c8c762cb41b5f3a92aebffc8b4edb9d835588388d8d9db80065bbc8f089962\",\n        \"signature\": \"0x1cbb56730ae7d49efe4b29bf4d4c2e7e92dce1e6a1f23eb1dc4c026756528dbe56c8c762cb41b5f3a92aebffc8b4edb9d835588388d8d9db80065bbc8f0899621c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xa3262dcef9bd41807b4d9958ccc015c0e460d883758ea15086d1d4c76ae9dbd9\",\n        \"s\": \"0x67d1570d26daeb2ac9c6e40cf1e80f3925a749636b3f276fa9251c70e9d9a1ad\",\n        \"signature\": \"0xa3262dcef9bd41807b4d9958ccc015c0e460d883758ea15086d1d4c76ae9dbd967d1570d26daeb2ac9c6e40cf1e80f3925a749636b3f276fa9251c70e9d9a1ad1c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "334d36e1-e82a-4f32-ad35-6cedbef37630",
+                        "id": "d2bcf6b0-ad22-4177-946f-17699f34ea46",
                         "savedPayload": {
                             "position": {
                                 "x": 29568.10176243868,
@@ -2173,7 +2173,7 @@
                             }
                         }
                     },
-                    "id": "485db940-b045-479b-b089-b0c1d3df53ab",
+                    "id": "8e67d61a-a47a-43de-8708-874841235fe2",
                     "savedPayload": {
                         "position": {
                             "x": 29810.806860751163,
@@ -2198,7 +2198,7 @@
                 }
             ],
             "socialTradingServerApps": [],
-            "id": "5ad88c3b-85d0-4b75-9e08-ba0899586b86",
+            "id": "f91cd34a-65c5-4b38-a582-de3a73203843",
             "savedPayload": {
                 "position": {
                     "x": 30053.511959063646,
@@ -2221,7 +2221,7 @@
                 }
             }
         },
-        "id": "ac8d5531-ca2e-4194-b42a-a07d4b8e788a",
+        "id": "89759bdf-6c66-4126-94ab-ec45b786a96d",
         "savedPayload": {
             "position": {
                 "x": 30296.21705737613,
@@ -2257,15 +2257,15 @@
             "socialTradingBots": [
                 {
                     "type": "Social Trading Bot",
-                    "name": "Social Trading Bot #1",
+                    "name": "New Social Trading Bot",
                     "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"handle\": \"Mhnramin-Social-Trading-Bot-1\"\n}",
                     "project": "Social-Trading",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xbd7dff7c127f85e648672a8fbf92d0f0eb9b9b62c0b8f5bb82d278468ef7717b\",\n        \"s\": \"0x39dd9732fb2e3a7e06a8149a2eec7e6c1b9b0b2a3c16b5a956fbaac602949122\",\n        \"signature\": \"0xbd7dff7c127f85e648672a8fbf92d0f0eb9b9b62c0b8f5bb82d278468ef7717b39dd9732fb2e3a7e06a8149a2eec7e6c1b9b0b2a3c16b5a956fbaac6029491221b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x13c805cadc3ccc6e6f57a55e2261ca0f026ef7fbd94269840c2c624ae1c0ddf5\",\n        \"s\": \"0x31498890c06c6b3f82371dde14ed74906ef0e682640b0d375190672a06801f72\",\n        \"signature\": \"0x13c805cadc3ccc6e6f57a55e2261ca0f026ef7fbd94269840c2c624ae1c0ddf531498890c06c6b3f82371dde14ed74906ef0e682640b0d375190672a06801f721b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "0a0823ba-b41d-412e-a01b-a8e356c26749",
+                        "id": "4a3a3468-40ae-413e-bb69-cd436fe97b54",
                         "savedPayload": {
                             "position": {
                                 "x": 29536.743223458383,
@@ -2293,7 +2293,7 @@
                             "type": "Followed Bot Reference",
                             "name": "Base Soaring - Social Trading Bot",
                             "project": "Social-Trading",
-                            "id": "b63c9237-7c4c-4371-b127-ebba445f50a2",
+                            "id": "5b3b77b4-4ec1-496a-9239-88aa11cac01c",
                             "savedPayload": {
                                 "position": {
                                     "x": 29842.16539973146,
@@ -2340,7 +2340,7 @@
                             }
                         }
                     ],
-                    "id": "914b41a3-7193-4789-aee2-dbd3a0ff9835",
+                    "id": "f038bfab-434a-43e7-9de5-b3925568ef6b",
                     "savedPayload": {
                         "position": {
                             "x": 29810.806860751163,
@@ -2364,7 +2364,7 @@
                     }
                 }
             ],
-            "id": "94fe3fea-7807-4375-b7d5-f86f2e7cc2ee",
+            "id": "1c121e37-4f25-4d71-a998-b181becf3c1e",
             "savedPayload": {
                 "position": {
                     "x": 30053.511959063646,
@@ -2387,7 +2387,7 @@
                 }
             }
         },
-        "id": "6c3f4a99-ecc2-40cd-858c-9627e1e6e5e0",
+        "id": "0e1a464c-49c2-435c-beba-532621447615",
         "savedPayload": {
             "position": {
                 "x": 30296.21705737613,
@@ -2413,7 +2413,7 @@
     "forecastsProviders": {
         "type": "Forecasts Providers",
         "name": "New Forecasts Providers",
-        "config": "{}",
+        "config": "{\r\n    \"percentage\": 0\r\n}",
         "project": "Governance",
         "bitcoinFactoryForecasts": [
             {
