@@ -2148,9 +2148,9 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x38282a053d71c156854344be34613cd5c8b562c9103425670e926e2975a518ca\",\n        \"s\": \"0x20c3f239d53f3200666b7c439b9caf8bafdf5a0d4e185859a093aca1d4f0d967\",\n        \"signature\": \"0x38282a053d71c156854344be34613cd5c8b562c9103425670e926e2975a518ca20c3f239d53f3200666b7c439b9caf8bafdf5a0d4e185859a093aca1d4f0d9671b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xcd161c02f4db2d41919ca1d55de0926689c6737c0e2f4508e0b6a129f669814c\",\n        \"s\": \"0x72ef6d60ea600fa74220d0b3f8422324bc56bf65a3152b3f8dcf5bf799a68515\",\n        \"signature\": \"0xcd161c02f4db2d41919ca1d55de0926689c6737c0e2f4508e0b6a129f669814c72ef6d60ea600fa74220d0b3f8422324bc56bf65a3152b3f8dcf5bf799a685151b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "fbb46925-1724-432a-aa3c-9900d8404bf6",
+                        "id": "5eaa47b1-e689-4634-b536-6898095c22e8",
                         "savedPayload": {
                             "position": {
                                 "x": 29568.10176243868,
@@ -2263,9 +2263,9 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x36d5f02b5dede84f865a1ceea0944be888bdc7c0d400b58300541c0923895761\",\n        \"s\": \"0x5c225c6d3422cc9d44725bf419ef3b14788f036bdbeb0ef2e893fddbe008502b\",\n        \"signature\": \"0x36d5f02b5dede84f865a1ceea0944be888bdc7c0d400b58300541c09238957615c225c6d3422cc9d44725bf419ef3b14788f036bdbeb0ef2e893fddbe008502b1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x4812549f680ae0e51368bbb0bea58b99d73474fb4d2ba8b96ef1695d7d78f4a5\",\n        \"s\": \"0x3b50f821f71b8a0b24cbb1c9e819283a5fc251ff9beb28fe04a7cb24b22804d3\",\n        \"signature\": \"0x4812549f680ae0e51368bbb0bea58b99d73474fb4d2ba8b96ef1695d7d78f4a53b50f821f71b8a0b24cbb1c9e819283a5fc251ff9beb28fe04a7cb24b22804d31b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "f81f2984-71cc-4f84-bf12-ee6c179d5acd",
+                        "id": "3edcbe2e-40b4-4615-984c-d64031deadc6",
                         "savedPayload": {
                             "position": {
                                 "x": 29748.08978279057,
@@ -2371,9 +2371,9 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x40d5fd7b75b651b6032e5ca5701b27c21e756ac6cbc3272c10101134ac0598a0\",\n        \"s\": \"0x5f5b3b7ff9278ab61fba9e963fcc02502c1c823283377912fca08d51dbb2db45\",\n        \"signature\": \"0x40d5fd7b75b651b6032e5ca5701b27c21e756ac6cbc3272c10101134ac0598a05f5b3b7ff9278ab61fba9e963fcc02502c1c823283377912fca08d51dbb2db451b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x94c137fa582c2764e31cbff4f6165e8f2e880e6f7949ad0fe629f194684274c2\",\n        \"s\": \"0x39cd57b0165d4e21a4b0910c32b6b38801963899ada5f9f67edd667dfd50b05a\",\n        \"signature\": \"0x94c137fa582c2764e31cbff4f6165e8f2e880e6f7949ad0fe629f194684274c239cd57b0165d4e21a4b0910c32b6b38801963899ada5f9f67edd667dfd50b05a1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "ea509c66-3675-405d-a120-6ae1e0e1ffe0",
+                        "id": "923004ff-ae65-4d32-af2f-88be8be2da89",
                         "savedPayload": {
                             "position": {
                                 "x": 29842.16539973146,
