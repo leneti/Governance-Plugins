@@ -2148,13 +2148,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x26ceb410643e539d13fa7a06dd40346f95173064c2c1111e247d43056e3c369b\",\n        \"s\": \"0x6b799a040fd790ebd9a539ee29c119224cb7617a5ad11a7f521370f1e05608ca\",\n        \"signature\": \"0x26ceb410643e539d13fa7a06dd40346f95173064c2c1111e247d43056e3c369b6b799a040fd790ebd9a539ee29c119224cb7617a5ad11a7f521370f1e05608ca1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x06048ffa6ade68a03e6725bfb2c6d5c21b648db3ae42fe266fbd8d6e5d009858\",\n        \"s\": \"0x0c47348cdef9694b6b63397fc8ae2faabdaf5f3a55908bbcc48aec825eed0ff4\",\n        \"signature\": \"0x06048ffa6ade68a03e6725bfb2c6d5c21b648db3ae42fe266fbd8d6e5d0098580c47348cdef9694b6b63397fc8ae2faabdaf5f3a55908bbcc48aec825eed0ff41b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "32d6f2fe-b966-42a7-8473-92adb2a6c547",
+                        "id": "3fef52c3-06db-4c50-8f7d-9fb4611ef95c",
                         "savedPayload": {
                             "position": {
-                                "x": 29212.88470506255,
-                                "y": 24109.006727063228
+                                "x": 29245.88470506255,
+                                "y": 24142.006727063228
                             },
                             "targetPosition": {
                                 "x": 29271.88470506255,
@@ -2263,13 +2263,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x2cd8351f30d9980101cfb763835e8ce15b5c7ee1917de5dcc67adca31a8d65dd\",\n        \"s\": \"0x4f010111d3480fbeff495ba531602ad0972014577525537136c856a1a9306ae6\",\n        \"signature\": \"0x2cd8351f30d9980101cfb763835e8ce15b5c7ee1917de5dcc67adca31a8d65dd4f010111d3480fbeff495ba531602ad0972014577525537136c856a1a9306ae61c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x162e14e786a34efd88b19e2d94c41798f7fa3cddc14883f0462dea11ba5013e6\",\n        \"s\": \"0x6a18c667f6a6de2949c2b19735d8423b83dedcd42a062c93d71a9ab4596147c9\",\n        \"signature\": \"0x162e14e786a34efd88b19e2d94c41798f7fa3cddc14883f0462dea11ba5013e66a18c667f6a6de2949c2b19735d8423b83dedcd42a062c93d71a9ab4596147c91b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "71ca459f-bafc-49a2-95c4-1ee5b68a7fcc",
+                        "id": "e2c5a380-f5d5-43e6-9530-55a04eaefa72",
                         "savedPayload": {
                             "position": {
-                                "x": 29295.88470506255,
-                                "y": 23046.993272936772
+                                "x": 29273.88470506255,
+                                "y": 23104.993272936772
                             },
                             "targetPosition": {
                                 "x": 29271.88470506255,
