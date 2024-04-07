@@ -26,12 +26,12 @@
                     "id": "67ee73b3-4abc-4094-b037-a590c4dc3b44",
                     "savedPayload": {
                         "position": {
-                            "x": 30896.1955107912,
-                            "y": 37160.581764466544
+                            "x": 30807.142857142862,
+                            "y": 37140.19237886467
                         },
                         "targetPosition": {
-                            "x": 30864.836971810902,
-                            "y": 37458.93833307703
+                            "x": 30807.142857142862,
+                            "y": 37440.19237886467
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -49,12 +49,12 @@
                 "id": "6b8504e2-a3c0-4fcf-819d-044784b98278",
                 "savedPayload": {
                     "position": {
-                        "x": 30864.836971810902,
-                        "y": 37458.93833307703
+                        "x": 30807.142857142862,
+                        "y": 37440.19237886467
                     },
                     "targetPosition": {
-                        "x": 30833.478432830605,
-                        "y": 37757.29490168751
+                        "x": 30807.142857142862,
+                        "y": 37740.19237886467
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -81,12 +81,12 @@
                     "id": "b8d23574-54be-4fa6-806a-93db15e902d4",
                     "savedPayload": {
                         "position": {
-                            "x": 31107.54207012339,
-                            "y": 37635.27390876477
+                            "x": 31066.950478278195,
+                            "y": 37590.19237886467
                         },
                         "targetPosition": {
-                            "x": 30970.510251476997,
-                            "y": 37696.28440522614
+                            "x": 30937.04666771053,
+                            "y": 37665.19237886467
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -104,12 +104,12 @@
                 "id": "cb683e50-745d-4028-b77a-6b297c68ef82",
                 "savedPayload": {
                     "position": {
-                        "x": 30970.510251476997,
-                        "y": 37696.28440522614
+                        "x": 30937.04666771053,
+                        "y": 37665.19237886467
                     },
                     "targetPosition": {
-                        "x": 30833.478432830605,
-                        "y": 37757.29490168751
+                        "x": 30807.142857142862,
+                        "y": 37740.19237886467
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -525,11 +525,59 @@
                 "positionClaimsFolders": [
                     {
                         "type": "Position Claims Folder",
-                        "name": "New Position Claims Folder",
+                        "name": "March 2024 Position Class",
                         "config": "{}",
                         "project": "Governance",
                         "positionClaimsFolders": [],
-                        "positionContributionClaims": [],
+                        "positionContributionClaims": [
+                            {
+                                "type": "Position Contribution Claim",
+                                "name": "Translations Team March 2024",
+                                "config": "{}",
+                                "project": "Governance",
+                                "id": "1c5f6e2f-9313-4bfe-a24b-9b7144b06ebb",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 31816.950478278195,
+                                        "y": 38150
+                                    },
+                                    "targetPosition": {
+                                        "x": 31516.950478278195,
+                                        "y": 38150
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 2,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    },
+                                    "referenceParent": {
+                                        "type": "Position",
+                                        "name": "Translations Team",
+                                        "id": "9307b88e-97e7-4302-bdcb-80c8d7dcb96d"
+                                    },
+                                    "referenceParentCombinedNodePath": [
+                                        [
+                                            "Teams of Contributors",
+                                            "Positions"
+                                        ],
+                                        [
+                                            "March 2024",
+                                            "Position Class"
+                                        ],
+                                        [
+                                            "Translations Team",
+                                            "Position"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
                         "id": "8d9d8806-6ae2-448e-8261-0c0d5fa26c5a",
                         "savedPayload": {
                             "position": {
@@ -550,7 +598,22 @@
                             },
                             "uiObject": {
                                 "isRunning": false
-                            }
+                            },
+                            "referenceParent": {
+                                "type": "Position Class",
+                                "name": "March 2024",
+                                "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
+                            },
+                            "referenceParentCombinedNodePath": [
+                                [
+                                    "Teams of Contributors",
+                                    "Positions"
+                                ],
+                                [
+                                    "March 2024",
+                                    "Position Class"
+                                ]
+                            ]
                         }
                     }
                 ],
