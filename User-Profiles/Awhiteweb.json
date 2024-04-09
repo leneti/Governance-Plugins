@@ -1446,13 +1446,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x08881a8b0c66770bd89a09d7e2d41ad40552fcf0ab57034c6e503150f739f591\",\n        \"s\": \"0x539807ac42cfd1105cbb0c354240262eaecf010677775ac8fc7b55abf8620ed4\",\n        \"signature\": \"0x08881a8b0c66770bd89a09d7e2d41ad40552fcf0ab57034c6e503150f739f591539807ac42cfd1105cbb0c354240262eaecf010677775ac8fc7b55abf8620ed41c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xd1252e4417a2c5d14fc002091000eb1120515dcca9ca91a6631f79a487880b9f\",\n        \"s\": \"0x1ce00361720b43293b6c98f556d635d15d5b391cf763c1d2be7624fd1f6d3f12\",\n        \"signature\": \"0xd1252e4417a2c5d14fc002091000eb1120515dcca9ca91a6631f79a487880b9f1ce00361720b43293b6c98f556d635d15d5b391cf763c1d2be7624fd1f6d3f121c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "c7cf424d-224d-4874-b07c-119b8b1d81bf",
+                        "id": "42c03812-f3c3-404e-8130-c7f98eb32a2d",
                         "savedPayload": {
                             "position": {
-                                "x": 37352.20421538821,
-                                "y": 29899.785135182632
+                                "x": 37050.66866022126,
+                                "y": 29532.10481803535
                             },
                             "targetPosition": {
                                 "x": 37041.66866022126,
@@ -1502,13 +1502,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Paper-Trading-Task-Server-App\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x60d52bc5109dddd11627b6c53067d39bd0bf6ab4924598c7c1aa81c3668d2f4d\",\n        \"s\": \"0x6a0f91e01e9c8a3c9185df3385098990b12672a4b4fdde24d856d8e6ae1869a9\",\n        \"signature\": \"0x60d52bc5109dddd11627b6c53067d39bd0bf6ab4924598c7c1aa81c3668d2f4d6a0f91e01e9c8a3c9185df3385098990b12672a4b4fdde24d856d8e6ae1869a91b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Paper-Trading-Task-Server-App\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x69d8978937d8a40b82b1114a427f0f593b7b4fe91568e47b9d2d20dc63f55b1d\",\n        \"s\": \"0x007d44cf9052050e841825f888504397bbb38442fdc752050f04b2c253d7bbae\",\n        \"signature\": \"0x69d8978937d8a40b82b1114a427f0f593b7b4fe91568e47b9d2d20dc63f55b1d007d44cf9052050e841825f888504397bbb38442fdc752050f04b2c253d7bbae1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "7ade6d48-6ee5-4b02-acd3-ea7940ac5375",
+                        "id": "7657a024-5b7e-4000-ab59-8c6a7517de5a",
                         "savedPayload": {
                             "position": {
-                                "x": 37143.53697460897,
-                                "y": 30048.376404677496
+                                "x": 37004.33503983164,
+                                "y": 29735.400452782782
                             },
                             "targetPosition": {
                                 "x": 36937.33503983164,
@@ -1558,13 +1558,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"local-broadcast-sta\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x12e783b03e9b9dd010945f7c4c6c0a81d18f2547df857ac82255cac3f0956451\",\n        \"s\": \"0x289b2fc2fa6839574ab921106fe76e94b6647b847accdf6eb91ceb13d85b19e6\",\n        \"signature\": \"0x12e783b03e9b9dd010945f7c4c6c0a81d18f2547df857ac82255cac3f0956451289b2fc2fa6839574ab921106fe76e94b6647b847accdf6eb91ceb13d85b19e61c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"local-broadcast-sta\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x891006dec6e1f9d9f768958d14c1f193b8c978a5b0d9ef8884e587596fc6feac\",\n        \"s\": \"0x773e55e532c29d427159018b667b6e130d31d8eebeb69150e3aa6b989c0e7b7a\",\n        \"signature\": \"0x891006dec6e1f9d9f768958d14c1f193b8c978a5b0d9ef8884e587596fc6feac773e55e532c29d427159018b667b6e130d31d8eebeb69150e3aa6b989c0e7b7a1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "748132b6-c3ab-441d-bb82-34b374829c98",
+                        "id": "85841443-ea6e-4bb3-8730-a9273e38498d",
                         "savedPayload": {
                             "position": {
-                                "x": 36901.45922497868,
-                                "y": 30132.160328424507
+                                "x": 36910.296165016494,
+                                "y": 29661.292414656287
                             },
                             "targetPosition": {
                                 "x": 36816.296165016494,
@@ -1614,13 +1614,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-4\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x7dc208260c31f62545b6fafab0c5a30813c86267d1796ddb2682397ffc11a38e\",\n        \"s\": \"0x321292a07673b9b3c055056e1624c27dd313dbe401f740b8528df6e61dfbc9de\",\n        \"signature\": \"0x7dc208260c31f62545b6fafab0c5a30813c86267d1796ddb2682397ffc11a38e321292a07673b9b3c055056e1624c27dd313dbe401f740b8528df6e61dfbc9de1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-4\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xbf1013fb8d6e211079871105867044c51d43a6bb06ee04486ce5171fb737e24d\",\n        \"s\": \"0x08e1def007fbc1cd635e63822bfab8fadc54c67029426a40d3df8a0f34b4b18a\",\n        \"signature\": \"0xbf1013fb8d6e211079871105867044c51d43a6bb06ee04486ce5171fb737e24d08e1def007fbc1cd635e63822bfab8fadc54c67029426a40d3df8a0f34b4b18a1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "9796a037-4c6d-430f-bb3f-82d64d8539eb",
+                        "id": "d0c51560-6ba9-45a4-a125-aa100ef6212f",
                         "savedPayload": {
                             "position": {
-                                "x": 36645.58266608055,
-                                "y": 30144.349231203843
+                                "x": 36590.35788556743,
+                                "y": 29619.386866045956
                             },
                             "targetPosition": {
                                 "x": 36688.35788556743,
@@ -1670,13 +1670,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"a_21b-task-server-app\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x993d51164f00f9bb57b8fbeb173b8eb294724ee83480ce1c3e41bcc05b604947\",\n        \"s\": \"0x42d71ba0ead18c95e526280923c2799912c0542c749621b92c89166651feaa6c\",\n        \"signature\": \"0x993d51164f00f9bb57b8fbeb173b8eb294724ee83480ce1c3e41bcc05b60494742d71ba0ead18c95e526280923c2799912c0542c749621b92c89166651feaa6c1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"a_21b-task-server-app\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x1c371c504a310241608f889f01e94b01645dad4fb3f07013c66016fabde6bf32\",\n        \"s\": \"0x604e469e48e381384ae35541c9bacdeb600269faaf05f446d6a84478d67af43a\",\n        \"signature\": \"0x1c371c504a310241608f889f01e94b01645dad4fb3f07013c66016fabde6bf32604e469e48e381384ae35541c9bacdeb600269faaf05f446d6a84478d67af43a1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "4519747f-e3ec-42d7-beb8-d83b179e2424",
+                        "id": "a5bfe49c-4657-42ca-b03c-4c534b28954c",
                         "savedPayload": {
                             "position": {
-                                "x": 36396.636894960015,
-                                "y": 30083.955640602537
+                                "x": 36525.88500000716,
+                                "y": 29611.190070745302
                             },
                             "targetPosition": {
                                 "x": 36563.88500000716,
@@ -1728,13 +1728,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xc85fa56d8141ed4c733a4d35737fec94591c13341af6a5cec9eaad4ff8a81a3b\",\n        \"s\": \"0x1d6ef44d368418b17ec033f43eac8be67a07ced6be0bc2bf999a15051571b6e2\",\n        \"signature\": \"0xc85fa56d8141ed4c733a4d35737fec94591c13341af6a5cec9eaad4ff8a81a3b1d6ef44d368418b17ec033f43eac8be67a07ced6be0bc2bf999a15051571b6e21b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x25096133e4b3f8de1132bc3826d1650b644ccdb5c7ef4d0ae97cb9f04d89f8bb\",\n        \"s\": \"0x2479b93b2dd9fb49456a416b120354ef098fccfbb2a5b80d72830c355c36a9ea\",\n        \"signature\": \"0x25096133e4b3f8de1132bc3826d1650b644ccdb5c7ef4d0ae97cb9f04d89f8bb2479b93b2dd9fb49456a416b120354ef098fccfbb2a5b80d72830c355c36a9ea1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "d3628e8f-957e-43e3-90e2-ddfc58905335",
+                        "id": "193a960d-b504-4660-9220-6fddf38eba99",
                         "savedPayload": {
                             "position": {
-                                "x": 36174.79001745576,
-                                "y": 29955.872286156577
+                                "x": 36505.96156125503,
+                                "y": 29551.148393522322
                             },
                             "targetPosition": {
                                 "x": 36452.96156125503,
@@ -1784,13 +1784,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Server-App-2\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x703e5507210b45b54416aea2d703066ece601dd266ec384be1751fcc66b46a86\",\n        \"s\": \"0x31642b31c63c5ee402049edc959c6e259afb2baf61d7aca89d717965214c2bb3\",\n        \"signature\": \"0x703e5507210b45b54416aea2d703066ece601dd266ec384be1751fcc66b46a8631642b31c63c5ee402049edc959c6e259afb2baf61d7aca89d717965214c2bb31c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Server-App-2\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x3b7b77b727f83c10c89be70c58d12ee1ed8126f87f6ece44fa5b5afd18cc260b\",\n        \"s\": \"0x4dc68f487780bb9d090219452f43a5fd86caa1a0fbff496652b58e9a11c51349\",\n        \"signature\": \"0x3b7b77b727f83c10c89be70c58d12ee1ed8126f87f6ece44fa5b5afd18cc260b4dc68f487780bb9d090219452f43a5fd86caa1a0fbff496652b58e9a11c513491c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "ee81dded-6c8a-457c-a8a1-7399245439e7",
+                        "id": "b94590c1-d492-4832-9b2d-9a7c94a2963f",
                         "savedPayload": {
                             "position": {
-                                "x": 35998.01474820901,
-                                "y": 29770.475719502145
+                                "x": 36413.57392663166,
+                                "y": 29574.450110195106
                             },
                             "targetPosition": {
                                 "x": 36364.57392663166,
@@ -1840,13 +1840,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Server-App-3\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xd179270c6e643f0c37d30ef89748c5f5a4141d598cb1f7ee1c09a73171d935d9\",\n        \"s\": \"0x71feebb841c2dc9bfdc197db14d50a58cdfe4e13f2a3f9ff125ea374c741dd27\",\n        \"signature\": \"0xd179270c6e643f0c37d30ef89748c5f5a4141d598cb1f7ee1c09a73171d935d971feebb841c2dc9bfdc197db14d50a58cdfe4e13f2a3f9ff125ea374c741dd271c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Server-App-3\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xf0add3160e108f854425f5724be468e20686a1febb724f96ad5b3445f05f3373\",\n        \"s\": \"0x084df83174de879dd147f8c19bb4342ce69b80c35916cae666a868a702938c8c\",\n        \"signature\": \"0xf0add3160e108f854425f5724be468e20686a1febb724f96ad5b3445f05f3373084df83174de879dd147f8c19bb4342ce69b80c35916cae666a868a702938c8c1c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "698a1bee-68d2-4ffd-81c7-050c9fb3839f",
+                        "id": "6efd2bac-4c35-4b0d-a944-38181cd101c4",
                         "savedPayload": {
                             "position": {
-                                "x": 35880.63236821111,
-                                "y": 29542.785667873744
+                                "x": 36348.88273663271,
+                                "y": 29395.605084380906
                             },
                             "targetPosition": {
                                 "x": 36305.88273663271,
@@ -1896,13 +1896,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"localhost\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xc241566212d30091bc3f6e4d8d2d1be0f6a2328516d65125e8306115a045cbe5\",\n        \"s\": \"0x3fd1c9f7884df8029ed10517a2272cb7d8a3d0cf92ec6d01279dc7c02c71f3a0\",\n        \"signature\": \"0xc241566212d30091bc3f6e4d8d2d1be0f6a2328516d65125e8306115a045cbe53fd1c9f7884df8029ed10517a2272cb7d8a3d0cf92ec6d01279dc7c02c71f3a01b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"localhost\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x680e4a02b8fb2c66085b4eb6b11561735de58eea660ef1fac43def3ac851217e\",\n        \"s\": \"0x2f43e0fae1fd4d494ec519f6aaba9d64245211b3ed90a44916ce6988c5a9be01\",\n        \"signature\": \"0x680e4a02b8fb2c66085b4eb6b11561735de58eea660ef1fac43def3ac851217e2f43e0fae1fd4d494ec519f6aaba9d64245211b3ed90a44916ce6988c5a9be011c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "bb8cbe0b-268f-4fd5-8041-521a9b756e30",
+                        "id": "4f3271f3-dfab-45f4-9e2b-b4135910d008",
                         "savedPayload": {
                             "position": {
-                                "x": 35832.152499789605,
-                                "y": 29291.248225129435
+                                "x": 36182.64280242196,
+                                "y": 29310.83636300875
                             },
                             "targetPosition": {
                                 "x": 36281.64280242196,
@@ -1952,13 +1952,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"a_21b-social-trading-server-app\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x5ad900bd4ef38420e938f739a24c6374e1abac3fe31fd0753f7e9d1a07acfa80\",\n        \"s\": \"0x293ff4d6b54a35f44839dbc7ce7070c23c47e2f908d40b5f1d5781c4b528f21a\",\n        \"signature\": \"0x5ad900bd4ef38420e938f739a24c6374e1abac3fe31fd0753f7e9d1a07acfa80293ff4d6b54a35f44839dbc7ce7070c23c47e2f908d40b5f1d5781c4b528f21a1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"a_21b-social-trading-server-app\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x4a5e71a1d84548a866ce12fdb760c0504c840e1bc93856b15a5d3e49c96bb2e1\",\n        \"s\": \"0x60f557bc830d5a26c2f64b94815d1178529cfc2054b8cdc5718b2fc90ef39eb9\",\n        \"signature\": \"0x4a5e71a1d84548a866ce12fdb760c0504c840e1bc93856b15a5d3e49c96bb2e160f557bc830d5a26c2f64b94815d1178529cfc2054b8cdc5718b2fc90ef39eb91b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "1fe8da3f-eb47-460c-94cf-2da67438368d",
+                        "id": "6d2b874c-fa3d-4069-8ed4-b4db0a0bdcab",
                         "savedPayload": {
                             "position": {
-                                "x": 35856.50269356312,
-                                "y": 29036.24145892958
+                                "x": 36263.81789930871,
+                                "y": 29220.332979908824
                             },
                             "targetPosition": {
                                 "x": 36293.81789930871,
@@ -2066,17 +2066,17 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x4752642ce516f43716019f009c07faaef236cc681719534dbbc7395827141859\",\n        \"s\": \"0x4279e25c02d18405bae5f009d26c695cc56872af3954f7b7a53496ccea4f0440\",\n        \"signature\": \"0x4752642ce516f43716019f009c07faaef236cc681719534dbbc73958271418594279e25c02d18405bae5f009d26c695cc56872af3954f7b7a53496ccea4f04401b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xfcc756dde1af7a4c63fe9d2b24d9eabad5d3e7b2c8f336b02caaa7be5f763085\",\n        \"s\": \"0x1745042c40e4736d89d5b650a85607fd8bcfa20fc8b0cdfa647642ed69eb6cc1\",\n        \"signature\": \"0xfcc756dde1af7a4c63fe9d2b24d9eabad5d3e7b2c8f336b02caaa7be5f7630851745042c40e4736d89d5b650a85607fd8bcfa20fc8b0cdfa647642ed69eb6cc11b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "e9dc334e-8a86-44d2-819e-22efd80c7529",
+                        "id": "66d37747-1348-40a5-8c85-178f575bdf5f",
                         "savedPayload": {
                             "position": {
-                                "x": 68229.90198309986,
-                                "y": 25735.74272237217
+                                "x": 36122.13310505431,
+                                "y": 29052.616879752735
                             },
                             "targetPosition": {
-                                "x": 68163.90198309986,
-                                "y": 25683.74272237217
+                                "x": 36131.13310505431,
+                                "y": 28988.616879752735
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2776,13 +2776,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Paper-Trading-Social-Trading-Bot\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xa3e314ff80e41f9cb835bb77dc5cfedf81147adbd04624c6b70a6639d97b0823\",\n        \"s\": \"0x302b10d3c05201b163006fe1553a71164e7859c731458d8951979349aadde97b\",\n        \"signature\": \"0xa3e314ff80e41f9cb835bb77dc5cfedf81147adbd04624c6b70a6639d97b0823302b10d3c05201b163006fe1553a71164e7859c731458d8951979349aadde97b1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Paper-Trading-Social-Trading-Bot\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xd4dcde19b85b506db101f43439665b6de833079285068b117b0ece48dd59c24e\",\n        \"s\": \"0x1ebe64c673e4e6df723d9d44e350a27d4929829914c4fd7d32798b4c4ea13590\",\n        \"signature\": \"0xd4dcde19b85b506db101f43439665b6de833079285068b117b0ece48dd59c24e1ebe64c673e4e6df723d9d44e350a27d4929829914c4fd7d32798b4c4ea135901b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "85c65622-4645-434f-ba78-85b176c5607f",
+                        "id": "f2905d69-e170-41cf-bb32-6acb0387173b",
                         "savedPayload": {
                             "position": {
-                                "x": 35919.38386488087,
-                                "y": 29271.44030096546
+                                "x": 35949.42167335131,
+                                "y": 28884.905448049736
                             },
                             "targetPosition": {
                                 "x": 35966.42167335131,
@@ -3514,17 +3514,17 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"local-broadcast-stb\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x5f1d3db9b36eac7f671843c58ad809036cce01db5e88e86a2650c7348974fcbc\",\n        \"s\": \"0x68456436be14952a03c9b44f3ce8ec0386a4ecf911ff2a0cb7a1de17d7e50355\",\n        \"signature\": \"0x5f1d3db9b36eac7f671843c58ad809036cce01db5e88e86a2650c7348974fcbc68456436be14952a03c9b44f3ce8ec0386a4ecf911ff2a0cb7a1de17d7e503551c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"local-broadcast-stb\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x0f16deccc04d0f2a26790a8d681c94542c883afe51180005d209fb419c6c5bf0\",\n        \"s\": \"0x54806d0536f38c8c0a7d883dfe432836143651c95ab27fdef5e9aa6d7ad40bbf\",\n        \"signature\": \"0x0f16deccc04d0f2a26790a8d681c94542c883afe51180005d209fb419c6c5bf054806d0536f38c8c0a7d883dfe432836143651c95ab27fdef5e9aa6d7ad40bbf1c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "2bf32d7f-2daa-4e10-9fbe-92ab82486279",
+                        "id": "4cca4f6a-0b79-49e2-8d14-bf4006976b34",
                         "savedPayload": {
                             "position": {
-                                "x": 68046.90198309986,
-                                "y": 25329.93510123684
+                                "x": 35940.13310505431,
+                                "y": 28651.905448049736
                             },
                             "targetPosition": {
-                                "x": 68013.90198309986,
-                                "y": 25423.93510123684
+                                "x": 35906.13310505431,
+                                "y": 28598.905448049736
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -5409,17 +5409,17 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-4\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x6dd0558bf8978248f984ca10447fcc556d727d65bbe8150d4fb0f61dc41b1552\",\n        \"s\": \"0x57e8a923924aeccd930dad4e64abab31d30f5293590d97ddb4d8d294ee9ff805\",\n        \"signature\": \"0x6dd0558bf8978248f984ca10447fcc556d727d65bbe8150d4fb0f61dc41b155257e8a923924aeccd930dad4e64abab31d30f5293590d97ddb4d8d294ee9ff8051c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-4\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x6c398d7a88d7b5376aa7143295738d900e35f9bd29421524c2be28a31b5a63e9\",\n        \"s\": \"0x4e7eb6808be257690ec43fad4a1edbaf3e6f0cc20aaf0d4d7e95bc3947e4a199\",\n        \"signature\": \"0x6c398d7a88d7b5376aa7143295738d900e35f9bd29421524c2be28a31b5a63e94e7eb6808be257690ec43fad4a1edbaf3e6f0cc20aaf0d4d7e95bc3947e4a1991b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "4883b67f-6985-4f1d-b4e9-b17fd009a538",
+                        "id": "70ec7fc2-a6a9-49e7-b5fd-f3ff7e4df9e0",
                         "savedPayload": {
                             "position": {
-                                "x": 68069.09436196453,
-                                "y": 25368.93510123684
+                                "x": 35881.42167335131,
+                                "y": 28425.905448049736
                             },
                             "targetPosition": {
-                                "x": 68054.09436196453,
-                                "y": 25273.93510123684
+                                "x": 35966.42167335131,
+                                "y": 28373.905448049736
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -5517,13 +5517,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"A_21B-Social-Trading-Bot\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xcf32217ba5caf18ff012482a000727a7f28e84b49ce7b2d433070b92e2247221\",\n        \"s\": \"0x76471d8af77a1a55e5d8bc1376df81b5a922d386940837894bba539143d8349f\",\n        \"signature\": \"0xcf32217ba5caf18ff012482a000727a7f28e84b49ce7b2d433070b92e224722176471d8af77a1a55e5d8bc1376df81b5a922d386940837894bba539143d8349f1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"A_21B-Social-Trading-Bot\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xfa7b722cbf6eecb42b9dd5736702828c379c7995e462bde5c73d56dc86410d83\",\n        \"s\": \"0x474a106f255e81f33d72b557604ccfe0c770e7ad76c0122cc1788dd4f9c9a894\",\n        \"signature\": \"0xfa7b722cbf6eecb42b9dd5736702828c379c7995e462bde5c73d56dc86410d83474a106f255e81f33d72b557604ccfe0c770e7ad76c0122cc1788dd4f9c9a8941b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "ba626dae-7ba0-4346-a4a3-c70d1f0dd868",
+                        "id": "b3e962d0-3df3-4d4b-9a0c-da4f361da662",
                         "savedPayload": {
                             "position": {
-                                "x": 35774.124101923255,
-                                "y": 27935.251373292813
+                                "x": 36141.13310505431,
+                                "y": 28294.194016346737
                             },
                             "targetPosition": {
                                 "x": 36131.13310505431,
@@ -6112,13 +6112,13 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"P2P-Local-Network-Node\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x533f16fe1b56ac58c313d1ef3eb85cc86d2601a974e66bb8e1ecf40702e2fc56\",\n        \"s\": \"0x30897d2b32b8bccace2b647e7c0b4768ce91a847a29e01c3668659aad70415c9\",\n        \"signature\": \"0x533f16fe1b56ac58c313d1ef3eb85cc86d2601a974e66bb8e1ecf40702e2fc5630897d2b32b8bccace2b647e7c0b4768ce91a847a29e01c3668659aad70415c91b\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"P2P-Local-Network-Node\",\n    \"signature\": {\n        \"message\": \"Awhiteweb\",\n        \"messageHash\": \"0xf2265d4eba3c0e628d643eae400f60c031e19f74ab009f55f9dfc089b9a08146\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xac43185b3de886115a13404a239f3a9b2b6daf09ade19a96ba4fd10eb338b69d\",\n        \"s\": \"0x3c5d1bea678fba946cb0a864a043e63f87f0a1778a3bc7ac6b9e4befdc51b147\",\n        \"signature\": \"0xac43185b3de886115a13404a239f3a9b2b6daf09ade19a96ba4fd10eb338b69d3c5d1bea678fba946cb0a864a043e63f87f0a1778a3bc7ac6b9e4befdc51b1471b\"\n    }\n}",
                     "project": "Governance",
-                    "id": "7210a086-bc91-4acb-afb9-6ec130807440",
+                    "id": "41a875a9-14dc-4ca7-a56c-955bc3144520",
                     "savedPayload": {
                         "position": {
-                            "x": 36507.776536443824,
-                            "y": 28047.931666798773
+                            "x": 36883.13310505431,
+                            "y": 28045.29020577907
                         },
                         "targetPosition": {
                             "x": 36806.13310505431,
