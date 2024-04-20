@@ -2148,13 +2148,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xfa10b6ea94e8dfa0cf31ae9fa77ec3c9369c869565352de8aa52aaddc17ce6f1\",\n        \"s\": \"0x61b3a8824049d84c9e28666c8a580ea83c610366b918e1148600d613a759b352\",\n        \"signature\": \"0xfa10b6ea94e8dfa0cf31ae9fa77ec3c9369c869565352de8aa52aaddc17ce6f161b3a8824049d84c9e28666c8a580ea83c610366b918e1148600d613a759b3521c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xd10b645db7d98e19ded7363bc73405aae58dbb6d357754b2c991a25bad6bbbe2\",\n        \"s\": \"0x7aadf6028853e47ca0881e0a378330bb318288a69186415465b0a1dce50da7d2\",\n        \"signature\": \"0xd10b645db7d98e19ded7363bc73405aae58dbb6d357754b2c991a25bad6bbbe27aadf6028853e47ca0881e0a378330bb318288a69186415465b0a1dce50da7d21b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "996a7e7c-0e17-4c71-b852-a6df58059eba",
+                        "id": "50839176-4cb7-496e-a494-9bde7a8917f3",
                         "savedPayload": {
                             "position": {
-                                "x": 29348.88470506255,
-                                "y": 24218.006727063228
+                                "x": 29029.17960675007,
+                                "y": 24305.34230275097
                             },
                             "targetPosition": {
                                 "x": 29271.88470506255,
@@ -2173,7 +2173,7 @@
                             }
                         }
                     },
-                    "id": "082515ca-f317-4b11-8cbc-31b9446a2e1d",
+                    "id": "7b204238-9136-4cba-8fbe-c4e8236603c3",
                     "savedPayload": {
                         "position": {
                             "x": 29271.88470506255,
@@ -2263,13 +2263,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xff1116c85db519d2692b144f5ca3c003e1c45bb7d589973153e68de779360541\",\n        \"s\": \"0x66808c94da24851641ba494ee6bea700cc1519bd44921d9ff86529966d4c7ede\",\n        \"signature\": \"0xff1116c85db519d2692b144f5ca3c003e1c45bb7d589973153e68de77936054166808c94da24851641ba494ee6bea700cc1519bd44921d9ff86529966d4c7ede1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x30175e791d37fa1d2706c0b58dbcf8a117aca974cf6adf47202be879391e7cc0\",\n        \"s\": \"0x4833a6cdf56900c1f8bb3da05346a2446c547f2919434c922e575ff18cca76a0\",\n        \"signature\": \"0x30175e791d37fa1d2706c0b58dbcf8a117aca974cf6adf47202be879391e7cc04833a6cdf56900c1f8bb3da05346a2446c547f2919434c922e575ff18cca76a01c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "74cd0970-58f2-4c66-906c-303f0d98deaf",
+                        "id": "bb1c5b01-9b99-423d-8d25-cb5f0964ee1b",
                         "savedPayload": {
                             "position": {
-                                "x": 29296.88470506255,
-                                "y": 23071.993272936772
+                                "x": 28997.82106776977,
+                                "y": 23193.01426585951
                             },
                             "targetPosition": {
                                 "x": 29271.88470506255,
@@ -2293,11 +2293,11 @@
                             "type": "Followed Bot Reference",
                             "name": "Base Soaring - Social Trading Bot",
                             "project": "Social-Trading",
-                            "id": "d4fdbb3d-1906-4955-90d1-95acfb08891a",
+                            "id": "53cd2673-3ac6-41d2-846c-1d27fe5fa99c",
                             "savedPayload": {
                                 "position": {
-                                    "x": 29029.17960675007,
-                                    "y": 22894.65769724903
+                                    "x": 29303.24324404285,
+                                    "y": 22772.63670432629
                                 },
                                 "targetPosition": {
                                     "x": 29271.88470506255,
@@ -2340,7 +2340,7 @@
                             }
                         }
                     ],
-                    "id": "f038bfab-434a-43e7-9de5-b3925568ef6b",
+                    "id": "21576491-98b4-49a8-b703-2cb44f163fd9",
                     "savedPayload": {
                         "position": {
                             "x": 29271.88470506255,
