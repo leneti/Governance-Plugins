@@ -12,7 +12,7 @@
         "onboardingPrograms": {
             "type": "Onboarding Programs",
             "name": "New Onboarding Programs",
-            "config": "",
+            "config": "{\r\n    \"percentage\": 0\r\n}",
             "project": "Governance",
             "airdropProgram": {
                 "type": "Airdrop Program",
@@ -26,12 +26,12 @@
                     "id": "2604679d-241d-4ba4-b0f8-08e265e92d87",
                     "savedPayload": {
                         "position": {
-                            "x": 8278.691275167785,
-                            "y": 27707.596189432334
+                            "x": 7037.628742514969,
+                            "y": 37054.59618943233
                         },
                         "targetPosition": {
-                            "x": 8278.691275167785,
-                            "y": 28045.096189432334
+                            "x": 7037.628742514969,
+                            "y": 37392.09618943233
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -49,12 +49,12 @@
                 "id": "45053096-36eb-4796-a0bd-e52ee901f721",
                 "savedPayload": {
                     "position": {
-                        "x": 8278.691275167785,
-                        "y": 28045.096189432334
+                        "x": 7037.628742514969,
+                        "y": 37392.09618943233
                     },
                     "targetPosition": {
-                        "x": 8278.691275167785,
-                        "y": 28270.096189432334
+                        "x": 7037.628742514969,
+                        "y": 37617.09618943233
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -81,12 +81,12 @@
                     "id": "953dd4fe-7b1a-4dc0-bc32-5ed981a63e90",
                     "savedPayload": {
                         "position": {
-                            "x": 8765.830564796532,
-                            "y": 27988.846189432334
+                            "x": 7524.7680321437165,
+                            "y": 37335.84618943233
                         },
                         "targetPosition": {
-                            "x": 8473.546991019284,
-                            "y": 28157.596189432334
+                            "x": 7232.484458366468,
+                            "y": 37504.59618943233
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -104,12 +104,12 @@
                 "id": "46e87c59-018e-4aec-a03d-2de792b3ddb2",
                 "savedPayload": {
                     "position": {
-                        "x": 8473.546991019284,
-                        "y": 28157.596189432334
+                        "x": 7232.484458366468,
+                        "y": 37504.59618943233
                     },
                     "targetPosition": {
-                        "x": 8278.691275167785,
-                        "y": 28270.096189432334
+                        "x": 7037.628742514969,
+                        "y": 37617.09618943233
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -127,12 +127,12 @@
             "id": "6288bcac-8482-4619-8bb8-401f7fc6410a",
             "savedPayload": {
                 "position": {
-                    "x": 33558.333333333336,
-                    "y": 13870.096189432335
+                    "x": 7242.543859649123,
+                    "y": 37870.09618943233
                 },
                 "targetPosition": {
-                    "x": 33483.333333333336,
-                    "y": 14000.000000000002
+                    "x": 7167.543859649123,
+                    "y": 38000
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -150,7 +150,7 @@
         "communityBuildingPrograms": {
             "type": "Community Building Programs",
             "name": "New Community Building Programs",
-            "config": "{\r\n    \"percentage\": 25\r\n}",
+            "config": "{\r\n    \"percentage\": 70\r\n}",
             "project": "Governance",
             "referralProgram": {
                 "type": "Referral Program",
@@ -166,11 +166,11 @@
                         "id": "3c146182-8f51-4193-a2b8-16362633c9ff",
                         "savedPayload": {
                             "position": {
-                                "x": 7882.578574268347,
+                                "x": 7568.207316783317,
                                 "y": 37106.21647666391
                             },
                             "targetPosition": {
-                                "x": 8013.605715851499,
+                                "x": 7699.234458366468,
                                 "y": 37595.21642622275
                             },
                             "floatingObject": {
@@ -205,11 +205,11 @@
                     "id": "ebb7e841-60a2-45bc-b0ac-2efd8e8e1600",
                     "savedPayload": {
                         "position": {
-                            "x": 8266.7307158515,
+                            "x": 7952.359458366468,
                             "y": 37156.79106555688
                         },
                         "targetPosition": {
-                            "x": 8013.605715851499,
+                            "x": 7699.234458366468,
                             "y": 37595.21642622275
                         },
                         "floatingObject": {
@@ -232,11 +232,11 @@
                     "id": "44cacf20-3612-491c-9ba9-277d1f99ca28",
                     "savedPayload": {
                         "position": {
-                            "x": 8502.60566541034,
+                            "x": 8188.234407925309,
                             "y": 37464.1892846396
                         },
                         "targetPosition": {
-                            "x": 8013.605715851499,
+                            "x": 7699.234458366468,
                             "y": 37595.21642622275
                         },
                         "floatingObject": {
@@ -255,17 +255,17 @@
                 "id": "94f60582-daec-4eb0-9e17-2af3be5efe3e",
                 "savedPayload": {
                     "position": {
-                        "x": 8013.605715851499,
+                        "x": 7699.234458366468,
                         "y": 37595.21642622275
                     },
                     "targetPosition": {
-                        "x": 7844.855715851499,
+                        "x": 7530.484458366468,
                         "y": 37887.5
                     },
                     "floatingObject": {
                         "isPinned": false,
                         "isFrozen": false,
-                        "isCollapsed": false,
+                        "isCollapsed": true,
                         "angleToParent": 2,
                         "distanceToParent": 4,
                         "arrangementStyle": 0
@@ -284,17 +284,17 @@
                     {
                         "type": "User Supporter",
                         "name": "NicN11",
-                        "config": "{\r\n    \"percentage\": 0\r\n}",
+                        "config": "",
                         "project": "Governance",
                         "id": "e3d18606-8f33-4929-ac5a-3db4f9096320",
                         "savedPayload": {
                             "position": {
-                                "x": 8562.748099325781,
-                                "y": 27375.273290469813
+                                "x": 7101.550742339532,
+                                "y": 36546.93514659768
                             },
                             "targetPosition": {
-                                "x": 8509.830564796532,
-                                "y": 27878.75
+                                "x": 6803.984458366468,
+                                "y": 36956.5
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -323,17 +323,17 @@
                     {
                         "type": "User Supporter",
                         "name": "tigers40",
-                        "config": "{\r\n    \"percentage\": 0\r\n}",
+                        "config": "",
                         "project": "Governance",
                         "id": "6df6dc96-f770-4a99-b223-bc38d65215ec",
                         "savedPayload": {
                             "position": {
-                                "x": 8848.577934265704,
-                                "y": 27502.53293210207
+                                "x": 7285.45681974089,
+                                "y": 36800.06014659768
                             },
                             "targetPosition": {
-                                "x": 8509.830564796532,
-                                "y": 27878.75
+                                "x": 6803.984458366468,
+                                "y": 36956.5
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -367,12 +367,12 @@
                     "id": "8c78c6e2-50fc-4c79-8d9b-fb04bd4caaba",
                     "savedPayload": {
                         "position": {
-                            "x": 9005.01778766802,
-                            "y": 27773.49470652351
+                            "x": 7285.45681974089,
+                            "y": 37112.93985340232
                         },
                         "targetPosition": {
-                            "x": 8509.830564796532,
-                            "y": 27878.75
+                            "x": 6803.984458366468,
+                            "y": 36956.5
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -394,12 +394,12 @@
                     "id": "e0d77f32-ac38-4188-a13f-e09989b32c2a",
                     "savedPayload": {
                         "position": {
-                            "x": 8972.312952728098,
-                            "y": 28084.660425557126
+                            "x": 7101.550742339533,
+                            "y": 37366.06485340232
                         },
                         "targetPosition": {
-                            "x": 8509.830564796532,
-                            "y": 27878.75
+                            "x": 6803.984458366468,
+                            "y": 36956.5
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -417,11 +417,11 @@
                 "id": "19f4c0dd-a15d-4195-be86-12dc56f1a820",
                 "savedPayload": {
                     "position": {
-                        "x": 8182.355715851499,
+                        "x": 7867.984458366468,
                         "y": 37887.5
                     },
                     "targetPosition": {
-                        "x": 7844.855715851499,
+                        "x": 7530.484458366468,
                         "y": 37887.5
                     },
                     "floatingObject": {
@@ -440,12 +440,12 @@
             "id": "dfdd533a-64dc-4ad8-b0a3-454ea0652e0f",
             "savedPayload": {
                 "position": {
-                    "x": 33678.18904918483,
-                    "y": 13887.500000000002
+                    "x": 7362.399575500622,
+                    "y": 37887.5
                 },
                 "targetPosition": {
-                    "x": 33483.333333333336,
-                    "y": 14000.000000000002
+                    "x": 7167.543859649123,
+                    "y": 38000
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -474,31 +474,31 @@
                     {
                         "type": "Votes Switch",
                         "name": "New Votes Switch",
-                        "config": "{}",
+                        "config": "",
                         "project": "Governance",
                         "votesSwitch": [],
                         "claimVotesSwitch": [
                             {
                                 "type": "Claim Votes Switch",
                                 "name": "New Claim Votes Switch",
-                                "config": "{\r\n    \"percentage\": 5\r\n}",
+                                "config": "{\r\n    \"amount\": 0\r\n}",
                                 "project": "Governance",
                                 "claimVotesSwitch": [],
                                 "positionClaimVotes": [
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "NicN11 Translation Team December 2023 Teams",
+                                        "name": "NicN11 Translations Team March 2024",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "1468287f-54c2-4657-95c7-395f58c4e62d",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 33921.20798013164,
-                                                "y": 13073.858276162826
+                                                "x": 7603.2941395188745,
+                                                "y": 37172.128632350184
                                             },
                                             "targetPosition": {
-                                                "x": 34019.47833631901,
-                                                "y": 13440.608238331957
+                                                "x": 7871.773745500642,
+                                                "y": 37440.60823833195
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -513,7 +513,7 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position Contribution Claim",
-                                                "name": "Translation Team December 2023 Teams",
+                                                "name": "Translations Team March 2024",
                                                 "id": "35649d72-68fd-4ed7-bb7c-97eb886974d4"
                                             },
                                             "referenceParentCombinedNodePath": [
@@ -534,11 +534,70 @@
                                                     "Claims Program"
                                                 ],
                                                 [
-                                                    "January 2023 Teams Position Class",
+                                                    "Translations Teams",
                                                     "Position Claims Folder"
                                                 ],
                                                 [
-                                                    "Translation Team December 2023 Teams",
+                                                    "Translations Team March 2024",
+                                                    "Position Contribution Claim"
+                                                ]
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "Position Claim Vote",
+                                        "name": "NicN11 ",
+                                        "config": "{\r\n    \"amount\": 950000\r\n}",
+                                        "project": "Governance",
+                                        "id": "39204a86-a3bf-4d3c-9c7c-2cf909221515",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 7970.044101688005,
+                                                "y": 37073.85827616282
+                                            },
+                                            "targetPosition": {
+                                                "x": 7871.773745500642,
+                                                "y": 37440.60823833195
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 4,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position Contribution Claim",
+                                                "name": "",
+                                                "id": "460eefff-d413-46e1-8330-2881e7b28ae2"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "NicN11",
+                                                    "User Profile"
+                                                ],
+                                                [
+                                                    "New Token Power Switch",
+                                                    "Token Power Switch"
+                                                ],
+                                                [
+                                                    "New Votes And Claims Programs",
+                                                    "Votes And Claims Programs"
+                                                ],
+                                                [
+                                                    "New Claims Program",
+                                                    "Claims Program"
+                                                ],
+                                                [
+                                                    "Germany Teams",
+                                                    "Position Claims Folder"
+                                                ],
+                                                [
+                                                    "",
                                                     "Position Contribution Claim"
                                                 ]
                                             ]
@@ -550,17 +609,17 @@
                                 "id": "ff14db86-54cd-4c55-a78d-93de19eb894e",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 34019.47833631901,
-                                        "y": 13440.608238331957
+                                        "x": 7703.688862634796,
+                                        "y": 37440.60823833195
                                     },
                                     "targetPosition": {
-                                        "x": 34084.99190711058,
-                                        "y": 13685.108213111378
+                                        "x": 7769.2024334263715,
+                                        "y": 37685.10821311137
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
                                         "isFrozen": false,
-                                        "isCollapsed": false,
+                                        "isCollapsed": true,
                                         "angleToParent": 2,
                                         "distanceToParent": 4,
                                         "arrangementStyle": 0
@@ -575,7 +634,7 @@
                             {
                                 "type": "Weight Votes Switch",
                                 "name": "Teams Work ",
-                                "config": "{}",
+                                "config": "{\r\n    \"amount\": 50000\r\n}",
                                 "project": "Governance",
                                 "weightVotesSwitch": [],
                                 "poolWeightVotes": [
@@ -587,12 +646,12 @@
                                         "id": "8fce4f0e-60db-4103-bc82-06f6ee3105b1",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 34401.39815711058,
-                                                "y": 13137.076512279038
+                                                "x": 8085.6086834263715,
+                                                "y": 37137.07651227903
                                             },
                                             "targetPosition": {
-                                                "x": 34211.55440711058,
-                                                "y": 13465.895532778442
+                                                "x": 7895.7649334263715,
+                                                "y": 37465.895532778435
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -633,12 +692,12 @@
                                 "id": "01899d20-cd05-4f48-817e-d57d19774766",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 34211.55440711058,
-                                        "y": 13465.895532778442
+                                        "x": 7895.7649334263715,
+                                        "y": 37465.895532778435
                                     },
                                     "targetPosition": {
-                                        "x": 34084.99190711058,
-                                        "y": 13685.108213111378
+                                        "x": 7769.2024334263715,
+                                        "y": 37685.10821311137
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -670,7 +729,7 @@
                             },
                             {
                                 "type": "Weight Votes Switch",
-                                "name": "December 2023 Teams",
+                                "name": "March 2024",
                                 "config": "{}",
                                 "project": "Governance",
                                 "weightVotesSwitch": [],
@@ -680,18 +739,18 @@
                                 "positionWeightVotes": [
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "December 2023 Teams Alex White Team",
+                                        "name": "March 2024 Translations Team",
                                         "config": "{}",
                                         "project": "Governance",
-                                        "id": "89c1dc6d-637f-4e61-9bbe-63e8d700c749",
+                                        "id": "6cfffc6d-7bfc-4f5d-ad04-baa508b18613",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 34465.55971273298,
-                                                "y": 13265.125824134146
+                                                "x": 8622.631041071638,
+                                                "y": 37156.775621820394
                                             },
                                             "targetPosition": {
-                                                "x": 34329.491881890004,
-                                                "y": 13619.594642319802
+                                                "x": 8432.787291071638,
+                                                "y": 37485.5946423198
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -706,8 +765,8 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position",
-                                                "name": "Alex White Team",
-                                                "id": "8aaf2502-4f4c-4b83-847f-9b34879b8b9a"
+                                                "name": "Translations Team",
+                                                "id": "9307b88e-97e7-4302-bdcb-80c8d7dcb96d"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -715,11 +774,11 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "December 2023 Teams",
+                                                    "March 2024",
                                                     "Position Class"
                                                 ],
                                                 [
-                                                    "Alex White Team",
+                                                    "Translations Team",
                                                     "Position"
                                                 ]
                                             ]
@@ -727,112 +786,18 @@
                                     },
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "December 2023 Teams Translation Team",
+                                        "name": "March 2024 Turkish Team",
                                         "config": "{}",
                                         "project": "Governance",
-                                        "id": "e0c3b285-f779-461f-9d47-06e952f42f81",
+                                        "id": "a6036be7-60ec-4633-bb02-4b676934819e",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 34647.924613156785,
-                                                "y": 13412.802008712533
+                                                "x": 8799.53725324077,
+                                                "y": 37387.32428613243
                                             },
                                             "targetPosition": {
-                                                "x": 34329.491881890004,
-                                                "y": 13619.594642319802
-                                            },
-                                            "floatingObject": {
-                                                "isPinned": false,
-                                                "isFrozen": false,
-                                                "isCollapsed": false,
-                                                "angleToParent": 2,
-                                                "distanceToParent": 4,
-                                                "arrangementStyle": 0
-                                            },
-                                            "uiObject": {
-                                                "isRunning": false
-                                            },
-                                            "referenceParent": {
-                                                "type": "Position",
-                                                "name": "Translation Team",
-                                                "id": "7391da48-d7a7-4b84-9ac0-5fb7d3c72aaa"
-                                            },
-                                            "referenceParentCombinedNodePath": [
-                                                [
-                                                    "Teams of Contributors",
-                                                    "Positions"
-                                                ],
-                                                [
-                                                    "December 2023 Teams",
-                                                    "Position Class"
-                                                ],
-                                                [
-                                                    "Translation Team",
-                                                    "Position"
-                                                ]
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "type": "Position Weight Vote",
-                                        "name": "December 2023 Teams VEX Team",
-                                        "config": "{}",
-                                        "project": "Governance",
-                                        "id": "6cb1ef5e-f108-4289-bb54-86f363d2e544",
-                                        "savedPayload": {
-                                            "position": {
-                                                "x": 34708.659033367134,
-                                                "y": 13639.465950705795
-                                            },
-                                            "targetPosition": {
-                                                "x": 34329.491881890004,
-                                                "y": 13619.594642319802
-                                            },
-                                            "floatingObject": {
-                                                "isPinned": false,
-                                                "isFrozen": false,
-                                                "isCollapsed": false,
-                                                "angleToParent": 2,
-                                                "distanceToParent": 4,
-                                                "arrangementStyle": 0
-                                            },
-                                            "uiObject": {
-                                                "isRunning": false
-                                            },
-                                            "referenceParent": {
-                                                "type": "Position",
-                                                "name": "VEX Team",
-                                                "id": "a662caa0-53dd-4871-834d-aced1d517372"
-                                            },
-                                            "referenceParentCombinedNodePath": [
-                                                [
-                                                    "Teams of Contributors",
-                                                    "Positions"
-                                                ],
-                                                [
-                                                    "December 2023 Teams",
-                                                    "Position Class"
-                                                ],
-                                                [
-                                                    "VEX Team",
-                                                    "Position"
-                                                ]
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "type": "Position Weight Vote",
-                                        "name": "December 2023 Teams Turkish Team",
-                                        "config": "{}",
-                                        "project": "Governance",
-                                        "id": "01aa502e-ac49-472a-832c-561447633cdd",
-                                        "savedPayload": {
-                                            "position": {
-                                                "x": 34624.564489130695,
-                                                "y": 13858.539728296537
-                                            },
-                                            "targetPosition": {
-                                                "x": 34329.491881890004,
-                                                "y": 13619.594642319802
+                                                "x": 8432.787291071638,
+                                                "y": 37485.5946423198
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -848,7 +813,7 @@
                                             "referenceParent": {
                                                 "type": "Position",
                                                 "name": "Turkish Team",
-                                                "id": "09b0318e-ac86-4405-bda8-3f1ef8e00f66"
+                                                "id": "db9577ca-e80d-4170-b085-7c338dc5d5b3"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -856,11 +821,58 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "December 2023 Teams",
+                                                    "March 2024",
                                                     "Position Class"
                                                 ],
                                                 [
                                                     "Turkish Team",
+                                                    "Position"
+                                                ]
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "Position Weight Vote",
+                                        "name": "March 2024 VEX Team",
+                                        "config": "{}",
+                                        "project": "Governance",
+                                        "id": "0d497f2c-8415-42b1-982f-235d68f0c02a",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 8761.606311571042,
+                                                "y": 37675.4383923198
+                                            },
+                                            "targetPosition": {
+                                                "x": 8432.787291071638,
+                                                "y": 37485.5946423198
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 4,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position",
+                                                "name": "VEX Team",
+                                                "id": "71221e95-abf2-4a10-9b21-505eaeb22abd"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "Teams of Contributors",
+                                                    "Positions"
+                                                ],
+                                                [
+                                                    "March 2024",
+                                                    "Position Class"
+                                                ],
+                                                [
+                                                    "VEX Team",
                                                     "Position"
                                                 ]
                                             ]
@@ -870,15 +882,15 @@
                                 "id": "54678abc-f856-4a0c-8c4b-df6d84aaa2d9",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 34329.491881890004,
-                                        "y": 13619.594642319802
+                                        "x": 8432.787291071638,
+                                        "y": 37485.5946423198
                                     },
                                     "targetPosition": {
-                                        "x": 34084.99190711058,
-                                        "y": 13685.108213111378
+                                        "x": 7769.2024334263715,
+                                        "y": 37685.10821311137
                                     },
                                     "floatingObject": {
-                                        "isPinned": false,
+                                        "isPinned": true,
                                         "isFrozen": false,
                                         "isCollapsed": false,
                                         "angleToParent": 2,
@@ -890,7 +902,7 @@
                                     },
                                     "referenceParent": {
                                         "type": "Position Class",
-                                        "name": "December 2023 Teams",
+                                        "name": "March 2024",
                                         "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                     },
                                     "referenceParentCombinedNodePath": [
@@ -899,7 +911,7 @@
                                             "Positions"
                                         ],
                                         [
-                                            "December 2023 Teams",
+                                            "March 2024",
                                             "Position Class"
                                         ]
                                     ]
@@ -910,12 +922,12 @@
                         "id": "79647227-6330-4d82-a2a3-15e111206cae",
                         "savedPayload": {
                             "position": {
-                                "x": 34084.99190711058,
-                                "y": 13685.108213111378
+                                "x": 7769.2024334263715,
+                                "y": 37685.10821311137
                             },
                             "targetPosition": {
-                                "x": 34000.61690711058,
-                                "y": 13831.250000000002
+                                "x": 7684.8274334263715,
+                                "y": 37831.25
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -938,12 +950,12 @@
                     "id": "8a4d470f-3191-4f89-8bec-7bed5e4e2bb8",
                     "savedPayload": {
                         "position": {
-                            "x": 34506.86690711058,
-                            "y": 13831.250000000002
+                            "x": 8191.0774334263715,
+                            "y": 37831.25
                         },
                         "targetPosition": {
-                            "x": 34000.61690711058,
-                            "y": 13831.250000000002
+                            "x": 7684.8274334263715,
+                            "y": 37831.25
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -961,12 +973,12 @@
                 "id": "b5afa7c2-b2e0-4ecc-9d62-86e1dc90da3f",
                 "savedPayload": {
                     "position": {
-                        "x": 34000.61690711058,
-                        "y": 13831.250000000002
+                        "x": 7684.8274334263715,
+                        "y": 37831.25
                     },
                     "targetPosition": {
-                        "x": 33708.333333333336,
-                        "y": 14000.000000000002
+                        "x": 7392.543859649123,
+                        "y": 38000
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -984,7 +996,7 @@
             "claimsProgram": {
                 "type": "Claims Program",
                 "name": "New Claims Program",
-                "config": "{\r\n    \"amount\": 320000\r\n}",
+                "config": "{\r\n    \"amount\": 350000\r\n}",
                 "project": "Governance",
                 "assetClaimsFolders": [],
                 "featureClaimsFolders": [],
@@ -992,24 +1004,24 @@
                     {
                         "type": "Position Claims Folder",
                         "name": "April 2023 Teams Position Class",
-                        "config": "{}",
+                        "config": "{\r\n    \"amount\": 350000\r\n}",
                         "project": "Governance",
                         "positionClaimsFolders": [],
                         "positionContributionClaims": [
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "Translation Team December 2023 Teams",
+                                "name": "Translations Team March 2024",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 34675.61690711058,
-                                        "y": 14168.750000000002
+                                        "x": 8336.827366171492,
+                                        "y": 37994.04714455579
                                     },
                                     "targetPosition": {
-                                        "x": 34338.11690711058,
-                                        "y": 14168.750000000002
+                                        "x": 8010.827399798932,
+                                        "y": 38081.398572277896
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -1024,8 +1036,8 @@
                                     },
                                     "referenceParent": {
                                         "type": "Position",
-                                        "name": "Translation Team",
-                                        "id": "7391da48-d7a7-4b84-9ac0-5fb7d3c72aaa"
+                                        "name": "Translations Team",
+                                        "id": "9307b88e-97e7-4302-bdcb-80c8d7dcb96d"
                                     },
                                     "referenceParentCombinedNodePath": [
                                         [
@@ -1033,11 +1045,11 @@
                                             "Positions"
                                         ],
                                         [
-                                            "December 2023 Teams",
+                                            "March 2024",
                                             "Position Class"
                                         ],
                                         [
-                                            "Translation Team",
+                                            "Translations Team",
                                             "Position"
                                         ]
                                     ]
@@ -1047,12 +1059,12 @@
                         "id": "0fb1f1cd-52a2-428e-bca8-ade29cdc1817",
                         "savedPayload": {
                             "position": {
-                                "x": 34338.11690711058,
-                                "y": 14168.750000000002
+                                "x": 8010.827399798932,
+                                "y": 38081.398572277896
                             },
                             "targetPosition": {
-                                "x": 34000.61690711058,
-                                "y": 14168.750000000002
+                                "x": 7684.8274334263715,
+                                "y": 38168.75
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1067,7 +1079,7 @@
                             },
                             "referenceParent": {
                                 "type": "Position Class",
-                                "name": "December 2023 Teams",
+                                "name": "March 2024",
                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                             },
                             "referenceParentCombinedNodePath": [
@@ -1076,7 +1088,100 @@
                                     "Positions"
                                 ],
                                 [
-                                    "December 2023 Teams",
+                                    "March 2024",
+                                    "Position Class"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Position Claims Folder",
+                        "name": "New Position Claims Folder",
+                        "config": "{\r\n    \"amount\": 0\r\n}",
+                        "project": "Governance",
+                        "positionClaimsFolders": [],
+                        "positionContributionClaims": [
+                            {
+                                "type": "Position Contribution Claim",
+                                "name": "",
+                                "config": "{}",
+                                "project": "Governance",
+                                "id": "0973c21c-81ff-40d1-9130-3dac0b741cb5",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 8269.394580980868,
+                                        "y": 38506.25
+                                    },
+                                    "targetPosition": {
+                                        "x": 7977.11100720362,
+                                        "y": 38337.5
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 2,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    },
+                                    "referenceParent": {
+                                        "type": "Position",
+                                        "name": "German",
+                                        "id": "75560526-1b63-4623-96a3-08173583ae4a"
+                                    },
+                                    "referenceParentCombinedNodePath": [
+                                        [
+                                            "Teams of Contributors",
+                                            "Positions"
+                                        ],
+                                        [
+                                            "January 2024",
+                                            "Position Class"
+                                        ],
+                                        [
+                                            "German",
+                                            "Position"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        "id": "cca8ce30-bd69-4746-bb62-7cc64eb2e653",
+                        "savedPayload": {
+                            "position": {
+                                "x": 7977.11100720362,
+                                "y": 38337.5
+                            },
+                            "targetPosition": {
+                                "x": 7684.8274334263715,
+                                "y": 38168.75
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 2,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            },
+                            "referenceParent": {
+                                "type": "Position Class",
+                                "name": "March 2024",
+                                "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
+                            },
+                            "referenceParentCombinedNodePath": [
+                                [
+                                    "Teams of Contributors",
+                                    "Positions"
+                                ],
+                                [
+                                    "March 2024",
                                     "Position Class"
                                 ]
                             ]
@@ -1090,12 +1195,12 @@
                     "id": "341d87bb-a1d5-46f7-96c3-d1d841fbf2f9",
                     "savedPayload": {
                         "position": {
-                            "x": 34253.74190711058,
-                            "y": 14607.175360665873
+                            "x": 7815.854575009523,
+                            "y": 38657.74994955884
                         },
                         "targetPosition": {
-                            "x": 34000.61690711058,
-                            "y": 14168.750000000002
+                            "x": 7684.8274334263715,
+                            "y": 38168.75
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1113,12 +1218,12 @@
                 "id": "6d3260d2-6872-48b3-af01-797902fa064d",
                 "savedPayload": {
                     "position": {
-                        "x": 34000.61690711058,
-                        "y": 14168.750000000002
+                        "x": 7684.8274334263715,
+                        "y": 38168.75
                     },
                     "targetPosition": {
-                        "x": 33708.333333333336,
-                        "y": 14000.000000000002
+                        "x": 7392.543859649123,
+                        "y": 38000
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -1136,12 +1241,12 @@
             "id": "5c8b5166-460a-4dcb-9d5e-edf000cf4737",
             "savedPayload": {
                 "position": {
-                    "x": 33708.333333333336,
-                    "y": 14000.000000000002
+                    "x": 7392.543859649123,
+                    "y": 38000
                 },
                 "targetPosition": {
-                    "x": 33483.333333333336,
-                    "y": 14000.000000000002
+                    "x": 7167.543859649123,
+                    "y": 38000
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -1159,7 +1264,7 @@
         "financialPrograms": {
             "type": "Financial Programs",
             "name": "New Financial Programs",
-            "config": "{\r\n    \"percentage\": 15\r\n}",
+            "config": "{\r\n    \"percentage\": 0\r\n}",
             "project": "Governance",
             "stakingProgram": {
                 "type": "Staking Program",
@@ -1173,12 +1278,12 @@
                     "id": "47797157-e63c-46e0-b496-eb1a375168b1",
                     "savedPayload": {
                         "position": {
-                            "x": 8724.6057158515,
-                            "y": 38453.5
+                            "x": 8374.234458366467,
+                            "y": 38112.5
                         },
                         "targetPosition": {
-                            "x": 8218.3557158515,
-                            "y": 38453.5
+                            "x": 7867.984458366468,
+                            "y": 38112.5
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1196,12 +1301,12 @@
                 "id": "4b018421-f283-4581-8855-763e19b21d17",
                 "savedPayload": {
                     "position": {
-                        "x": 8218.3557158515,
-                        "y": 38453.5
+                        "x": 7867.984458366468,
+                        "y": 38112.5
                     },
                     "targetPosition": {
-                        "x": 7880.855715851499,
-                        "y": 38453.5
+                        "x": 7530.484458366468,
+                        "y": 38112.5
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -1237,12 +1342,12 @@
                                 "id": "19cf9c25-b8f9-4191-b954-f5330ed64a32",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 9145.66911751618,
-                                        "y": 39378.59607377725
+                                        "x": 8795.297860031149,
+                                        "y": 39037.59607377725
                                     },
                                     "targetPosition": {
-                                        "x": 8488.03107651737,
-                                        "y": 38998.90857377725
+                                        "x": 8137.65981903234,
+                                        "y": 38657.90857377725
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -1272,12 +1377,12 @@
                         "id": "15e637ba-1ea1-4ea7-ae64-9bd17aedab64",
                         "savedPayload": {
                             "position": {
-                                "x": 8488.03107651737,
-                                "y": 38998.90857377725
+                                "x": 8137.65981903234,
+                                "y": 38657.90857377725
                             },
                             "targetPosition": {
-                                "x": 8049.605715851499,
-                                "y": 38745.78357377725
+                                "x": 7699.234458366468,
+                                "y": 38404.78357377725
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1300,12 +1405,12 @@
                     "id": "ac53bef0-7914-4707-99a5-6c39100b3842",
                     "savedPayload": {
                         "position": {
-                            "x": 8049.605715851499,
-                            "y": 39252.03357377725
+                            "x": 7699.234458366468,
+                            "y": 38911.03357377725
                         },
                         "targetPosition": {
-                            "x": 8049.605715851499,
-                            "y": 38745.78357377725
+                            "x": 7699.234458366468,
+                            "y": 38404.78357377725
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1323,12 +1428,12 @@
                 "id": "f1f74f45-20d1-4c06-a253-d895d453cfc5",
                 "savedPayload": {
                     "position": {
-                        "x": 8049.605715851499,
-                        "y": 38745.78357377725
+                        "x": 7699.234458366468,
+                        "y": 38404.78357377725
                     },
                     "targetPosition": {
-                        "x": 7880.855715851499,
-                        "y": 38453.5
+                        "x": 7530.484458366468,
+                        "y": 38112.5
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -1346,12 +1451,12 @@
             "id": "5875ddc7-a420-4881-9fdc-bc592876bb6b",
             "savedPayload": {
                 "position": {
-                    "x": 33678.18904918483,
-                    "y": 14112.500000000002
+                    "x": 7362.399575500622,
+                    "y": 38112.5
                 },
                 "targetPosition": {
-                    "x": 33483.333333333336,
-                    "y": 14000.000000000002
+                    "x": 7167.543859649123,
+                    "y": 38000
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -1369,7 +1474,7 @@
         "liquidityPrograms": {
             "type": "Liquidity Programs",
             "name": "New Liquidity Programs",
-            "config": "",
+            "config": "{\r\n    \"percentage\": 0\r\n}",
             "project": "Governance",
             "liquidityProgram": [
                 {
@@ -1384,12 +1489,12 @@
                         "id": "f98fd503-e061-4c46-b189-075ab1ecfeff",
                         "savedPayload": {
                             "position": {
-                                "x": 7794.25,
-                                "y": 38804.04310019641
+                                "x": 7691.878742514969,
+                                "y": 38617.04310019641
                             },
                             "targetPosition": {
-                                "x": 7625.5,
-                                "y": 38511.75952641916
+                                "x": 7523.128742514969,
+                                "y": 38324.75952641916
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1407,12 +1512,12 @@
                     "id": "2d2ec992-498f-4eef-80b8-9ae5a3bf3f83",
                     "savedPayload": {
                         "position": {
-                            "x": 7625.5,
-                            "y": 38511.75952641916
+                            "x": 7523.128742514969,
+                            "y": 38324.75952641916
                         },
                         "targetPosition": {
-                            "x": 7513,
-                            "y": 38316.90381056767
+                            "x": 7410.628742514969,
+                            "y": 38129.90381056767
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1431,12 +1536,12 @@
             "id": "dfe471cd-8222-445e-9749-bff3a915c06d",
             "savedPayload": {
                 "position": {
-                    "x": 33558.333333333336,
-                    "y": 14129.903810567668
+                    "x": 7242.543859649123,
+                    "y": 38129.90381056767
                 },
                 "targetPosition": {
-                    "x": 33483.333333333336,
-                    "y": 14000.000000000002
+                    "x": 7167.543859649123,
+                    "y": 38000
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -1454,17 +1559,17 @@
         "id": "f6754be2-3d53-4abe-881b-0cb604a8c715",
         "savedPayload": {
             "position": {
-                "x": 7467.073170731707,
+                "x": 7167.543859649123,
                 "y": 38000
             },
             "targetPosition": {
-                "x": 7317.073170731707,
+                "x": 7017.543859649123,
                 "y": 38000
             },
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": true,
+                "isCollapsed": false,
                 "angleToParent": 1,
                 "distanceToParent": 3,
                 "arrangementStyle": 0
@@ -1481,11 +1586,11 @@
         "id": "a5a5fb15-cca6-4ca0-8885-e30ad8fb4367",
         "savedPayload": {
             "position": {
-                "x": 7317.073170731707,
-                "y": 38225
+                "x": 7130.043859649123,
+                "y": 38194.855715851496
             },
             "targetPosition": {
-                "x": 7317.073170731707,
+                "x": 7017.543859649123,
                 "y": 38000
             },
             "floatingObject": {
@@ -1514,23 +1619,23 @@
             "taskServerApps": [
                 {
                     "type": "Task Server App",
-                    "name": "Task Server App #1",
+                    "name": "Task Server Germino Silver Reciving",
                     "config": "{\n    \"codeName\": \"Task-Server-App-1\"\n}",
                     "project": "User-Apps",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x7e4336f456ae6027155cecc199a06be35afc29d198db8303fc266a4d81a9292a\",\n        \"s\": \"0x7867ca7a94e1eee5bd5c2570c8e0a8d970863c47078f514e5c2cc827f4fa3ac5\",\n        \"signature\": \"0x7e4336f456ae6027155cecc199a06be35afc29d198db8303fc266a4d81a9292a7867ca7a94e1eee5bd5c2570c8e0a8d970863c47078f514e5c2cc827f4fa3ac51b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x82d93c2a9cbe956f351dce5421c7e3aa6e282349b458220f2224a5982eee5d63\",\n        \"s\": \"0x7653c145f364c3115c3e887470bc2c44ce71657af915c655aed7fc0b715c4002\",\n        \"signature\": \"0x82d93c2a9cbe956f351dce5421c7e3aa6e282349b458220f2224a5982eee5d637653c145f364c3115c3e887470bc2c44ce71657af915c655aed7fc0b715c40021b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "5d3c8b81-edf7-45fb-a144-710cc79c97ea",
+                        "id": "d95ec2bd-f5c3-46f0-958d-355ebc94e23a",
                         "savedPayload": {
                             "position": {
-                                "x": 32095.833333333336,
-                                "y": 14000.000000000002
+                                "x": 31696.20415656501,
+                                "y": 38616.30948527974
                             },
                             "targetPosition": {
-                                "x": 32433.333333333336,
-                                "y": 14000.000000000002
+                                "x": 31755.20415656501,
+                                "y": 38541.30948527974
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1548,12 +1653,180 @@
                     "id": "66d9197f-3af0-4ac9-8d7f-663d0563c528",
                     "savedPayload": {
                         "position": {
-                            "x": 32433.333333333336,
-                            "y": 14000.000000000002
+                            "x": 31755.20415656501,
+                            "y": 38541.30948527974
                         },
                         "targetPosition": {
-                            "x": 32770.833333333336,
-                            "y": 14000.000000000002
+                            "x": 31425.079341317352,
+                            "y": 38471.13928962874
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Task Server App",
+                    "name": "Task Server Germino Silver Data Task",
+                    "config": "{\n    \"codeName\": \"Task-Server-App-2\"\n}",
+                    "project": "User-Apps",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-2\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x8259999d6bf673c846fcd446fe7e90b8fd7d58a3c77bbfcb9cee875d2d57f268\",\n        \"s\": \"0x76fd1772d3cc3fdf152c8022cb91444a22eabe15450d21b516f57588e635483e\",\n        \"signature\": \"0x8259999d6bf673c846fcd446fe7e90b8fd7d58a3c77bbfcb9cee875d2d57f26876fd1772d3cc3fdf152c8022cb91444a22eabe15450d21b516f57588e635483e1b\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "af54a9d9-309d-4d7d-b96a-f6dfab6fa8b4",
+                        "savedPayload": {
+                            "position": {
+                                "x": 31465.357697670184,
+                                "y": 38706.79042931554
+                            },
+                            "targetPosition": {
+                                "x": 31460.357697670184,
+                                "y": 38806.79042931554
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "03d614d3-35bb-42eb-a6c6-835a5cfa64dd",
+                    "savedPayload": {
+                        "position": {
+                            "x": 31460.357697670184,
+                            "y": 38806.79042931554
+                        },
+                        "targetPosition": {
+                            "x": 31425.079341317352,
+                            "y": 38471.13928962874
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Task Server App",
+                    "name": "Germino Bronze BicMC Data Task",
+                    "config": "{\n    \"codeName\": \"Task-Server-App-3\"\n}",
+                    "project": "User-Apps",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-3\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xecfcc535b53e44e73c8f09673072aab4961bcbfeb20b2966f2e3fb022c07e5a2\",\n        \"s\": \"0x59d66b315401208e8303d7d339a5ce51c7ae8e01a303e773efabb0073126b195\",\n        \"signature\": \"0xecfcc535b53e44e73c8f09673072aab4961bcbfeb20b2966f2e3fb022c07e5a259d66b315401208e8303d7d339a5ce51c7ae8e01a303e773efabb0073126b1951b\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "12a6aa3a-4d1e-490e-a389-f82423c7099b",
+                        "savedPayload": {
+                            "position": {
+                                "x": 31174.757749362976,
+                                "y": 38668.412906666825
+                            },
+                            "targetPosition": {
+                                "x": 31116.757749362976,
+                                "y": 38608.412906666825
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "e74843e6-f365-44d2-ac35-acc0d864514d",
+                    "savedPayload": {
+                        "position": {
+                            "x": 31116.757749362976,
+                            "y": 38608.412906666825
+                        },
+                        "targetPosition": {
+                            "x": 31425.079341317352,
+                            "y": 38471.13928962874
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Task Server App",
+                    "name": "Germino Bronze BicMC  Sending Task Server App ",
+                    "config": "{\n    \"codeName\": \"Task-Server-App-4\"\n}",
+                    "project": "User-Apps",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-4\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x5b2fd11d6715dd2a2ed4c06a1d473c812ef50ac93291d2ab395eb45e4d588dad\",\n        \"s\": \"0x48d90da5aae377f2dc507ef60b95a6185381d4444a10684574f5d77bf870290c\",\n        \"signature\": \"0x5b2fd11d6715dd2a2ed4c06a1d473c812ef50ac93291d2ab395eb45e4d588dad48d90da5aae377f2dc507ef60b95a6185381d4444a10684574f5d77bf870290c1c\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "cec21eb9-bc7a-4663-8517-936093ab4a11",
+                        "savedPayload": {
+                            "position": {
+                                "x": 31207.24776167124,
+                                "y": 38177.32791103012
+                            },
+                            "targetPosition": {
+                                "x": 31199.24776167124,
+                                "y": 38220.32791103012
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "2681c4ce-1389-4714-b155-d5de30b13082",
+                    "savedPayload": {
+                        "position": {
+                            "x": 31199.24776167124,
+                            "y": 38220.32791103012
+                        },
+                        "targetPosition": {
+                            "x": 31425.079341317352,
+                            "y": 38471.13928962874
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1573,17 +1846,17 @@
             "id": "1796a5ec-daf8-4825-8b2f-0447cc74b23b",
             "savedPayload": {
                 "position": {
-                    "x": 32770.833333333336,
-                    "y": 14000.000000000002
+                    "x": 31425.079341317352,
+                    "y": 38471.13928962874
                 },
                 "targetPosition": {
-                    "x": 33108.333333333336,
-                    "y": 14000.000000000002
+                    "x": 31593.829341317352,
+                    "y": 38178.855715851496
                 },
                 "floatingObject": {
                     "isPinned": false,
                     "isFrozen": false,
-                    "isCollapsed": false,
+                    "isCollapsed": true,
                     "angleToParent": 1,
                     "distanceToParent": 4,
                     "arrangementStyle": 0
@@ -1596,11 +1869,11 @@
         "id": "f678d150-ef1a-45b4-97b9-ca93aacd03c0",
         "savedPayload": {
             "position": {
-                "x": 7092.073170731707,
-                "y": 38000
+                "x": 6905.043859649123,
+                "y": 38194.855715851496
             },
             "targetPosition": {
-                "x": 7317.073170731707,
+                "x": 7017.543859649123,
                 "y": 38000
             },
             "floatingObject": {
@@ -1619,7 +1892,7 @@
     "userBots": {
         "type": "User Bots",
         "name": "New User Bots",
-        "config": "{\r\n    \"socialHandle\": \"\",\r\n    \"bio\": \"\",\r\n    \"amount\": 500000\r\n}",
+        "config": "{\r\n    \"socialHandle\": \"\",\r\n    \"bio\": \"\",\r\n    \"amount\": 260000\r\n}",
         "project": "Governance",
         "socialTradingBots": {
             "type": "Social Trading Bots",
@@ -1629,23 +1902,23 @@
             "socialTradingBots": [
                 {
                     "type": "Social Trading Bot",
-                    "name": "Social Trading Bot #1",
+                    "name": "Social Trading Test Bot NicN11",
                     "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"handle\": \"BicMC22-Social-Trading-Bot-1\"\n}",
                     "project": "Social-Trading",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x1ac3449c68ef38cbb3bcd6f9c9dbf0d539698572ad57896fce1b4129756528d5\",\n        \"s\": \"0x4e7f54703b4715e77075141d321b0a2731449a64ece72707587d61c450fe8a09\",\n        \"signature\": \"0x1ac3449c68ef38cbb3bcd6f9c9dbf0d539698572ad57896fce1b4129756528d54e7f54703b4715e77075141d321b0a2731449a64ece72707587d61c450fe8a091c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x21da3ae3d4e64afb0874c3c9250c24655fd31a6d641ad61fcd1d4e8445e56f4b\",\n        \"s\": \"0x64ef07a087f6018180ab6b70f41ca92fe2f0003718535824dd9553fa9c89b411\",\n        \"signature\": \"0x21da3ae3d4e64afb0874c3c9250c24655fd31a6d641ad61fcd1d4e8445e56f4b64ef07a087f6018180ab6b70f41ca92fe2f0003718535824dd9553fa9c89b4111b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "618dd56b-bd91-46fa-b6cf-fd60729033b9",
+                        "id": "52d095a8-e7a5-44cc-a0dd-c3d89e747266",
                         "savedPayload": {
                             "position": {
-                                "x": 32977.90797266746,
-                                "y": 13105.375000000002
+                                "x": 31275.329341317352,
+                                "y": 38258.5
                             },
                             "targetPosition": {
-                                "x": 32894.90797266746,
-                                "y": 13184.375000000002
+                                "x": 31256.329341317352,
+                                "y": 38321.5
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1668,12 +1941,12 @@
                             "id": "47d3c026-569c-4597-935f-725b9165aff2",
                             "savedPayload": {
                                 "position": {
-                                    "x": 33990.97137433214,
-                                    "y": 12551.562500000002
+                                    "x": 30486.191300318544,
+                                    "y": 38869.9375
                                 },
                                 "targetPosition": {
-                                    "x": 33333.333333333336,
-                                    "y": 12931.250000000002
+                                    "x": 31143.829341317352,
+                                    "y": 38490.25
                                 },
                                 "floatingObject": {
                                     "isPinned": false,
@@ -1715,12 +1988,12 @@
                     "id": "19e4147c-1d13-4c7d-9057-7eeafa2be54e",
                     "savedPayload": {
                         "position": {
-                            "x": 6878.647810065835,
-                            "y": 37184.375
+                            "x": 6735.628742514969,
+                            "y": 38337.5
                         },
                         "targetPosition": {
-                            "x": 7317.073170731707,
-                            "y": 37437.5
+                            "x": 6735.628742514969,
+                            "y": 38000
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1737,23 +2010,23 @@
                 },
                 {
                     "type": "Social Trading Bot",
-                    "name": "New Social Trading Bot",
+                    "name": "Social Trading Bot Germino Silver Reciving",
                     "config": "{\n    \"percentage\": 100,\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"handle\": \"BicMC22-Social-Trading-Bot-2\"\n}",
                     "project": "Social-Trading",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x06a375d104aa286418c033657de0095a9122c444e347959f5453eef71765cb66\",\n        \"s\": \"0x46f46ab8dfccfcc55305d7d090eb1f192d44395801bd104e072ca44fb6a8dde8\",\n        \"signature\": \"0x06a375d104aa286418c033657de0095a9122c444e347959f5453eef71765cb6646f46ab8dfccfcc55305d7d090eb1f192d44395801bd104e072ca44fb6a8dde81b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x3dcfc5dc411711a993e70c843e89ec4403e9697ac6fb12b52e689537ccfb856d\",\n        \"s\": \"0x41e00f412c8616c3d3fe90fe11ed46ca5e3ca7786dafe148774cdc2928a1e5a5\",\n        \"signature\": \"0x3dcfc5dc411711a993e70c843e89ec4403e9697ac6fb12b52e689537ccfb856d41e00f412c8616c3d3fe90fe11ed46ca5e3ca7786dafe148774cdc2928a1e5a51c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "2313566f-da56-4fd2-b2a0-1a0940f03ec4",
+                        "id": "d48e90de-0d6a-45a8-8062-d635543e920c",
                         "savedPayload": {
                             "position": {
-                                "x": 33771.75869399921,
-                                "y": 12425.000000000002
+                                "x": 30964.829341317352,
+                                "y": 37950
                             },
                             "targetPosition": {
-                                "x": 33771.75869399921,
-                                "y": 13184.375000000002
+                                "x": 30918.829341317352,
+                                "y": 37984
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1776,12 +2049,12 @@
                             "id": "c58e45f2-f060-4cc8-ab14-02ca4b33ca09",
                             "savedPayload": {
                                 "position": {
-                                    "x": 34429.396734998016,
-                                    "y": 13564.062500000002
+                                    "x": 8281.69214417965,
+                                    "y": 37564.0625
                                 },
                                 "targetPosition": {
-                                    "x": 33771.75869399921,
-                                    "y": 13184.375000000002
+                                    "x": 7624.054103180842,
+                                    "y": 37184.375
                                 },
                                 "floatingObject": {
                                     "isPinned": false,
@@ -1823,12 +2096,12 @@
                     "id": "fc20a39f-10c2-44df-bffc-247cd547b390",
                     "savedPayload": {
                         "position": {
-                            "x": 7755.498531397579,
-                            "y": 37184.375
+                            "x": 6398.128742514969,
+                            "y": 38000
                         },
                         "targetPosition": {
-                            "x": 7317.073170731707,
-                            "y": 37437.5
+                            "x": 6735.628742514969,
+                            "y": 38000
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1842,24 +2115,566 @@
                             "isRunning": false
                         }
                     }
+                },
+                {
+                    "type": "Social Trading Bot",
+                    "name": "Germino Bronze BicMC -Social Trading Bot-Sending",
+                    "config": "{\n    \"codeName\": \"Social-Trading-Bot-3\",\n    \"handle\": \"BicMC22-Social-Trading-Bot-3\"\n}",
+                    "project": "Social-Trading",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-3\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x30792b8908e3e414488ee297e0a49182b082693b9955e9e6d31c2e2adee86a75\",\n        \"s\": \"0x5a5cae4112f81442c70ebac457bbef553585e38fc43dc285e4b96519ebfcaa45\",\n        \"signature\": \"0x30792b8908e3e414488ee297e0a49182b082693b9955e9e6d31c2e2adee86a755a5cae4112f81442c70ebac457bbef553585e38fc43dc285e4b96519ebfcaa451c\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "cf820de8-7256-427c-ac56-649545c13cd5",
+                        "savedPayload": {
+                            "position": {
+                                "x": 6566.878742514969,
+                                "y": 37662.5
+                            },
+                            "targetPosition": {
+                                "x": 6735.628742514969,
+                                "y": 37662.5
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "availableSignals": {
+                        "type": "Available Signals",
+                        "name": "Germino Bronze BicMC -Available Signals 1min",
+                        "config": "{}",
+                        "project": "Trading-Signals",
+                        "tradingSystemSignals": {
+                            "type": "Trading System Signals",
+                            "name": "Germino Bronze BicMC -Trading System Signals",
+                            "config": "{}",
+                            "project": "Trading-Signals",
+                            "tradingStrategySignals": [
+                                {
+                                    "type": "Trading Strategy Signals",
+                                    "name": "Germino 01 Bronze BicMC -Trading Strategy Signals",
+                                    "config": "{}",
+                                    "project": "Trading-Signals",
+                                    "triggerStageSignals": {
+                                        "type": "Trigger Stage Signals",
+                                        "name": "New Trigger Stage Signals",
+                                        "config": "{}",
+                                        "project": "Trading-Signals",
+                                        "triggerOnSignal": {
+                                            "type": "Trigger On Signal",
+                                            "name": "Germino 01 Bronze BicMC -Trigger On Signal",
+                                            "config": "{}",
+                                            "project": "Trading-Signals",
+                                            "id": "4a1a7e55-f5cc-43fa-addc-1a2b5f657c3f",
+                                            "savedPayload": {
+                                                "position": {
+                                                    "x": 30273.292576663633,
+                                                    "y": 37656.736403987845
+                                                },
+                                                "targetPosition": {
+                                                    "x": 30273.292576663633,
+                                                    "y": 37403.611403987845
+                                                },
+                                                "floatingObject": {
+                                                    "isPinned": false,
+                                                    "isFrozen": false,
+                                                    "isCollapsed": false,
+                                                    "angleToParent": 2,
+                                                    "distanceToParent": 3,
+                                                    "arrangementStyle": 0
+                                                },
+                                                "uiObject": {
+                                                    "isRunning": false
+                                                }
+                                            }
+                                        },
+                                        "triggerOffSignal": {
+                                            "type": "Trigger Off Signal",
+                                            "name": "Germino 01 Bronze BicMC -Trigger Off Signal",
+                                            "config": "{}",
+                                            "project": "Trading-Signals",
+                                            "id": "e260b02d-adff-40ae-99a7-3040f1ee5166",
+                                            "savedPayload": {
+                                                "position": {
+                                                    "x": 30094.306172675788,
+                                                    "y": 37582.59780797569
+                                                },
+                                                "targetPosition": {
+                                                    "x": 30273.292576663633,
+                                                    "y": 37403.611403987845
+                                                },
+                                                "floatingObject": {
+                                                    "isPinned": false,
+                                                    "isFrozen": false,
+                                                    "isCollapsed": false,
+                                                    "angleToParent": 2,
+                                                    "distanceToParent": 3,
+                                                    "arrangementStyle": 0
+                                                },
+                                                "uiObject": {
+                                                    "isRunning": false
+                                                }
+                                            }
+                                        },
+                                        "takePositionSignal": {
+                                            "type": "Take Position Signal",
+                                            "name": "Germino 01 Bronze BicMC  Take Position Signal",
+                                            "config": "{}",
+                                            "project": "Trading-Signals",
+                                            "id": "9e2058fb-88bd-4f47-8c1f-db415b89adeb",
+                                            "savedPayload": {
+                                                "position": {
+                                                    "x": 30020.167576663633,
+                                                    "y": 37403.611403987845
+                                                },
+                                                "targetPosition": {
+                                                    "x": 30273.292576663633,
+                                                    "y": 37403.611403987845
+                                                },
+                                                "floatingObject": {
+                                                    "isPinned": false,
+                                                    "isFrozen": false,
+                                                    "isCollapsed": false,
+                                                    "angleToParent": 2,
+                                                    "distanceToParent": 3,
+                                                    "arrangementStyle": 0
+                                                },
+                                                "uiObject": {
+                                                    "isRunning": false
+                                                }
+                                            }
+                                        },
+                                        "id": "2870608f-7a3f-4e2d-a528-6be5501b97bb",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 30273.292576663633,
+                                                "y": 37403.611403987845
+                                            },
+                                            "targetPosition": {
+                                                "x": 30452.278980651477,
+                                                "y": 37224.625
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 3,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            }
+                                        }
+                                    },
+                                    "openStageSignals": {
+                                        "type": "Open Stage Signals",
+                                        "name": "New Open Stage Signals",
+                                        "config": "{}",
+                                        "project": "Trading-Signals",
+                                        "limitBuyOrderSignals": [],
+                                        "limitSellOrderSignals": [],
+                                        "marketBuyOrderSignals": [
+                                            {
+                                                "type": "Market Buy Order Signals",
+                                                "name": "New Market Buy Order Signals",
+                                                "config": "{}",
+                                                "project": "Trading-Signals",
+                                                "createOrderSignal": {
+                                                    "type": "Create Order Signal",
+                                                    "name": "Germino 01 Bronze BicMC -Market Buy Order Signals",
+                                                    "config": "{}",
+                                                    "project": "Trading-Signals",
+                                                    "id": "b91df79d-0d12-47b6-b9b4-93c258270068",
+                                                    "savedPayload": {
+                                                        "position": {
+                                                            "x": 29692.903980651477,
+                                                            "y": 37224.625
+                                                        },
+                                                        "targetPosition": {
+                                                            "x": 29946.028980651477,
+                                                            "y": 37224.625
+                                                        },
+                                                        "floatingObject": {
+                                                            "isPinned": false,
+                                                            "isFrozen": false,
+                                                            "isCollapsed": false,
+                                                            "angleToParent": 2,
+                                                            "distanceToParent": 3,
+                                                            "arrangementStyle": 0
+                                                        },
+                                                        "uiObject": {
+                                                            "isRunning": false
+                                                        }
+                                                    }
+                                                },
+                                                "id": "d23632f7-5e66-4a37-9fc9-72ed112af39d",
+                                                "savedPayload": {
+                                                    "position": {
+                                                        "x": 29946.028980651477,
+                                                        "y": 37224.625
+                                                    },
+                                                    "targetPosition": {
+                                                        "x": 30199.153980651477,
+                                                        "y": 37224.625
+                                                    },
+                                                    "floatingObject": {
+                                                        "isPinned": false,
+                                                        "isFrozen": false,
+                                                        "isCollapsed": false,
+                                                        "angleToParent": 2,
+                                                        "distanceToParent": 3,
+                                                        "arrangementStyle": 0
+                                                    },
+                                                    "uiObject": {
+                                                        "isRunning": false
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "marketSellOrderSignals": [],
+                                        "id": "948a005b-db91-41ce-a327-1790bb4019bd",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 30199.153980651477,
+                                                "y": 37224.625
+                                            },
+                                            "targetPosition": {
+                                                "x": 30452.278980651477,
+                                                "y": 37224.625
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 3,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            }
+                                        }
+                                    },
+                                    "closeStageSignals": {
+                                        "type": "Close Stage Signals",
+                                        "name": "New Close Stage Signals",
+                                        "config": "{}",
+                                        "project": "Trading-Signals",
+                                        "limitBuyOrderSignals": [],
+                                        "limitSellOrderSignals": [],
+                                        "marketBuyOrderSignals": [],
+                                        "marketSellOrderSignals": [
+                                            {
+                                                "type": "Market Sell Order Signals",
+                                                "name": "New Market Sell Order Signals",
+                                                "config": "{}",
+                                                "project": "Trading-Signals",
+                                                "createOrderSignal": {
+                                                    "type": "Create Order Signal",
+                                                    "name": "Germino 01 Bronze BicMC -Market Sell Order Signals",
+                                                    "config": "{}",
+                                                    "project": "Trading-Signals",
+                                                    "id": "2fbc0d1f-1496-43c4-8e3b-605af5ee1bcc",
+                                                    "savedPayload": {
+                                                        "position": {
+                                                            "x": 29915.319768687943,
+                                                            "y": 36687.665788036466
+                                                        },
+                                                        "targetPosition": {
+                                                            "x": 30094.306172675788,
+                                                            "y": 36866.65219202431
+                                                        },
+                                                        "floatingObject": {
+                                                            "isPinned": false,
+                                                            "isFrozen": false,
+                                                            "isCollapsed": false,
+                                                            "angleToParent": 2,
+                                                            "distanceToParent": 3,
+                                                            "arrangementStyle": 0
+                                                        },
+                                                        "uiObject": {
+                                                            "isRunning": false
+                                                        }
+                                                    }
+                                                },
+                                                "id": "a5df5e56-a34a-49de-9f03-2496cb128ed2",
+                                                "savedPayload": {
+                                                    "position": {
+                                                        "x": 30094.306172675788,
+                                                        "y": 36866.65219202431
+                                                    },
+                                                    "targetPosition": {
+                                                        "x": 30273.292576663633,
+                                                        "y": 37045.638596012155
+                                                    },
+                                                    "floatingObject": {
+                                                        "isPinned": false,
+                                                        "isFrozen": false,
+                                                        "isCollapsed": false,
+                                                        "angleToParent": 2,
+                                                        "distanceToParent": 3,
+                                                        "arrangementStyle": 0
+                                                    },
+                                                    "uiObject": {
+                                                        "isRunning": false
+                                                    }
+                                                }
+                                            }
+                                        ],
+                                        "id": "d4de0de5-71fe-4b25-a83d-63850cfe3330",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 30273.292576663633,
+                                                "y": 37045.638596012155
+                                            },
+                                            "targetPosition": {
+                                                "x": 30452.278980651477,
+                                                "y": 37224.625
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 3,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            }
+                                        }
+                                    },
+                                    "id": "481eead5-1d6e-4e51-8ac1-9b0fcfd03916",
+                                    "savedPayload": {
+                                        "position": {
+                                            "x": 30452.278980651477,
+                                            "y": 37224.625
+                                        },
+                                        "targetPosition": {
+                                            "x": 30705.403980651477,
+                                            "y": 37224.625
+                                        },
+                                        "floatingObject": {
+                                            "isPinned": false,
+                                            "isFrozen": false,
+                                            "isCollapsed": true,
+                                            "angleToParent": 2,
+                                            "distanceToParent": 3,
+                                            "arrangementStyle": 0
+                                        },
+                                        "uiObject": {
+                                            "isRunning": false
+                                        }
+                                    }
+                                }
+                            ],
+                            "tradingSystemSignal": {
+                                "type": "Trading System Signal",
+                                "name": "Germino Bronze BicMC -Trading System Signal",
+                                "config": "{}",
+                                "project": "Trading-Signals",
+                                "id": "e1fff956-9924-41fd-934a-8eb7b34e9236",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 30578.841480651477,
+                                        "y": 37005.41231966706
+                                    },
+                                    "targetPosition": {
+                                        "x": 30705.403980651477,
+                                        "y": 37224.625
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 2,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    }
+                                }
+                            },
+                            "id": "fb12a4e5-6a80-48ad-bf40-74e1962d7d82",
+                            "savedPayload": {
+                                "position": {
+                                    "x": 30705.403980651477,
+                                    "y": 37224.625
+                                },
+                                "targetPosition": {
+                                    "x": 30924.616660984415,
+                                    "y": 37351.1875
+                                },
+                                "floatingObject": {
+                                    "isPinned": false,
+                                    "isFrozen": false,
+                                    "isCollapsed": false,
+                                    "angleToParent": 2,
+                                    "distanceToParent": 3,
+                                    "arrangementStyle": 0
+                                },
+                                "uiObject": {
+                                    "isRunning": false
+                                }
+                            }
+                        },
+                        "id": "f77145d3-9686-4c98-ac6b-dfa5c5dae29d",
+                        "savedPayload": {
+                            "position": {
+                                "x": 6735.628742514969,
+                                "y": 37493.75
+                            },
+                            "targetPosition": {
+                                "x": 6735.628742514969,
+                                "y": 37662.5
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": true,
+                                "angleToParent": 1,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "availableStorage": {
+                        "type": "Available Storage",
+                        "name": "New Available Storage",
+                        "config": "{}",
+                        "project": "Open-Storage",
+                        "storageContainerReferences": [
+                            {
+                                "type": "Storage Container Reference",
+                                "name": "Germino Bronze BicMC -Storage Container",
+                                "config": "{}",
+                                "project": "Open-Storage",
+                                "id": "d937a518-b714-42d7-8231-2986a3f98518",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 31691.861042149692,
+                                        "y": 37161.34375
+                                    },
+                                    "targetPosition": {
+                                        "x": 31363.04202165029,
+                                        "y": 37351.1875
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 1,
+                                        "distanceToParent": 4,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    },
+                                    "referenceParent": {
+                                        "type": "Github Storage Container",
+                                        "name": "Germino Bronze BicMC -Storage Container",
+                                        "id": "f3c5a781-9679-4e40-9e51-3a324bcfb921"
+                                    },
+                                    "referenceParentCombinedNodePath": [
+                                        [
+                                            "BicMC22",
+                                            "User Profile"
+                                        ],
+                                        [
+                                            "New User Storage",
+                                            "User Storage"
+                                        ],
+                                        [
+                                            "New Github Storage",
+                                            "Github Storage"
+                                        ],
+                                        [
+                                            "Germino Bronze BicMC -Storage Container",
+                                            "Github Storage Container"
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        "id": "3478bbf0-0926-4717-b880-8f5ad6aa50ee",
+                        "savedPayload": {
+                            "position": {
+                                "x": 6904.378742514969,
+                                "y": 37662.5
+                            },
+                            "targetPosition": {
+                                "x": 6735.628742514969,
+                                "y": 37662.5
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": true,
+                                "angleToParent": 1,
+                                "distanceToParent": 2,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "followedBotReference": [],
+                    "id": "f291739a-7403-401d-9744-f61135366fd0",
+                    "savedPayload": {
+                        "position": {
+                            "x": 6735.628742514969,
+                            "y": 37662.5
+                        },
+                        "targetPosition": {
+                            "x": 6735.628742514969,
+                            "y": 38000
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 4,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
                 }
             ],
             "id": "4f3850bf-79e6-4b65-ace9-e90f79c5942f",
             "savedPayload": {
                 "position": {
-                    "x": 7317.073170731707,
-                    "y": 37437.5
+                    "x": 6735.628742514969,
+                    "y": 38000
                 },
                 "targetPosition": {
-                    "x": 7317.073170731707,
-                    "y": 37775
+                    "x": 6960.628742514969,
+                    "y": 38000
                 },
                 "floatingObject": {
                     "isPinned": false,
                     "isFrozen": false,
-                    "isCollapsed": false,
+                    "isCollapsed": true,
                     "angleToParent": 1,
-                    "distanceToParent": 4,
+                    "distanceToParent": 3,
                     "arrangementStyle": 0
                 },
                 "uiObject": {
@@ -1870,17 +2685,423 @@
         "id": "b92a7f52-652b-40c3-b94c-a6ce8c84797b",
         "savedPayload": {
             "position": {
-                "x": 7317.073170731707,
-                "y": 37775
+                "x": 6792.543859649123,
+                "y": 38000
             },
             "targetPosition": {
-                "x": 7317.073170731707,
+                "x": 7017.543859649123,
                 "y": 38000
             },
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": false,
+                "isCollapsed": true,
+                "angleToParent": 1,
+                "distanceToParent": 4,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "p2pNetworkNodes": {
+        "type": "P2P Network Nodes",
+        "name": "New P2P Network Nodes",
+        "config": "{}",
+        "project": "Network",
+        "p2pNetworkNodes": [
+            {
+                "type": "P2P Network Node",
+                "name": "Germino Bronze BicMC P2P Network Node",
+                "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"host\": \"109.199.121.139\",\n    \"clientMinimunBalance\": 50000,\n    \"peerMinimunBalance\": 50000,\n    \"clientMinTokenAllocation\": 0,\n    \"peerMinTokenAllocation\": 0\n}",
+                "project": "Network",
+                "signingAccount": {
+                    "type": "Signing Account",
+                    "name": "New Signing Account",
+                    "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"signature\": {\n        \"message\": \"BicMC22\",\n        \"messageHash\": \"0xda8d6177f14d67ad3c371ced66c82bb6ef664c9120c1d321644d301f5ec8f055\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x574cd78ac577059ab93d3f7b7d0b1cb722a12ebb47aee5eb396a37948afd50c2\",\n        \"s\": \"0x2d9123a109444e6160a9c15a0c4a6694f6d61bba8a74939a5c2332daf7eec0c8\",\n        \"signature\": \"0x574cd78ac577059ab93d3f7b7d0b1cb722a12ebb47aee5eb396a37948afd50c22d9123a109444e6160a9c15a0c4a6694f6d61bba8a74939a5c2332daf7eec0c81b\"\n    }\n}",
+                    "project": "Governance",
+                    "id": "d5e90c44-3edb-425d-9013-ec5c33d24862",
+                    "savedPayload": {
+                        "position": {
+                            "x": 6565.631373045798,
+                            "y": 37889.07777826919
+                        },
+                        "targetPosition": {
+                            "x": 6904.378742514969,
+                            "y": 37512.86071037126
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 4,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                "p2pNetworkReference": {
+                    "type": "P2P Network Reference",
+                    "name": "",
+                    "project": "Network",
+                    "id": "09269f5c-50ed-4c7e-82b2-24e26eb89702",
+                    "savedPayload": {
+                        "position": {
+                            "x": 6441.896354583403,
+                            "y": 37306.950284814135
+                        },
+                        "targetPosition": {
+                            "x": 6904.378742514969,
+                            "y": 37512.86071037126
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 4,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        },
+                        "referenceParent": {
+                            "type": "P2P Network",
+                            "name": "Mainnet",
+                            "id": "f614fedc-e405-4260-9e17-90c863482c8d"
+                        },
+                        "referenceParentCombinedNodePath": [
+                            [
+                                "Mainnet",
+                                "P2P Network"
+                            ]
+                        ]
+                    }
+                },
+                "networkServices": {
+                    "type": "Network Services",
+                    "name": "New Network Services",
+                    "config": "{}",
+                    "project": "Network",
+                    "socialGraph": {
+                        "type": "Social Graph",
+                        "name": "New Social Graph",
+                        "config": "{}",
+                        "project": "Network",
+                        "id": "54d7804e-ca6f-49a3-bd75-ddcb17335d9d",
+                        "savedPayload": {
+                            "position": {
+                                "x": 30730.579341317352,
+                                "y": 37112.43534970538
+                            },
+                            "targetPosition": {
+                                "x": 31489.954341317352,
+                                "y": 37112.43534970538
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 4,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "tradingSignals": {
+                        "type": "Trading Signals",
+                        "name": "New Trading Signals",
+                        "config": "{}",
+                        "project": "Network",
+                        "id": "bdb5e749-b476-4025-8977-d0d4e3a14e04",
+                        "savedPayload": {
+                            "position": {
+                                "x": 31869.641841317352,
+                                "y": 36454.79730870658
+                            },
+                            "targetPosition": {
+                                "x": 31489.954341317352,
+                                "y": 37112.43534970538
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 4,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "5c51e411-2031-4474-8f09-246a364fe7d1",
+                    "savedPayload": {
+                        "position": {
+                            "x": 6957.296277044219,
+                            "y": 37009.38400084107
+                        },
+                        "targetPosition": {
+                            "x": 6904.378742514969,
+                            "y": 37512.86071037126
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": true,
+                            "angleToParent": 1,
+                            "distanceToParent": 4,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                "networkInterfaces": {
+                    "type": "Network Interfaces",
+                    "name": "New Network Interfaces",
+                    "config": "{}",
+                    "project": "Network",
+                    "websocketsNetworkInterface": {
+                        "type": "Websockets Network Interface",
+                        "name": "New Websockets Network Interface",
+                        "config": "{ \n\"webSocketsPort\": \"18042\"\n}",
+                        "project": "Network",
+                        "id": "e250aede-1ae1-47dc-b72d-f4e940fffe32",
+                        "savedPayload": {
+                            "position": {
+                                "x": 31801.817201983224,
+                                "y": 36640.09766937245
+                            },
+                            "targetPosition": {
+                                "x": 32181.504701983224,
+                                "y": 37297.73571037126
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 4,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "webrtcNetworkInterface": {
+                        "type": "Webrtc Network Interface",
+                        "name": "New Webrtc Network Interface",
+                        "config": "{}",
+                        "project": "Network",
+                        "id": "12144f00-ba26-4d6b-ade1-71ceb863ada0",
+                        "savedPayload": {
+                            "position": {
+                                "x": 32839.14274298203,
+                                "y": 36918.04821037126
+                            },
+                            "targetPosition": {
+                                "x": 32181.504701983224,
+                                "y": 37297.73571037126
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 4,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "httpNetworkInterface": {
+                        "type": "Http Network Interface",
+                        "name": "New Http Network Interface",
+                        "config": "{ \n\"httpPort\": \"31248\"\n}",
+                        "project": "Network",
+                        "id": "ec18623a-7510-4c96-b1f2-7219b7eb6f1b",
+                        "savedPayload": {
+                            "position": {
+                                "x": 32561.192201983224,
+                                "y": 37955.37375137006
+                            },
+                            "targetPosition": {
+                                "x": 32181.504701983224,
+                                "y": 37297.73571037126
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 4,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "9ca61c3e-509f-43ee-bf66-3a19768ad6ae",
+                    "savedPayload": {
+                        "position": {
+                            "x": 7399.565965386459,
+                            "y": 37407.60541689477
+                        },
+                        "targetPosition": {
+                            "x": 6904.378742514969,
+                            "y": 37512.86071037126
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": true,
+                            "angleToParent": 1,
+                            "distanceToParent": 4,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                "id": "6dfc1236-9810-4d9d-8d6a-ff68fc462f1d",
+                "savedPayload": {
+                    "position": {
+                        "x": 6736.293859649123,
+                        "y": 37512.86071037126
+                    },
+                    "targetPosition": {
+                        "x": 6905.043859649123,
+                        "y": 37805.144284148504
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": true,
+                        "angleToParent": 1,
+                        "distanceToParent": 4,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            }
+        ],
+        "id": "f581210d-3c90-4296-8003-358e0d7540cf",
+        "savedPayload": {
+            "position": {
+                "x": 6905.043859649123,
+                "y": 37805.144284148504
+            },
+            "targetPosition": {
+                "x": 7017.543859649123,
+                "y": 38000
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": true,
+                "angleToParent": 1,
+                "distanceToParent": 4,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "userStorage": {
+        "type": "User Storage",
+        "name": "New User Storage",
+        "config": "{}",
+        "project": "Open-Storage",
+        "githubStorage": {
+            "type": "Github Storage",
+            "name": "New Github Storage",
+            "config": "{}",
+            "project": "Open-Storage",
+            "githubStorageContainers": [
+                {
+                    "type": "Github Storage Container",
+                    "name": "Germino Bronze BicMC -Storage Container",
+                    "config": "{\n    \"codeName\": \"Germino-Bronze-BicMC\",\n    \"githubUserName\": \"BicMC22\",\n    \"repositoryName\": \"Germino-Bronze-BicMC\"\n}",
+                    "project": "Open-Storage",
+                    "id": "f3c5a781-9679-4e40-9e51-3a324bcfb921",
+                    "savedPayload": {
+                        "position": {
+                            "x": 7720.003742514969,
+                            "y": 37074.43534970538
+                        },
+                        "targetPosition": {
+                            "x": 7466.878742514969,
+                            "y": 37512.86071037126
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 4,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "id": "f48c1171-25d3-48d5-85b1-5708a3216c05",
+            "savedPayload": {
+                "position": {
+                    "x": 7466.878742514969,
+                    "y": 37512.86071037126
+                },
+                "targetPosition": {
+                    "x": 7298.128742514969,
+                    "y": 37805.144284148504
+                },
+                "floatingObject": {
+                    "isPinned": false,
+                    "isFrozen": false,
+                    "isCollapsed": true,
+                    "angleToParent": 1,
+                    "distanceToParent": 4,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        "id": "c2ca1e8d-a9fd-49c4-8dfe-88657b4247ad",
+        "savedPayload": {
+            "position": {
+                "x": 7130.043859649123,
+                "y": 37805.144284148504
+            },
+            "targetPosition": {
+                "x": 7017.543859649123,
+                "y": 38000
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": true,
                 "angleToParent": 1,
                 "distanceToParent": 4,
                 "arrangementStyle": 0
@@ -1893,15 +3114,15 @@
     "id": "638fb858-97c9-4e6d-97b7-41622cc4b87d",
     "savedPayload": {
         "position": {
-            "x": 7317.073170731707,
+            "x": 7017.543859649123,
             "y": 38000
         },
         "targetPosition": {
-            "x": 7317.073170731707,
+            "x": 7017.543859649123,
             "y": 38000
         },
         "floatingObject": {
-            "isPinned": false,
+            "isPinned": true,
             "isFrozen": false,
             "isCollapsed": false,
             "angleToParent": 1,
