@@ -2149,7 +2149,7 @@
                                                             "Position Claims Folder"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Translations Team March 2024",
                                                             "Position Contribution Claim"
                                                         ]
                                                     ]
@@ -30534,7 +30534,7 @@
             {
                 "type": "P2P Network Node",
                 "name": "P2P-Network-Node-1",
-                "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"host\": \"34.140.160.220\",\n    \"clientMinimunBalance\": 0,\n    \"peerMinimunBalance\": 0\n}",
+                "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"host\": \"34.77.152.140\",\n    \"clientMinimunBalance\": 0,\n    \"peerMinimunBalance\": 0\n}",
                 "project": "Network",
                 "signingAccount": {
                     "type": "Signing Account",
@@ -31069,7 +31069,7 @@
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": true,
+                "isCollapsed": false,
                 "angleToParent": 1,
                 "distanceToParent": 3,
                 "arrangementStyle": 0
