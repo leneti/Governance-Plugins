@@ -1,7 +1,7 @@
 {
     "type": "User Profile",
     "name": "Mhnramin",
-    "config": "{\r\n    \"signature\": {\r\n        \"message\": \"Mhnramin\",\r\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\r\n        \"v\": \"0x1b\",\r\n        \"r\": \"0xed8961a1de35b8d7a8931cab7958498d1767f2963f4b65fd8ce75a933bdceafd\",\r\n        \"s\": \"0x6fd92242ae81f17c24bc8f59f69e4c87aaa44c337284293ab1d4b66dc49d8fed\",\r\n        \"signature\": \"0xed8961a1de35b8d7a8931cab7958498d1767f2963f4b65fd8ce75a933bdceafd6fd92242ae81f17c24bc8f59f69e4c87aaa44c337284293ab1d4b66dc49d8fed1b\"\r\n    },\r\n    \"codeName\": \"Mhnramin\"\r\n}",
+    "config": "{\"signature\":{\"message\":\"Mhnramin\",\"messageHash\":\"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\"v\":\"0x1b\",\"r\":\"0xed8961a1de35b8d7a8931cab7958498d1767f2963f4b65fd8ce75a933bdceafd\",\"s\":\"0x6fd92242ae81f17c24bc8f59f69e4c87aaa44c337284293ab1d4b66dc49d8fed\",\"signature\":\"0xed8961a1de35b8d7a8931cab7958498d1767f2963f4b65fd8ce75a933bdceafd6fd92242ae81f17c24bc8f59f69e4c87aaa44c337284293ab1d4b66dc49d8fed1b\"},\"codeName\":\"Mhnramin\"}",
     "project": "Governance",
     "tokenPowerSwitch": {
         "type": "Token Power Switch",
