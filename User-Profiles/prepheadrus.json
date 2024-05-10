@@ -2216,7 +2216,7 @@
                                             },
                                             {
                                                 "type": "Position Claim Vote",
-                                                "name": "BicMC22 ",
+                                                "name": "BicMC22 Translations April 2024",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "1bbd9642-5d83-41f9-b3d3-2bbb4eef5199",
@@ -2242,7 +2242,7 @@
                                                     },
                                                     "referenceParent": {
                                                         "type": "Position Contribution Claim",
-                                                        "name": "",
+                                                        "name": "Translations April 2024",
                                                         "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854"
                                                     },
                                                     "referenceParentCombinedNodePath": [
@@ -2267,7 +2267,7 @@
                                                             "Position Claims Folder"
                                                         ],
                                                         [
-                                                            "",
+                                                            "Translations April 2024",
                                                             "Position Contribution Claim"
                                                         ]
                                                     ]
@@ -2331,7 +2331,7 @@
                             {
                                 "type": "Weight Votes Switch",
                                 "name": "Superalgos",
-                                "config": "{\r\n    \"percentage\": 70\r\n}",
+                                "config": "{\r\n    \"percentage\": 85\r\n}",
                                 "project": "Governance",
                                 "weightVotesSwitch": [
                                     {
@@ -4538,7 +4538,7 @@
                             {
                                 "type": "Weight Votes Switch",
                                 "name": "April 2024",
-                                "config": "{}",
+                                "config": "{\r\n    \"percentage\": 10\r\n}",
                                 "project": "Governance",
                                 "weightVotesSwitch": [],
                                 "poolWeightVotes": [],
@@ -4548,7 +4548,7 @@
                                     {
                                         "type": "Position Weight Vote",
                                         "name": "April 2024 Translations",
-                                        "config": "{}",
+                                        "config": "{\r\n    \"percentage\": 15\r\n}",
                                         "project": "Governance",
                                         "id": "0a83e01f-0281-4593-b7ba-d4f4f27593ad",
                                         "savedPayload": {
@@ -4642,7 +4642,7 @@
                                     {
                                         "type": "Position Weight Vote",
                                         "name": "April 2024 Turkish",
-                                        "config": "{}",
+                                        "config": "",
                                         "project": "Governance",
                                         "id": "07b08098-06cc-47a3-8498-deab134eec15",
                                         "savedPayload": {
@@ -4747,7 +4747,7 @@
                                     "floatingObject": {
                                         "isPinned": false,
                                         "isFrozen": false,
-                                        "isCollapsed": true,
+                                        "isCollapsed": false,
                                         "angleToParent": 2,
                                         "distanceToParent": 3,
                                         "arrangementStyle": 0
@@ -4871,7 +4871,7 @@
                                 "positionContributionClaims": [
                                     {
                                         "type": "Position Contribution Claim",
-                                        "name": "",
+                                        "name": "Turkish April 2024",
                                         "config": "{\r\n    \"claimedShare\": 100\r\n}",
                                         "project": "Governance",
                                         "id": "7afcd83a-d169-467b-a2bf-54af3406f7f6",
@@ -4897,8 +4897,8 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position",
-                                                "name": "Turkish Team",
-                                                "id": "db9577ca-e80d-4170-b085-7c338dc5d5b3"
+                                                "name": "Turkish",
+                                                "id": "be0ca62a-bb47-4c18-bdb0-384de8e484c5"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -4906,11 +4906,11 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "March 2024",
+                                                    "April 2024",
                                                     "Position Class"
                                                 ],
                                                 [
-                                                    "Turkish Team",
+                                                    "Turkish",
                                                     "Position"
                                                 ]
                                             ]
@@ -4964,7 +4964,7 @@
                                 "positionContributionClaims": [
                                     {
                                         "type": "Position Contribution Claim",
-                                        "name": "",
+                                        "name": "VEX April 2024",
                                         "config": "",
                                         "project": "Governance",
                                         "id": "7170d3d4-c8bd-4121-9182-fb7e8a8640f6",
@@ -4990,8 +4990,8 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position",
-                                                "name": "VEX Team",
-                                                "id": "71221e95-abf2-4a10-9b21-505eaeb22abd"
+                                                "name": "VEX",
+                                                "id": "7f47e26b-efa3-4779-8348-a014fb4a354c"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -4999,11 +4999,11 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "March 2024",
+                                                    "April 2024",
                                                     "Position Class"
                                                 ],
                                                 [
-                                                    "VEX Team",
+                                                    "VEX",
                                                     "Position"
                                                 ]
                                             ]
@@ -33190,7 +33190,7 @@
         "floatingObject": {
             "isPinned": true,
             "isFrozen": false,
-            "isCollapsed": true,
+            "isCollapsed": false,
             "angleToParent": 2,
             "distanceToParent": 3,
             "arrangementStyle": 1
