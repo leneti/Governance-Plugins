@@ -2148,17 +2148,17 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xa74ab9eb874bdde4bea0c302198874939875fc5ad5454257cf75fa7fb1992fbb\",\n        \"s\": \"0x3a469a83cf9ae361983dfe7612e404bf4d957164bec5674ad61a36bd910560ff\",\n        \"signature\": \"0xa74ab9eb874bdde4bea0c302198874939875fc5ad5454257cf75fa7fb1992fbb3a469a83cf9ae361983dfe7612e404bf4d957164bec5674ad61a36bd910560ff1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xc89416a4645c7b97be3a964405391bf1bdd260846da0f9ef70962b0592b7fe7e\",\n        \"s\": \"0x6a42203276ce0c0ab81e2b4befa6854ab185f432d4a47524cef74964c38ec2d1\",\n        \"signature\": \"0xc89416a4645c7b97be3a964405391bf1bdd260846da0f9ef70962b0592b7fe7e6a42203276ce0c0ab81e2b4befa6854ab185f432d4a47524cef74964c38ec2d11c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "271871a2-4a95-4b31-b31a-7be8e1392e2c",
+                        "id": "b48557ee-80a5-47da-bfa4-098003fffbb1",
                         "savedPayload": {
                             "position": {
-                                "x": 29029.17960675007,
-                                "y": 24305.34230275097
+                                "x": 29577.30688133563,
+                                "y": 24549.384288596448
                             },
                             "targetPosition": {
-                                "x": 29271.88470506255,
-                                "y": 24129.006727063228
+                                "x": 29545.948342355332,
+                                "y": 24251.027719985967
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2176,8 +2176,64 @@
                     "id": "a2eb5fd5-8101-4f94-ae5e-36b192273aa1",
                     "savedPayload": {
                         "position": {
-                            "x": 29271.88470506255,
-                            "y": 24129.006727063228
+                            "x": 29545.948342355332,
+                            "y": 24251.027719985967
+                        },
+                        "targetPosition": {
+                            "x": 29514.589803375035,
+                            "y": 23952.671151375485
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Task Server App",
+                    "name": "#2 Task Server App",
+                    "config": "{\n    \"codeName\": \"Task-Server-App-2\"\n}",
+                    "project": "User-Apps",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-2\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xb22c3d476c2f4755e8911cd82c5ebb3f7506a8ed48419dfc2b50b07590325ace\",\n        \"s\": \"0x105e504cf7b0563cdb98b900850b3ec4f5e1962b29b24911651d1239e8472ea2\",\n        \"signature\": \"0xb22c3d476c2f4755e8911cd82c5ebb3f7506a8ed48419dfc2b50b07590325ace105e504cf7b0563cdb98b900850b3ec4f5e1962b29b24911651d1239e8472ea21b\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "33a07d66-b109-49c5-b2d3-87f2bc44712c",
+                        "savedPayload": {
+                            "position": {
+                                "x": 28966.462528789474,
+                                "y": 23708.62916553001
+                            },
+                            "targetPosition": {
+                                "x": 29240.526166082254,
+                                "y": 23830.650158452747
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "ad04ab83-064d-4e82-98cb-001f56b7b5ef",
+                    "savedPayload": {
+                        "position": {
+                            "x": 29240.526166082254,
+                            "y": 23830.650158452747
                         },
                         "targetPosition": {
                             "x": 29514.589803375035,
@@ -2263,17 +2319,17 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xe2325cd1aa843d75cd1ffc55f435d3e5bd5cba392080a153bc2971bf03413011\",\n        \"s\": \"0x37f02b6fb2c17accebd9f899e01c80726e6292b0f5dc96417b39bc6dd74e7337\",\n        \"signature\": \"0xe2325cd1aa843d75cd1ffc55f435d3e5bd5cba392080a153bc2971bf0341301137f02b6fb2c17accebd9f899e01c80726e6292b0f5dc96417b39bc6dd74e73371c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x9f50707076cb969aec308e8f3c08f475dd46421172cdfcb344688064fcb9a64f\",\n        \"s\": \"0x75acb8b0f307a678fb2a47b4166c9e27c194df40d3ff5d7075a9b598c498535d\",\n        \"signature\": \"0x9f50707076cb969aec308e8f3c08f475dd46421172cdfcb344688064fcb9a64f75acb8b0f307a678fb2a47b4166c9e27c194df40d3ff5d7075a9b598c498535d1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "c29b0594-3618-49c8-9ca1-0d36ba5f6678",
+                        "id": "d290d22e-e4da-4664-8485-67f7697c5dd3",
                         "savedPayload": {
                             "position": {
-                                "x": 28997.82106776977,
-                                "y": 23193.01426585951
+                                "x": 29209.167627101957,
+                                "y": 23667.706410157734
                             },
                             "targetPosition": {
-                                "x": 29271.88470506255,
-                                "y": 23070.993272936772
+                                "x": 29240.526166082254,
+                                "y": 23369.349841547253
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2296,12 +2352,12 @@
                             "id": "c6108a3d-5985-443a-bd23-2b587c98df58",
                             "savedPayload": {
                                 "position": {
-                                    "x": 29303.24324404285,
-                                    "y": 22772.63670432629
+                                    "x": 28997.82106776977,
+                                    "y": 23193.01426585951
                                 },
                                 "targetPosition": {
-                                    "x": 29271.88470506255,
-                                    "y": 23070.993272936772
+                                    "x": 29240.526166082254,
+                                    "y": 23369.349841547253
                                 },
                                 "floatingObject": {
                                     "isPinned": false,
@@ -2343,8 +2399,116 @@
                     "id": "1f831705-4b3b-484a-adf9-0d528833eb93",
                     "savedPayload": {
                         "position": {
-                            "x": 29271.88470506255,
-                            "y": 23070.993272936772
+                            "x": 29240.526166082254,
+                            "y": 23369.349841547253
+                        },
+                        "targetPosition": {
+                            "x": 29514.589803375035,
+                            "y": 23247.328848624515
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Social Trading Bot",
+                    "name": "#2 Social Trading Bot",
+                    "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"handle\": \"Mhnramin-Social-Trading-Bot-2\"\n}",
+                    "project": "Social-Trading",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x96a345278f0616abaf1cd31774144dc674b3b3387991095b6451b7117e96dde5\",\n        \"s\": \"0x16c10470580c32b16128409dde6a1ac3d755e115f3406b46d19e65103a5af271\",\n        \"signature\": \"0x96a345278f0616abaf1cd31774144dc674b3b3387991095b6451b7117e96dde516c10470580c32b16128409dde6a1ac3d755e115f3406b46d19e65103a5af2711c\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "9f0810e5-9180-4a51-9a2d-c0ab81e46b43",
+                        "savedPayload": {
+                            "position": {
+                                "x": 29303.24324404285,
+                                "y": 22772.63670432629
+                            },
+                            "targetPosition": {
+                                "x": 29545.948342355332,
+                                "y": 22948.972280014033
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "followedBotReference": [
+                        {
+                            "type": "Followed Bot Reference",
+                            "name": "Base Soaring - Social Trading Bot",
+                            "project": "Social-Trading",
+                            "id": "4c6bca3f-f48f-4c54-ac67-601890ddab50",
+                            "savedPayload": {
+                                "position": {
+                                    "x": 29820.011979648112,
+                                    "y": 22826.951287091295
+                                },
+                                "targetPosition": {
+                                    "x": 29545.948342355332,
+                                    "y": 22948.972280014033
+                                },
+                                "floatingObject": {
+                                    "isPinned": false,
+                                    "isFrozen": false,
+                                    "isCollapsed": false,
+                                    "angleToParent": 1,
+                                    "distanceToParent": 3,
+                                    "arrangementStyle": 0
+                                },
+                                "uiObject": {
+                                    "isRunning": false
+                                },
+                                "referenceParent": {
+                                    "type": "Social Trading Bot",
+                                    "name": "Base Soaring - Social Trading Bot",
+                                    "id": "6592544c-598b-4a4c-8e67-10a077092a6d"
+                                },
+                                "referenceParentCombinedNodePath": [
+                                    [
+                                        "BlaaSwe",
+                                        "User Profile"
+                                    ],
+                                    [
+                                        "New User Bots",
+                                        "User Bots"
+                                    ],
+                                    [
+                                        "New Social Trading Bots",
+                                        "Social Trading Bots"
+                                    ],
+                                    [
+                                        "Base Soaring - Social Trading Bot",
+                                        "Social Trading Bot"
+                                    ]
+                                ]
+                            }
+                        }
+                    ],
+                    "id": "076da37a-70c1-41c7-a231-d1ad415da842",
+                    "savedPayload": {
+                        "position": {
+                            "x": 29545.948342355332,
+                            "y": 22948.972280014033
                         },
                         "targetPosition": {
                             "x": 29514.589803375035,
