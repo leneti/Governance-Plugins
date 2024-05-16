@@ -2148,13 +2148,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xc89416a4645c7b97be3a964405391bf1bdd260846da0f9ef70962b0592b7fe7e\",\n        \"s\": \"0x6a42203276ce0c0ab81e2b4befa6854ab185f432d4a47524cef74964c38ec2d1\",\n        \"signature\": \"0xc89416a4645c7b97be3a964405391bf1bdd260846da0f9ef70962b0592b7fe7e6a42203276ce0c0ab81e2b4befa6854ab185f432d4a47524cef74964c38ec2d11c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x30e330adaa5189a65fa779dc6ae0b294b94b6fc6b9faaf8116297bf3058c1a88\",\n        \"s\": \"0x75c05612888c196277f56fde94a7c13d7966cbce037c9dc03b32f782a64100d4\",\n        \"signature\": \"0x30e330adaa5189a65fa779dc6ae0b294b94b6fc6b9faaf8116297bf3058c1a8875c05612888c196277f56fde94a7c13d7966cbce037c9dc03b32f782a64100d41b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "b48557ee-80a5-47da-bfa4-098003fffbb1",
+                        "id": "b6a21897-406b-414b-9063-4440fd5f1c20",
                         "savedPayload": {
                             "position": {
-                                "x": 29577.30688133563,
-                                "y": 24549.384288596448
+                                "x": 29543.948342355332,
+                                "y": 24227.027719985967
                             },
                             "targetPosition": {
                                 "x": 29545.948342355332,
@@ -2204,13 +2204,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-2\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xb22c3d476c2f4755e8911cd82c5ebb3f7506a8ed48419dfc2b50b07590325ace\",\n        \"s\": \"0x105e504cf7b0563cdb98b900850b3ec4f5e1962b29b24911651d1239e8472ea2\",\n        \"signature\": \"0xb22c3d476c2f4755e8911cd82c5ebb3f7506a8ed48419dfc2b50b07590325ace105e504cf7b0563cdb98b900850b3ec4f5e1962b29b24911651d1239e8472ea21b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-2\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x1aa4da55263dfecb13c0998090161b8aaa787a4af576ea6b2f231cad6541c0cd\",\n        \"s\": \"0x50702412dcaca2ae3d19e7658c1fa3b4e0ecde9ee864c93510f9ef526bd51098\",\n        \"signature\": \"0x1aa4da55263dfecb13c0998090161b8aaa787a4af576ea6b2f231cad6541c0cd50702412dcaca2ae3d19e7658c1fa3b4e0ecde9ee864c93510f9ef526bd510981b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "33a07d66-b109-49c5-b2d3-87f2bc44712c",
+                        "id": "d5873939-d4d3-4688-ae9f-ad259de45062",
                         "savedPayload": {
                             "position": {
-                                "x": 28966.462528789474,
-                                "y": 23708.62916553001
+                                "x": 29306.526166082254,
+                                "y": 23897.650158452747
                             },
                             "targetPosition": {
                                 "x": 29240.526166082254,
@@ -2319,13 +2319,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x9f50707076cb969aec308e8f3c08f475dd46421172cdfcb344688064fcb9a64f\",\n        \"s\": \"0x75acb8b0f307a678fb2a47b4166c9e27c194df40d3ff5d7075a9b598c498535d\",\n        \"signature\": \"0x9f50707076cb969aec308e8f3c08f475dd46421172cdfcb344688064fcb9a64f75acb8b0f307a678fb2a47b4166c9e27c194df40d3ff5d7075a9b598c498535d1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x39aad88e0cd5873d2afb5b0743d04609c0c18ebafed8cd181989175118469fd5\",\n        \"s\": \"0x0227d0a2f15cb967060bedc2ba25a05e3d93c2937f1850fa22f5b763e437ae2d\",\n        \"signature\": \"0x39aad88e0cd5873d2afb5b0743d04609c0c18ebafed8cd181989175118469fd50227d0a2f15cb967060bedc2ba25a05e3d93c2937f1850fa22f5b763e437ae2d1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "d290d22e-e4da-4664-8485-67f7697c5dd3",
+                        "id": "4418d6a7-f09a-4fec-aace-8ae97b3c8ad0",
                         "savedPayload": {
                             "position": {
-                                "x": 29209.167627101957,
-                                "y": 23667.706410157734
+                                "x": 29200.526166082254,
+                                "y": 23468.349841547253
                             },
                             "targetPosition": {
                                 "x": 29240.526166082254,
@@ -2352,8 +2352,8 @@
                             "id": "c6108a3d-5985-443a-bd23-2b587c98df58",
                             "savedPayload": {
                                 "position": {
-                                    "x": 28997.82106776977,
-                                    "y": 23193.01426585951
+                                    "x": 28966.462528789474,
+                                    "y": 23491.37083446999
                                 },
                                 "targetPosition": {
                                     "x": 29240.526166082254,
@@ -2427,13 +2427,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x96a345278f0616abaf1cd31774144dc674b3b3387991095b6451b7117e96dde5\",\n        \"s\": \"0x16c10470580c32b16128409dde6a1ac3d755e115f3406b46d19e65103a5af271\",\n        \"signature\": \"0x96a345278f0616abaf1cd31774144dc674b3b3387991095b6451b7117e96dde516c10470580c32b16128409dde6a1ac3d755e115f3406b46d19e65103a5af2711c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"Mhnramin\",\n        \"messageHash\": \"0x7ff045eb9c3549538f811f1aa3b53af7f32646afd794dfb40e5f4f5fb6d133d7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xc5acc4d0c21b2cc1e7ae10867fad997259e6c96e40ef646fd7653e810e8da5db\",\n        \"s\": \"0x55190adb41184f64a2379a9f72291f4a006fa04a4a39392d7c7f4bf6dab97610\",\n        \"signature\": \"0xc5acc4d0c21b2cc1e7ae10867fad997259e6c96e40ef646fd7653e810e8da5db55190adb41184f64a2379a9f72291f4a006fa04a4a39392d7c7f4bf6dab976101c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "9f0810e5-9180-4a51-9a2d-c0ab81e46b43",
+                        "id": "4f1cd569-a565-4305-95f8-0bbc231eeb5f",
                         "savedPayload": {
                             "position": {
-                                "x": 29303.24324404285,
-                                "y": 22772.63670432629
+                                "x": 29482.948342355332,
+                                "y": 23009.972280014033
                             },
                             "targetPosition": {
                                 "x": 29545.948342355332,
@@ -2676,7 +2676,7 @@
         "floatingObject": {
             "isPinned": false,
             "isFrozen": false,
-            "isCollapsed": true,
+            "isCollapsed": false,
             "angleToParent": 1,
             "distanceToParent": 3,
             "arrangementStyle": 0
