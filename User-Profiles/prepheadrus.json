@@ -30581,7 +30581,7 @@
             {
                 "type": "P2P Network Node",
                 "name": "P2P-Network-Node-1",
-                "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"host\": \"35.205.165.158\",\n    \"clientMinimunBalance\": 0,\n    \"peerMinimunBalance\": 0\n}",
+                "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"host\": \"35.233.3.109\",\n    \"clientMinimunBalance\": 0,\n    \"peerMinimunBalance\": 0\n}",
                 "project": "Network",
                 "signingAccount": {
                     "type": "Signing Account",
@@ -33190,7 +33190,7 @@
         "floatingObject": {
             "isPinned": true,
             "isFrozen": false,
-            "isCollapsed": false,
+            "isCollapsed": true,
             "angleToParent": 2,
             "distanceToParent": 3,
             "arrangementStyle": 1
