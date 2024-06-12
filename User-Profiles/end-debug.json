@@ -1653,13 +1653,13 @@
                                     {
                                         "type": "Position Weight Vote",
                                         "name": "May 2024 VEX Team",
-                                        "config": "{\r\n    \"percentage\": 20\r\n}",
+                                        "config": "{\r\n    \"percentage\": 10\r\n}",
                                         "project": "Governance",
                                         "id": "07e8e57e-02be-445c-841a-81f48d232124",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 18604.482879012026,
-                                                "y": 17821.29804438276
+                                                "x": 18557.447253367056,
+                                                "y": 17823.23417791673
                                             },
                                             "targetPosition": {
                                                 "x": 18593.26552072913,
@@ -1705,8 +1705,8 @@
                                         "id": "5c818d76-f884-42bd-a7fd-79d47d73ff60",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 18813.181082278075,
-                                                "y": 17917.036434488004
+                                                "x": 18739.362168050437,
+                                                "y": 17859.06579563414
                                             },
                                             "targetPosition": {
                                                 "x": 18593.26552072913,
@@ -1747,13 +1747,13 @@
                                     {
                                         "type": "Position Weight Vote",
                                         "name": "May 2024 Turkish Team",
-                                        "config": "{\r\n    \"percentage\": 10\r\n}",
+                                        "config": "{\r\n    \"percentage\": 5\r\n}",
                                         "project": "Governance",
                                         "id": "25212a7c-cf02-41be-8e4a-a56de00cfdd0",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 18893.05573216565,
-                                                "y": 18132.305614102177
+                                                "x": 18865.473129099486,
+                                                "y": 17994.98108732641
                                             },
                                             "targetPosition": {
                                                 "x": 18593.26552072913,
@@ -1786,6 +1786,53 @@
                                                 ],
                                                 [
                                                     "Turkish Team",
+                                                    "Position"
+                                                ]
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "Position Weight Vote",
+                                        "name": "May 2024 Elves & Fairies Team",
+                                        "config": "{\r\n    \"percentage\": 45\r\n}",
+                                        "project": "Governance",
+                                        "id": "47105cdb-ca97-4ddd-8d52-ea0c250af083",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 18887.61003574738,
+                                                "y": 18179.065031157945
+                                            },
+                                            "targetPosition": {
+                                                "x": 18593.26552072913,
+                                                "y": 18121.08825581928
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 2,
+                                                "distanceToParent": 3,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position",
+                                                "name": "Elves & Fairies Team",
+                                                "id": "636bc857-c9e0-4d26-a8b9-6d466e3f6c16"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "Teams of Contributors",
+                                                    "Positions"
+                                                ],
+                                                [
+                                                    "May 2024",
+                                                    "Position Class"
+                                                ],
+                                                [
+                                                    "Elves & Fairies Team",
                                                     "Position"
                                                 ]
                                             ]
