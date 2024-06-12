@@ -20,8 +20,8 @@
                     "id": "14669366-c56f-44a5-8ba7-59bed4695f09",
                     "savedPayload": {
                         "position": {
-                            "x": 28197.880410634247,
-                            "y": 45688.82721008948
+                            "x": 28266.669804536417,
+                            "y": 45608.28517808598
                         },
                         "targetPosition": {
                             "x": 27720.58333333333,
@@ -50,8 +50,8 @@
                     "id": "24aa6213-a2aa-45a1-94b8-dd00af90cd6a",
                     "savedPayload": {
                         "position": {
-                            "x": 27720.58333333333,
-                            "y": 45886.53013278856
+                            "x": 27929.169804536417,
+                            "y": 45853.49328128779
                         },
                         "targetPosition": {
                             "x": 27720.58333333333,
@@ -80,8 +80,38 @@
                     "id": "48edf4d4-d11c-423b-8576-84d9c6ea290b",
                     "savedPayload": {
                         "position": {
-                            "x": 27243.28625603241,
-                            "y": 45688.82721008948
+                            "x": 27511.99686213024,
+                            "y": 45853.49328128779
+                        },
+                        "targetPosition": {
+                            "x": 27720.58333333333,
+                            "y": 45211.53013278856
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 4,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                {
+                    "type": "Position",
+                    "name": "Elves & Fairies Team",
+                    "config": "{}",
+                    "project": "Governance",
+                    "positions": [],
+                    "positionClasss": [],
+                    "id": "636bc857-c9e0-4d26-a8b9-6d466e3f6c16",
+                    "savedPayload": {
+                        "position": {
+                            "x": 27174.49686213024,
+                            "y": 45608.28517808598
                         },
                         "targetPosition": {
                             "x": 27720.58333333333,
