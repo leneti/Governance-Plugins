@@ -1796,7 +1796,7 @@
                                                         "positionClaimVotes": [
                                                             {
                                                                 "type": "Position Claim Vote",
-                                                                "name": "prepheadrus ",
+                                                                "name": "prepheadrus VEX Team May 2024",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "549947fc-92c4-4297-82a8-cbb61be3ee8c",
@@ -1822,7 +1822,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "",
+                                                                        "name": "VEX Team May 2024",
                                                                         "id": "7afcd83a-d169-467b-a2bf-54af3406f7f6"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -1851,7 +1851,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "",
+                                                                            "VEX Team May 2024",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -1859,7 +1859,7 @@
                                                             },
                                                             {
                                                                 "type": "Position Claim Vote",
-                                                                "name": "prepheadrus ",
+                                                                "name": "prepheadrus VEX Team May 2024",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "d6710fe3-7306-4e8d-acd1-0af51a072464",
@@ -1885,7 +1885,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "",
+                                                                        "name": "VEX Team May 2024",
                                                                         "id": "7afcd83a-d169-467b-a2bf-54af3406f7f6"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -1914,7 +1914,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "",
+                                                                            "VEX Team May 2024",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -3857,7 +3857,7 @@
                                                         "positionClaimVotes": [
                                                             {
                                                                 "type": "Position Claim Vote",
-                                                                "name": "BicMC22 Translations April 2024",
+                                                                "name": "BicMC22 Turkish Team May 2024",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "8f79af42-3d98-4af3-89be-9b3fd3164bb8",
@@ -3883,7 +3883,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "Translations April 2024",
+                                                                        "name": "Turkish Team May 2024",
                                                                         "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -3908,7 +3908,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "Translations April 2024",
+                                                                            "Turkish Team May 2024",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -4932,7 +4932,7 @@
                                                 "positionClaimVotes": [
                                                     {
                                                         "type": "Position Claim Vote",
-                                                        "name": "BastianMuc ",
+                                                        "name": "BastianMuc Elves & Fairies Team May 2024",
                                                         "config": "{}",
                                                         "project": "Governance",
                                                         "id": "575188e5-b8a1-495a-b316-20aa54b2a0f1",
@@ -4958,7 +4958,7 @@
                                                             },
                                                             "referenceParent": {
                                                                 "type": "Position Contribution Claim",
-                                                                "name": "",
+                                                                "name": "Elves & Fairies Team May 2024",
                                                                 "id": "1dfaa8d3-154d-4330-8ccb-587739b2cd6a"
                                                             },
                                                             "referenceParentCombinedNodePath": [
@@ -4983,7 +4983,7 @@
                                                                     "Position Claims Folder"
                                                                 ],
                                                                 [
-                                                                    "",
+                                                                    "Elves & Fairies Team May 2024",
                                                                     "Position Contribution Claim"
                                                                 ]
                                                             ]
@@ -6062,17 +6062,17 @@
                                                             {
                                                                 "type": "Pool Weight Vote",
                                                                 "name": "Referrals Rewards Pool",
-                                                                "config": "{\r\n    \"percentage\": 100\r\n}",
+                                                                "config": "{\r\n    \"percentage\": 80\r\n}",
                                                                 "project": "Governance",
                                                                 "id": "2c2bb6bd-9f77-416c-a47d-8134b4d9a824",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 24745.53251561106,
-                                                                        "y": 27611.18030822533
+                                                                        "x": 24461.585654237955,
+                                                                        "y": 32411.18030822533
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 24940.78019821396,
-                                                                        "y": 27205.74431766924
+                                                                        "x": 24656.833336840857,
+                                                                        "y": 32005.74431766924
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -6117,17 +6117,17 @@
                                                             {
                                                                 "type": "Pool Weight Vote",
                                                                 "name": "Referrals Bonus Pool",
-                                                                "config": "{}",
+                                                                "config": "{\n    \"negative\": true\n}",
                                                                 "project": "Governance",
                                                                 "id": "95b22843-984e-4dd0-8f79-10623653e07a",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 24492.03848948243,
-                                                                        "y": 27239.372859783132
+                                                                        "x": 24208.091628109327,
+                                                                        "y": 32039.372859783132
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 24940.78019821396,
-                                                                        "y": 27205.74431766924
+                                                                        "x": 24656.833336840857,
+                                                                        "y": 32005.74431766924
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -6176,12 +6176,12 @@
                                                         "id": "0a350001-5470-4b4f-9ced-79c61777789d",
                                                         "savedPayload": {
                                                             "position": {
-                                                                "x": 24940.78019821396,
-                                                                "y": 27205.74431766924
+                                                                "x": 24656.833336840857,
+                                                                "y": 32005.74431766924
                                                             },
                                                             "targetPosition": {
-                                                                "x": 25312.587646656157,
-                                                                "y": 26952.250291540608
+                                                                "x": 25028.640785283053,
+                                                                "y": 31752.250291540608
                                                             },
                                                             "floatingObject": {
                                                                 "isPinned": false,
@@ -6229,17 +6229,17 @@
                                                             {
                                                                 "type": "Pool Weight Vote",
                                                                 "name": "Support Rewards Pool",
-                                                                "config": "{\r\n    \"percentage\": 100\r\n}",
+                                                                "config": "{\r\n    \"percentage\": 80\r\n}",
                                                                 "project": "Governance",
                                                                 "id": "58fa5bd0-715b-4eab-9f15-711c1a986954",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 24445.685235062414,
-                                                                        "y": 27017.21564619712
+                                                                        "x": 24161.73837368931,
+                                                                        "y": 31817.21564619712
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 24870.43273370118,
-                                                                        "y": 26868.590068317295
+                                                                        "x": 24586.485872328074,
+                                                                        "y": 31668.590068317295
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -6284,22 +6284,22 @@
                                                             {
                                                                 "type": "Pool Weight Vote",
                                                                 "name": "Support Bonus Pool",
-                                                                "config": "{}",
+                                                                "config": "{\n    \"negative\": true\n}",
                                                                 "project": "Governance",
                                                                 "id": "a8257e62-959e-498e-9045-45458b7adf79",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 24529.345458285723,
-                                                                        "y": 26575.060733242142
+                                                                        "x": 24245.39859691262,
+                                                                        "y": 31375.060733242142
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 24870.43273370118,
-                                                                        "y": 26868.590068317295
+                                                                        "x": 24586.485872328074,
+                                                                        "y": 31668.590068317295
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
                                                                         "isFrozen": false,
-                                                                        "isCollapsed": false,
+                                                                        "isCollapsed": true,
                                                                         "angleToParent": 2,
                                                                         "distanceToParent": 3,
                                                                         "arrangementStyle": 0
@@ -6343,12 +6343,12 @@
                                                         "id": "60b7e8ff-90f8-4560-8cf5-2ecc32cbbe59",
                                                         "savedPayload": {
                                                             "position": {
-                                                                "x": 24870.43273370118,
-                                                                "y": 26868.590068317295
+                                                                "x": 24586.485872328074,
+                                                                "y": 31668.590068317295
                                                             },
                                                             "targetPosition": {
-                                                                "x": 25312.587646656157,
-                                                                "y": 26952.250291540608
+                                                                "x": 25028.640785283053,
+                                                                "y": 31752.250291540608
                                                             },
                                                             "floatingObject": {
                                                                 "isPinned": false,
@@ -6396,17 +6396,17 @@
                                                             {
                                                                 "type": "Pool Weight Vote",
                                                                 "name": "Mentorship Rewards Pool",
-                                                                "config": "{\r\n    \"percentage\": 100\r\n}",
+                                                                "config": "{\r\n    \"percentage\": 80\r\n}",
                                                                 "project": "Governance",
                                                                 "id": "d90f7c45-ee9b-4d42-a685-3b8efa3e3e94",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 24653.657629971436,
-                                                                        "y": 26385.19516049551
+                                                                        "x": 24369.710768598332,
+                                                                        "y": 31185.19516049551
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 25059.093620527525,
-                                                                        "y": 26580.44284309841
+                                                                        "x": 24775.14675915442,
+                                                                        "y": 31380.44284309841
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -6451,17 +6451,17 @@
                                                             {
                                                                 "type": "Pool Weight Vote",
                                                                 "name": "Mentorship Bonus Pool",
-                                                                "config": "{}",
+                                                                "config": "{\n    \"negative\": true\n}",
                                                                 "project": "Governance",
                                                                 "id": "65f2fa4f-dba7-4ddb-9858-1935986bf253",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 25025.465078413632,
-                                                                        "y": 26131.701134366882
+                                                                        "x": 24741.518217040528,
+                                                                        "y": 30931.701134366882
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 25059.093620527525,
-                                                                        "y": 26580.44284309841
+                                                                        "x": 24775.14675915442,
+                                                                        "y": 31380.44284309841
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -6510,12 +6510,12 @@
                                                         "id": "546ccf31-c212-4858-8801-3f36d63ae786",
                                                         "savedPayload": {
                                                             "position": {
-                                                                "x": 25059.093620527525,
-                                                                "y": 26580.44284309841
+                                                                "x": 24775.14675915442,
+                                                                "y": 31380.44284309841
                                                             },
                                                             "targetPosition": {
-                                                                "x": 25312.587646656157,
-                                                                "y": 26952.250291540608
+                                                                "x": 25028.640785283053,
+                                                                "y": 31752.250291540608
                                                             },
                                                             "floatingObject": {
                                                                 "isPinned": false,
@@ -6621,12 +6621,12 @@
                                                                 "id": "18fb3552-5728-44f4-9f57-2f1a62e347aa",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 25594.823797882393,
-                                                                        "y": 12267.923402762872
+                                                                        "x": 24214.385708439113,
+                                                                        "y": 31467.92340276287
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 26041.99429233435,
-                                                                        "y": 12318.30741700936
+                                                                        "x": 24661.55620289107,
+                                                                        "y": 31518.307417009357
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -6675,12 +6675,12 @@
                                                         "id": "d40b2329-1797-4751-bd26-6d54255ef4e2",
                                                         "savedPayload": {
                                                             "position": {
-                                                                "x": 26041.99429233435,
-                                                                "y": 12318.30741700936
+                                                                "x": 24661.55620289107,
+                                                                "y": 31518.307417009357
                                                             },
                                                             "targetPosition": {
-                                                                "x": 26489.16478678631,
-                                                                "y": 12368.69143125585
+                                                                "x": 25108.72669734303,
+                                                                "y": 31568.691431255844
                                                             },
                                                             "floatingObject": {
                                                                 "isPinned": false,
@@ -6733,12 +6733,12 @@
                                                                 "id": "36147128-75d4-4f82-bc4a-ad113039063e",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 26129.261964898546,
-                                                                        "y": 11543.78540097287
+                                                                        "x": 24748.823875455266,
+                                                                        "y": 30743.78540097286
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 26309.213375842428,
-                                                                        "y": 11956.23841611436
+                                                                        "x": 24928.775286399148,
+                                                                        "y": 31156.238416114353
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -6787,12 +6787,12 @@
                                                         "id": "cf1294c9-0d7d-4e2b-8164-660cf5029c8e",
                                                         "savedPayload": {
                                                             "position": {
-                                                                "x": 26309.213375842428,
-                                                                "y": 11956.23841611436
+                                                                "x": 24928.775286399148,
+                                                                "y": 31156.238416114353
                                                             },
                                                             "targetPosition": {
-                                                                "x": 26489.16478678631,
-                                                                "y": 12368.69143125585
+                                                                "x": 25108.72669734303,
+                                                                "y": 31568.691431255844
                                                             },
                                                             "floatingObject": {
                                                                 "isPinned": false,
@@ -6893,17 +6893,17 @@
                                                             {
                                                                 "type": "Pool Weight Vote",
                                                                 "name": "Voting Bonus Pool",
-                                                                "config": "{ \"negative\": true }",
+                                                                "config": "{\n    \"negative\": true\n}",
                                                                 "project": "Governance",
                                                                 "id": "6f372cd0-2f31-4b55-9448-cfc16d4698ea",
                                                                 "savedPayload": {
                                                                     "position": {
-                                                                        "x": 25123.9299114425,
-                                                                        "y": 25842.3547335327
+                                                                        "x": 24839.983050069397,
+                                                                        "y": 30642.3547335327
                                                                     },
                                                                     "targetPosition": {
-                                                                        "x": 25334.20079416538,
-                                                                        "y": 26240.206660609772
+                                                                        "x": 25050.253932792275,
+                                                                        "y": 31040.206660609772
                                                                     },
                                                                     "floatingObject": {
                                                                         "isPinned": false,
@@ -6952,12 +6952,12 @@
                                                         "id": "29284fbd-c300-4738-942b-f8714fecb762",
                                                         "savedPayload": {
                                                             "position": {
-                                                                "x": 25334.20079416538,
-                                                                "y": 26240.206660609772
+                                                                "x": 25050.253932792275,
+                                                                "y": 31040.206660609772
                                                             },
                                                             "targetPosition": {
-                                                                "x": 25544.471676888257,
-                                                                "y": 26638.058587686846
+                                                                "x": 25260.524815515153,
+                                                                "y": 31438.058587686846
                                                             },
                                                             "floatingObject": {
                                                                 "isPinned": false,
@@ -7690,7 +7690,7 @@
                                             {
                                                 "type": "Pool Weight Vote",
                                                 "name": "Team Positions Pool",
-                                                "config": "{\n\n}",
+                                                "config": "{}",
                                                 "project": "Governance",
                                                 "id": "490f5851-0868-4e5b-8bcd-cd592e1897f7",
                                                 "savedPayload": {
@@ -7919,7 +7919,7 @@
                                 "weightVotesSwitch": [
                                     {
                                         "type": "Weight Votes Switch",
-                                        "name": "April 2024",
+                                        "name": "May 2024",
                                         "config": "{}",
                                         "project": "Governance",
                                         "weightVotesSwitch": [],
@@ -7929,14 +7929,14 @@
                                         "positionWeightVotes": [
                                             {
                                                 "type": "Position Weight Vote",
-                                                "name": "April 2024 VEX",
-                                                "config": "{\n        \"percentage\": 15\n}",
+                                                "name": "May 2024 VEX Team",
+                                                "config": "{}",
                                                 "project": "Governance",
-                                                "id": "4ffccf52-e16a-43bd-b38c-9de6d6e9a706",
+                                                "id": "16f86c8d-93d8-40e2-b889-afa85494a226",
                                                 "savedPayload": {
                                                     "position": {
-                                                        "x": 26456.59751219433,
-                                                        "y": 32037.63999600173
+                                                        "x": 26392.863089489714,
+                                                        "y": 32007.240235780988
                                                     },
                                                     "targetPosition": {
                                                         "x": 26231.59751219433,
@@ -7955,8 +7955,8 @@
                                                     },
                                                     "referenceParent": {
                                                         "type": "Position",
-                                                        "name": "VEX",
-                                                        "id": "7f47e26b-efa3-4779-8348-a014fb4a354c"
+                                                        "name": "VEX Team",
+                                                        "id": "14669366-c56f-44a5-8ba7-59bed4695f09"
                                                     },
                                                     "referenceParentCombinedNodePath": [
                                                         [
@@ -7964,11 +7964,11 @@
                                                             "Positions"
                                                         ],
                                                         [
-                                                            "April 2024",
+                                                            "May 2024",
                                                             "Position Class"
                                                         ],
                                                         [
-                                                            "VEX",
+                                                            "VEX Team",
                                                             "Position"
                                                         ]
                                                     ]
@@ -7976,14 +7976,14 @@
                                             },
                                             {
                                                 "type": "Position Weight Vote",
-                                                "name": "April 2024 Turkish",
-                                                "config": "{\n        \"percentage\": 80\n}",
+                                                "name": "May 2024 End Debug Team",
+                                                "config": "{}",
                                                 "project": "Governance",
-                                                "id": "00936336-a38d-46a1-b98d-31c4ce76cb9d",
+                                                "id": "679a51da-63ff-421a-a38f-836bd5e601a3",
                                                 "savedPayload": {
                                                     "position": {
-                                                        "x": 26666.26413402441,
-                                                        "y": 32310.882857408593
+                                                        "x": 26608.99926776977,
+                                                        "y": 32182.263861947966
                                                     },
                                                     "targetPosition": {
                                                         "x": 26231.59751219433,
@@ -8002,8 +8002,8 @@
                                                     },
                                                     "referenceParent": {
                                                         "type": "Position",
-                                                        "name": "Turkish",
-                                                        "id": "be0ca62a-bb47-4c18-bdb0-384de8e484c5"
+                                                        "name": "End Debug Team",
+                                                        "id": "24aa6213-a2aa-45a1-94b8-dd00af90cd6a"
                                                     },
                                                     "referenceParentCombinedNodePath": [
                                                         [
@@ -8011,11 +8011,11 @@
                                                             "Positions"
                                                         ],
                                                         [
-                                                            "April 2024",
+                                                            "May 2024",
                                                             "Position Class"
                                                         ],
                                                         [
-                                                            "Turkish",
+                                                            "End Debug Team",
                                                             "Position"
                                                         ]
                                                     ]
@@ -8023,14 +8023,14 @@
                                             },
                                             {
                                                 "type": "Position Weight Vote",
-                                                "name": "April 2024 End-Debug",
-                                                "config": "{\n\n}",
+                                                "name": "May 2024 Turkish Team",
+                                                "config": "{}",
                                                 "project": "Governance",
-                                                "id": "975897b7-fb4b-43d7-a43a-a679cdf94e18",
+                                                "id": "45246b00-1b71-4263-9beb-73da52f6e5f4",
                                                 "savedPayload": {
                                                     "position": {
-                                                        "x": 26621.30894389733,
-                                                        "y": 32652.35142770473
+                                                        "x": 26680.98080283389,
+                                                        "y": 32450.902608014054
                                                     },
                                                     "targetPosition": {
                                                         "x": 26231.59751219433,
@@ -8049,8 +8049,8 @@
                                                     },
                                                     "referenceParent": {
                                                         "type": "Position",
-                                                        "name": "End-Debug",
-                                                        "id": "1b6c2935-2032-4489-99ea-325ab5ea446f"
+                                                        "name": "Turkish Team",
+                                                        "id": "48edf4d4-d11c-423b-8576-84d9c6ea290b"
                                                     },
                                                     "referenceParentCombinedNodePath": [
                                                         [
@@ -8058,18 +8058,65 @@
                                                             "Positions"
                                                         ],
                                                         [
-                                                            "April 2024",
+                                                            "May 2024",
                                                             "Position Class"
                                                         ],
                                                         [
-                                                            "End-Debug",
+                                                            "Turkish Team",
+                                                            "Position"
+                                                        ]
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "type": "Position Weight Vote",
+                                                "name": "May 2024 Elves & Fairies Team",
+                                                "config": "{\n    \"percentage\": 60\n}",
+                                                "project": "Governance",
+                                                "id": "d5f4b9d2-0375-4ff6-a031-51dc70dcc9f5",
+                                                "savedPayload": {
+                                                    "position": {
+                                                        "x": 26581.31319484997,
+                                                        "y": 32710.545603677157
+                                                    },
+                                                    "targetPosition": {
+                                                        "x": 26231.59751219433,
+                                                        "y": 32427.35142770473
+                                                    },
+                                                    "floatingObject": {
+                                                        "isPinned": false,
+                                                        "isFrozen": false,
+                                                        "isCollapsed": false,
+                                                        "angleToParent": 2,
+                                                        "distanceToParent": 3,
+                                                        "arrangementStyle": 0
+                                                    },
+                                                    "uiObject": {
+                                                        "isRunning": false
+                                                    },
+                                                    "referenceParent": {
+                                                        "type": "Position",
+                                                        "name": "Elves & Fairies Team",
+                                                        "id": "636bc857-c9e0-4d26-a8b9-6d466e3f6c16"
+                                                    },
+                                                    "referenceParentCombinedNodePath": [
+                                                        [
+                                                            "Teams of Contributors",
+                                                            "Positions"
+                                                        ],
+                                                        [
+                                                            "May 2024",
+                                                            "Position Class"
+                                                        ],
+                                                        [
+                                                            "Elves & Fairies Team",
                                                             "Position"
                                                         ]
                                                     ]
                                                 }
                                             }
                                         ],
-                                        "id": "fa4555bf-bd6c-42c7-afd3-24468fadcb3a",
+                                        "id": "28d8fb1d-afd9-4709-8fa5-27eaeea52103",
                                         "savedPayload": {
                                             "position": {
                                                 "x": 26231.59751219433,
@@ -8092,7 +8139,7 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position Class",
-                                                "name": "April 2024",
+                                                "name": "May 2024",
                                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                             },
                                             "referenceParentCombinedNodePath": [
@@ -8101,7 +8148,7 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "April 2024",
+                                                    "May 2024",
                                                     "Position Class"
                                                 ]
                                             ]
