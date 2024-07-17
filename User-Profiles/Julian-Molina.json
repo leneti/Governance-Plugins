@@ -1796,7 +1796,7 @@
                                                         "positionClaimVotes": [
                                                             {
                                                                 "type": "Position Claim Vote",
-                                                                "name": "prepheadrus VEX Team May 2024",
+                                                                "name": "prepheadrus ",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "549947fc-92c4-4297-82a8-cbb61be3ee8c",
@@ -1822,7 +1822,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "VEX Team May 2024",
+                                                                        "name": "",
                                                                         "id": "7afcd83a-d169-467b-a2bf-54af3406f7f6"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -1859,7 +1859,7 @@
                                                             },
                                                             {
                                                                 "type": "Position Claim Vote",
-                                                                "name": "prepheadrus VEX Team May 2024",
+                                                                "name": "prepheadrus ",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "d6710fe3-7306-4e8d-acd1-0af51a072464",
@@ -1885,7 +1885,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "VEX Team May 2024",
+                                                                        "name": "",
                                                                         "id": "7afcd83a-d169-467b-a2bf-54af3406f7f6"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -3857,7 +3857,7 @@
                                                         "positionClaimVotes": [
                                                             {
                                                                 "type": "Position Claim Vote",
-                                                                "name": "BicMC22 Turkish Team May 2024",
+                                                                "name": "BicMC22 ",
                                                                 "config": "{}",
                                                                 "project": "Governance",
                                                                 "id": "8f79af42-3d98-4af3-89be-9b3fd3164bb8",
@@ -3883,7 +3883,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "Turkish Team May 2024",
+                                                                        "name": "",
                                                                         "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -4932,7 +4932,7 @@
                                                 "positionClaimVotes": [
                                                     {
                                                         "type": "Position Claim Vote",
-                                                        "name": "BastianMuc Elves & Fairies Team May 2024",
+                                                        "name": "BastianMuc ",
                                                         "config": "{}",
                                                         "project": "Governance",
                                                         "id": "575188e5-b8a1-495a-b316-20aa54b2a0f1",
@@ -4958,7 +4958,7 @@
                                                             },
                                                             "referenceParent": {
                                                                 "type": "Position Contribution Claim",
-                                                                "name": "Elves & Fairies Team May 2024",
+                                                                "name": "",
                                                                 "id": "1dfaa8d3-154d-4330-8ccb-587739b2cd6a"
                                                             },
                                                             "referenceParentCombinedNodePath": [
@@ -7683,7 +7683,7 @@
                                     {
                                         "type": "Weight Votes Switch",
                                         "name": "Teams Work ",
-                                        "config": "{\n    \"percentage\": 10\n}",
+                                        "config": "{\n    \"percentage\": 0\n}",
                                         "project": "Governance",
                                         "weightVotesSwitch": [],
                                         "poolWeightVotes": [
@@ -7914,209 +7914,20 @@
                             {
                                 "type": "Weight Votes Switch",
                                 "name": "Teams of Contributors",
-                                "config": "{\r\n    \"percentage\": 10\r\n}",
+                                "config": "{\r\n    \"percentage\": 0\r\n}",
                                 "project": "Governance",
                                 "weightVotesSwitch": [
                                     {
                                         "type": "Weight Votes Switch",
-                                        "name": "May 2024",
+                                        "name": "June 2024",
                                         "config": "{}",
                                         "project": "Governance",
                                         "weightVotesSwitch": [],
                                         "poolWeightVotes": [],
                                         "assetWeightVotes": [],
                                         "featureWeightVotes": [],
-                                        "positionWeightVotes": [
-                                            {
-                                                "type": "Position Weight Vote",
-                                                "name": "May 2024 VEX Team",
-                                                "config": "{}",
-                                                "project": "Governance",
-                                                "id": "16f86c8d-93d8-40e2-b889-afa85494a226",
-                                                "savedPayload": {
-                                                    "position": {
-                                                        "x": 26392.863089489714,
-                                                        "y": 32007.240235780988
-                                                    },
-                                                    "targetPosition": {
-                                                        "x": 26231.59751219433,
-                                                        "y": 32427.35142770473
-                                                    },
-                                                    "floatingObject": {
-                                                        "isPinned": false,
-                                                        "isFrozen": false,
-                                                        "isCollapsed": false,
-                                                        "angleToParent": 2,
-                                                        "distanceToParent": 3,
-                                                        "arrangementStyle": 0
-                                                    },
-                                                    "uiObject": {
-                                                        "isRunning": false
-                                                    },
-                                                    "referenceParent": {
-                                                        "type": "Position",
-                                                        "name": "VEX Team",
-                                                        "id": "14669366-c56f-44a5-8ba7-59bed4695f09"
-                                                    },
-                                                    "referenceParentCombinedNodePath": [
-                                                        [
-                                                            "Teams of Contributors",
-                                                            "Positions"
-                                                        ],
-                                                        [
-                                                            "May 2024",
-                                                            "Position Class"
-                                                        ],
-                                                        [
-                                                            "VEX Team",
-                                                            "Position"
-                                                        ]
-                                                    ]
-                                                }
-                                            },
-                                            {
-                                                "type": "Position Weight Vote",
-                                                "name": "May 2024 End Debug Team",
-                                                "config": "{}",
-                                                "project": "Governance",
-                                                "id": "679a51da-63ff-421a-a38f-836bd5e601a3",
-                                                "savedPayload": {
-                                                    "position": {
-                                                        "x": 26608.99926776977,
-                                                        "y": 32182.263861947966
-                                                    },
-                                                    "targetPosition": {
-                                                        "x": 26231.59751219433,
-                                                        "y": 32427.35142770473
-                                                    },
-                                                    "floatingObject": {
-                                                        "isPinned": false,
-                                                        "isFrozen": false,
-                                                        "isCollapsed": false,
-                                                        "angleToParent": 2,
-                                                        "distanceToParent": 3,
-                                                        "arrangementStyle": 0
-                                                    },
-                                                    "uiObject": {
-                                                        "isRunning": false
-                                                    },
-                                                    "referenceParent": {
-                                                        "type": "Position",
-                                                        "name": "End Debug Team",
-                                                        "id": "24aa6213-a2aa-45a1-94b8-dd00af90cd6a"
-                                                    },
-                                                    "referenceParentCombinedNodePath": [
-                                                        [
-                                                            "Teams of Contributors",
-                                                            "Positions"
-                                                        ],
-                                                        [
-                                                            "May 2024",
-                                                            "Position Class"
-                                                        ],
-                                                        [
-                                                            "End Debug Team",
-                                                            "Position"
-                                                        ]
-                                                    ]
-                                                }
-                                            },
-                                            {
-                                                "type": "Position Weight Vote",
-                                                "name": "May 2024 Turkish Team",
-                                                "config": "{}",
-                                                "project": "Governance",
-                                                "id": "45246b00-1b71-4263-9beb-73da52f6e5f4",
-                                                "savedPayload": {
-                                                    "position": {
-                                                        "x": 26680.98080283389,
-                                                        "y": 32450.902608014054
-                                                    },
-                                                    "targetPosition": {
-                                                        "x": 26231.59751219433,
-                                                        "y": 32427.35142770473
-                                                    },
-                                                    "floatingObject": {
-                                                        "isPinned": false,
-                                                        "isFrozen": false,
-                                                        "isCollapsed": false,
-                                                        "angleToParent": 2,
-                                                        "distanceToParent": 3,
-                                                        "arrangementStyle": 0
-                                                    },
-                                                    "uiObject": {
-                                                        "isRunning": false
-                                                    },
-                                                    "referenceParent": {
-                                                        "type": "Position",
-                                                        "name": "Turkish Team",
-                                                        "id": "48edf4d4-d11c-423b-8576-84d9c6ea290b"
-                                                    },
-                                                    "referenceParentCombinedNodePath": [
-                                                        [
-                                                            "Teams of Contributors",
-                                                            "Positions"
-                                                        ],
-                                                        [
-                                                            "May 2024",
-                                                            "Position Class"
-                                                        ],
-                                                        [
-                                                            "Turkish Team",
-                                                            "Position"
-                                                        ]
-                                                    ]
-                                                }
-                                            },
-                                            {
-                                                "type": "Position Weight Vote",
-                                                "name": "May 2024 Elves & Fairies Team",
-                                                "config": "{\n    \"percentage\": 60\n}",
-                                                "project": "Governance",
-                                                "id": "d5f4b9d2-0375-4ff6-a031-51dc70dcc9f5",
-                                                "savedPayload": {
-                                                    "position": {
-                                                        "x": 26581.31319484997,
-                                                        "y": 32710.545603677157
-                                                    },
-                                                    "targetPosition": {
-                                                        "x": 26231.59751219433,
-                                                        "y": 32427.35142770473
-                                                    },
-                                                    "floatingObject": {
-                                                        "isPinned": false,
-                                                        "isFrozen": false,
-                                                        "isCollapsed": false,
-                                                        "angleToParent": 2,
-                                                        "distanceToParent": 3,
-                                                        "arrangementStyle": 0
-                                                    },
-                                                    "uiObject": {
-                                                        "isRunning": false
-                                                    },
-                                                    "referenceParent": {
-                                                        "type": "Position",
-                                                        "name": "Elves & Fairies Team",
-                                                        "id": "636bc857-c9e0-4d26-a8b9-6d466e3f6c16"
-                                                    },
-                                                    "referenceParentCombinedNodePath": [
-                                                        [
-                                                            "Teams of Contributors",
-                                                            "Positions"
-                                                        ],
-                                                        [
-                                                            "May 2024",
-                                                            "Position Class"
-                                                        ],
-                                                        [
-                                                            "Elves & Fairies Team",
-                                                            "Position"
-                                                        ]
-                                                    ]
-                                                }
-                                            }
-                                        ],
-                                        "id": "28d8fb1d-afd9-4709-8fa5-27eaeea52103",
+                                        "positionWeightVotes": [],
+                                        "id": "876a5495-c928-4540-b496-394ab83d4f86",
                                         "savedPayload": {
                                             "position": {
                                                 "x": 26231.59751219433,
@@ -8139,7 +7950,7 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position Class",
-                                                "name": "May 2024",
+                                                "name": "June 2024",
                                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                             },
                                             "referenceParentCombinedNodePath": [
@@ -8148,7 +7959,7 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "May 2024",
+                                                    "June 2024",
                                                     "Position Class"
                                                 ]
                                             ]
