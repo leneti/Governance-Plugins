@@ -150,7 +150,7 @@
         "communityBuildingPrograms": {
             "type": "Community Building Programs",
             "name": "New Community Building Programs",
-            "config": "{\r\n    \"percentage\": 0\r\n}",
+            "config": "{\r\n    \"percentage\": 10\r\n}",
             "project": "Governance",
             "referralProgram": {
                 "type": "Referral Program",
@@ -160,10 +160,10 @@
                 "userReferrers": [
                     {
                         "type": "User Referrer",
-                        "name": "",
-                        "config": "{\r\n    \"signature\": {\r\n        \"message\": \"Julian-Molina\",\r\n        \"messageHash\": \"0x25694a4a2a623f9a6a4cd32f94dccc0162b3379c378d0ea8afaf26d3e8b0fff3\",\r\n        \"v\": \"0x1b\",\r\n        \"r\": \"0x6a86ee723737eef94f383f189a114db0907a85ac4b4be6db65cb4fb4596c59b7\",\r\n        \"s\": \"0x3d4909803bee4ed1b8837cb337ecf84e65079b8d2396f53deb54734d2ce72de4\",\r\n        \"signature\": \"0x6a86ee723737eef94f383f189a114db0907a85ac4b4be6db65cb4fb4596c59b73d4909803bee4ed1b8837cb337ecf84e65079b8d2396f53deb54734d2ce72de41b\"\r\n    },\r\n    \"codeName\": \"Julian-Molina\"\r\n}",
+                        "name": "Julian-Molina",
+                        "config": "{}",
                         "project": "Governance",
-                        "id": "6f218b76-c557-41a6-ae44-64157f451ff1",
+                        "id": "4914d3fd-40a5-4652-a2a3-ad6f032c02af",
                         "savedPayload": {
                             "position": {
                                 "x": 11583.658645905849,
@@ -183,7 +183,18 @@
                             },
                             "uiObject": {
                                 "isRunning": false
-                            }
+                            },
+                            "referenceParent": {
+                                "type": "User Profile",
+                                "name": "Julian-Molina",
+                                "id": "1beb2eb4-f4fa-4d0f-a466-e3df634df6d9"
+                            },
+                            "referenceParentCombinedNodePath": [
+                                [
+                                    "Julian-Molina",
+                                    "User Profile"
+                                ]
+                            ]
                         }
                     }
                 ],
@@ -379,7 +390,7 @@
                 {
                     "type": "Liquidity Program",
                     "name": "New Liquidity Program",
-                    "config": "{\n\"asset\": \"BTCB\",\n\"exchange\": \"PANCAKE\"\n}",
+                    "config": "{\n    \"asset\": \"BTCB\",\n    \"exchange\": \"PANCAKE\"\n}",
                     "project": "Governance",
                     "tokensAwarded": {
                         "type": "Tokens Awarded",
