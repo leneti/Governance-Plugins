@@ -150,7 +150,7 @@
         "communityBuildingPrograms": {
             "type": "Community Building Programs",
             "name": "New Community Building Programs",
-            "config": "{\r\n    \"percentage\": 88\r\n}",
+            "config": "{\r\n    \"percentage\": 0\r\n}",
             "project": "Governance",
             "referralProgram": {
                 "type": "Referral Program",
@@ -739,7 +739,7 @@
                                 "positionWeightVotes": [
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "May 2024 VEX Team",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "de41f0e9-997e-4a9a-957c-2948d5c16cf0",
@@ -786,7 +786,7 @@
                                     },
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "May 2024 End Debug Team",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "57021127-8539-4f36-951f-f169ddf4cff2",
@@ -833,7 +833,7 @@
                                     },
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "May 2024 Turkish Team",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "fb913f2a-6074-4734-8ab9-73cf36f92a14",
@@ -880,7 +880,7 @@
                                     },
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "May 2024 Elves & Fairies Team",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "4e431011-eb74-42f5-a122-e31f191e2052",
@@ -949,7 +949,7 @@
                                     },
                                     "referenceParent": {
                                         "type": "Position Class",
-                                        "name": "May 2024",
+                                        "name": "July 2024",
                                         "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                     },
                                     "referenceParentCombinedNodePath": [
@@ -958,7 +958,7 @@
                                             "Positions"
                                         ],
                                         [
-                                            "May 2024",
+                                            "July 2024",
                                             "Position Class"
                                         ]
                                     ]
@@ -1043,7 +1043,7 @@
             "claimsProgram": {
                 "type": "Claims Program",
                 "name": "New Claims Program",
-                "config": "{\r\n    \"amount\": 100000\r\n}",
+                "config": "{\r\n    \"amount\": 0\r\n}",
                 "project": "Governance",
                 "assetClaimsFolders": [],
                 "featureClaimsFolders": [],
@@ -1057,7 +1057,7 @@
                         "positionContributionClaims": [
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "Turkish Team May 2024",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854",
@@ -1126,7 +1126,7 @@
                             },
                             "referenceParent": {
                                 "type": "Position Class",
-                                "name": "May 2024",
+                                "name": "July 2024",
                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                             },
                             "referenceParentCombinedNodePath": [
@@ -1135,7 +1135,7 @@
                                     "Positions"
                                 ],
                                 [
-                                    "May 2024",
+                                    "July 2024",
                                     "Position Class"
                                 ]
                             ]
@@ -1219,7 +1219,7 @@
                             },
                             "referenceParent": {
                                 "type": "Position Class",
-                                "name": "May 2024",
+                                "name": "July 2024",
                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                             },
                             "referenceParentCombinedNodePath": [
@@ -1228,7 +1228,7 @@
                                     "Positions"
                                 ],
                                 [
-                                    "May 2024",
+                                    "July 2024",
                                     "Position Class"
                                 ]
                             ]
