@@ -729,7 +729,7 @@
                             },
                             {
                                 "type": "Weight Votes Switch",
-                                "name": "May 2024",
+                                "name": "October 2024",
                                 "config": "{}",
                                 "project": "Governance",
                                 "weightVotesSwitch": [],
@@ -739,14 +739,14 @@
                                 "positionWeightVotes": [
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "",
+                                        "name": "October 2024 Spanish Team",
                                         "config": "{}",
                                         "project": "Governance",
-                                        "id": "de41f0e9-997e-4a9a-957c-2948d5c16cf0",
+                                        "id": "2ebdc01d-e40b-4139-98e0-6ef0e00882e3",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 8568.85512191462,
-                                                "y": 37131.12582413414
+                                                "x": 8799.53725324077,
+                                                "y": 37387.32428613243
                                             },
                                             "targetPosition": {
                                                 "x": 8432.787291071638,
@@ -765,8 +765,8 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position",
-                                                "name": "VEX Team",
-                                                "id": "14669366-c56f-44a5-8ba7-59bed4695f09"
+                                                "name": "Spanish Team",
+                                                "id": "534a6a26-f0a2-404e-86bc-1d39b22cf5f2"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -774,152 +774,11 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "May 2024",
+                                                    "October 2024",
                                                     "Position Class"
                                                 ],
                                                 [
-                                                    "VEX Team",
-                                                    "Position"
-                                                ]
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "type": "Position Weight Vote",
-                                        "name": "",
-                                        "config": "{}",
-                                        "project": "Governance",
-                                        "id": "57021127-8539-4f36-951f-f169ddf4cff2",
-                                        "savedPayload": {
-                                            "position": {
-                                                "x": 8751.220022338415,
-                                                "y": 37278.802008712526
-                                            },
-                                            "targetPosition": {
-                                                "x": 8432.787291071638,
-                                                "y": 37485.5946423198
-                                            },
-                                            "floatingObject": {
-                                                "isPinned": false,
-                                                "isFrozen": false,
-                                                "isCollapsed": false,
-                                                "angleToParent": 2,
-                                                "distanceToParent": 4,
-                                                "arrangementStyle": 0
-                                            },
-                                            "uiObject": {
-                                                "isRunning": false
-                                            },
-                                            "referenceParent": {
-                                                "type": "Position",
-                                                "name": "End Debug Team",
-                                                "id": "24aa6213-a2aa-45a1-94b8-dd00af90cd6a"
-                                            },
-                                            "referenceParentCombinedNodePath": [
-                                                [
-                                                    "Teams of Contributors",
-                                                    "Positions"
-                                                ],
-                                                [
-                                                    "May 2024",
-                                                    "Position Class"
-                                                ],
-                                                [
-                                                    "End Debug Team",
-                                                    "Position"
-                                                ]
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "type": "Position Weight Vote",
-                                        "name": "",
-                                        "config": "{}",
-                                        "project": "Governance",
-                                        "id": "fb913f2a-6074-4734-8ab9-73cf36f92a14",
-                                        "savedPayload": {
-                                            "position": {
-                                                "x": 8811.954442548766,
-                                                "y": 37505.46595070579
-                                            },
-                                            "targetPosition": {
-                                                "x": 8432.787291071638,
-                                                "y": 37485.5946423198
-                                            },
-                                            "floatingObject": {
-                                                "isPinned": false,
-                                                "isFrozen": false,
-                                                "isCollapsed": false,
-                                                "angleToParent": 2,
-                                                "distanceToParent": 4,
-                                                "arrangementStyle": 0
-                                            },
-                                            "uiObject": {
-                                                "isRunning": false
-                                            },
-                                            "referenceParent": {
-                                                "type": "Position",
-                                                "name": "Turkish Team",
-                                                "id": "48edf4d4-d11c-423b-8576-84d9c6ea290b"
-                                            },
-                                            "referenceParentCombinedNodePath": [
-                                                [
-                                                    "Teams of Contributors",
-                                                    "Positions"
-                                                ],
-                                                [
-                                                    "May 2024",
-                                                    "Position Class"
-                                                ],
-                                                [
-                                                    "Turkish Team",
-                                                    "Position"
-                                                ]
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "type": "Position Weight Vote",
-                                        "name": "",
-                                        "config": "{}",
-                                        "project": "Governance",
-                                        "id": "4e431011-eb74-42f5-a122-e31f191e2052",
-                                        "savedPayload": {
-                                            "position": {
-                                                "x": 8727.859898312332,
-                                                "y": 37724.539728296535
-                                            },
-                                            "targetPosition": {
-                                                "x": 8432.787291071638,
-                                                "y": 37485.5946423198
-                                            },
-                                            "floatingObject": {
-                                                "isPinned": false,
-                                                "isFrozen": false,
-                                                "isCollapsed": false,
-                                                "angleToParent": 2,
-                                                "distanceToParent": 4,
-                                                "arrangementStyle": 0
-                                            },
-                                            "uiObject": {
-                                                "isRunning": false
-                                            },
-                                            "referenceParent": {
-                                                "type": "Position",
-                                                "name": "Elves & Fairies Team",
-                                                "id": "636bc857-c9e0-4d26-a8b9-6d466e3f6c16"
-                                            },
-                                            "referenceParentCombinedNodePath": [
-                                                [
-                                                    "Teams of Contributors",
-                                                    "Positions"
-                                                ],
-                                                [
-                                                    "May 2024",
-                                                    "Position Class"
-                                                ],
-                                                [
-                                                    "Elves & Fairies Team",
+                                                    "Spanish Team",
                                                     "Position"
                                                 ]
                                             ]
@@ -949,7 +808,7 @@
                                     },
                                     "referenceParent": {
                                         "type": "Position Class",
-                                        "name": "July 2024",
+                                        "name": "October 2024",
                                         "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                     },
                                     "referenceParentCombinedNodePath": [
@@ -958,7 +817,7 @@
                                             "Positions"
                                         ],
                                         [
-                                            "July 2024",
+                                            "October 2024",
                                             "Position Class"
                                         ]
                                     ]
@@ -1057,7 +916,7 @@
                         "positionContributionClaims": [
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "",
+                                "name": "Spanish Team October 2024",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854",
@@ -1083,8 +942,8 @@
                                     },
                                     "referenceParent": {
                                         "type": "Position",
-                                        "name": "Turkish Team",
-                                        "id": "48edf4d4-d11c-423b-8576-84d9c6ea290b"
+                                        "name": "Spanish Team",
+                                        "id": "534a6a26-f0a2-404e-86bc-1d39b22cf5f2"
                                     },
                                     "referenceParentCombinedNodePath": [
                                         [
@@ -1092,11 +951,11 @@
                                             "Positions"
                                         ],
                                         [
-                                            "May 2024",
+                                            "October 2024",
                                             "Position Class"
                                         ],
                                         [
-                                            "Turkish Team",
+                                            "Spanish Team",
                                             "Position"
                                         ]
                                     ]
@@ -1126,7 +985,7 @@
                             },
                             "referenceParent": {
                                 "type": "Position Class",
-                                "name": "July 2024",
+                                "name": "October 2024",
                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                             },
                             "referenceParentCombinedNodePath": [
@@ -1135,7 +994,7 @@
                                     "Positions"
                                 ],
                                 [
-                                    "July 2024",
+                                    "October 2024",
                                     "Position Class"
                                 ]
                             ]
@@ -1219,7 +1078,7 @@
                             },
                             "referenceParent": {
                                 "type": "Position Class",
-                                "name": "July 2024",
+                                "name": "October 2024",
                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                             },
                             "referenceParentCombinedNodePath": [
@@ -1228,7 +1087,7 @@
                                     "Positions"
                                 ],
                                 [
-                                    "July 2024",
+                                    "October 2024",
                                     "Position Class"
                                 ]
                             ]
