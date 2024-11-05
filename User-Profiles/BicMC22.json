@@ -481,14 +481,14 @@
                             {
                                 "type": "Claim Votes Switch",
                                 "name": "New Claim Votes Switch",
-                                "config": "{\r\n    \"amount\": 0\r\n}",
+                                "config": "{\r\n    \"amount\": 1000000\r\n}",
                                 "project": "Governance",
                                 "claimVotesSwitch": [],
                                 "positionClaimVotes": [
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "NicN11 ",
-                                        "config": "{}",
+                                        "name": "MarkTradeink ",
+                                        "config": "{\r\n    \"amount\": 1000000\r\n}",
                                         "project": "Governance",
                                         "id": "1468287f-54c2-4657-95c7-395f58c4e62d",
                                         "savedPayload": {
@@ -514,11 +514,11 @@
                                             "referenceParent": {
                                                 "type": "Position Contribution Claim",
                                                 "name": "",
-                                                "id": "35649d72-68fd-4ed7-bb7c-97eb886974d4"
+                                                "id": "1e7f84a8-03e7-433f-be30-80d42c8f68ea"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
-                                                    "NicN11",
+                                                    "MarkTradeink",
                                                     "User Profile"
                                                 ],
                                                 [
@@ -534,7 +534,7 @@
                                                     "Claims Program"
                                                 ],
                                                 [
-                                                    "Translations Teams",
+                                                    "New Position Claims Folder",
                                                     "Position Claims Folder"
                                                 ],
                                                 [
@@ -547,7 +547,7 @@
                                     {
                                         "type": "Position Claim Vote",
                                         "name": "NicN11 ",
-                                        "config": "{\r\n    \"amount\": 950000\r\n}",
+                                        "config": "{\r\n    \"amount\": 0\r\n}",
                                         "project": "Governance",
                                         "id": "39204a86-a3bf-4d3c-9c7c-2cf909221515",
                                         "savedPayload": {
@@ -619,7 +619,7 @@
                                     "floatingObject": {
                                         "isPinned": false,
                                         "isFrozen": false,
-                                        "isCollapsed": true,
+                                        "isCollapsed": false,
                                         "angleToParent": 2,
                                         "distanceToParent": 4,
                                         "arrangementStyle": 0
