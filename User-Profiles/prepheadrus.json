@@ -2085,37 +2085,37 @@
                         "claimVotesSwitch": [
                             {
                                 "type": "Claim Votes Switch",
-                                "name": "April 2024",
+                                "name": "October 2024",
                                 "config": "{\r\n    \"percentage\": 5\r\n}",
                                 "project": "Governance",
                                 "claimVotesSwitch": [
                                     {
                                         "type": "Claim Votes Switch",
-                                        "name": "Translation Team Votes",
+                                        "name": "October 2024",
                                         "config": "{\r\n    \"percentage\":\r\n}",
                                         "project": "Governance",
                                         "claimVotesSwitch": [],
                                         "positionClaimVotes": [
                                             {
                                                 "type": "Position Claim Vote",
-                                                "name": "motaviegas ",
+                                                "name": "MarkTradeink Spanish Team October 2024",
                                                 "config": "{}",
                                                 "project": "Governance",
-                                                "id": "2aa41bcf-062c-4d56-893b-872b1f01a0a1",
+                                                "id": "a35b80d6-274b-4e63-a1c3-67b6ccdda273",
                                                 "savedPayload": {
                                                     "position": {
-                                                        "x": 37426.27792314464,
-                                                        "y": 12080.97616169498
+                                                        "x": 36927.31463484564,
+                                                        "y": 21570.22430388776
                                                     },
                                                     "targetPosition": {
-                                                        "x": 37772.794229002306,
-                                                        "y": 12368.076230964834
+                                                        "x": 37137.58551756852,
+                                                        "y": 21968.076230964834
                                                     },
                                                     "floatingObject": {
                                                         "isPinned": false,
                                                         "isFrozen": false,
                                                         "isCollapsed": false,
-                                                        "angleToParent": 3,
+                                                        "angleToParent": 2,
                                                         "distanceToParent": 3,
                                                         "arrangementStyle": 0
                                                     },
@@ -2124,12 +2124,12 @@
                                                     },
                                                     "referenceParent": {
                                                         "type": "Position Contribution Claim",
-                                                        "name": "",
-                                                        "id": "1c5f6e2f-9313-4bfe-a24b-9b7144b06ebb"
+                                                        "name": "Spanish Team October 2024",
+                                                        "id": "5ffc7b10-dc98-4ed6-abb0-0026067adfff"
                                                     },
                                                     "referenceParentCombinedNodePath": [
                                                         [
-                                                            "motaviegas",
+                                                            "MarkTradeink",
                                                             "User Profile"
                                                         ],
                                                         [
@@ -2145,129 +2145,11 @@
                                                             "Claims Program"
                                                         ],
                                                         [
-                                                            "March 2024 Position Class",
+                                                            "October 2024 Position Class",
                                                             "Position Claims Folder"
                                                         ],
                                                         [
-                                                            "Translations Team March 2024",
-                                                            "Position Contribution Claim"
-                                                        ]
-                                                    ]
-                                                }
-                                            },
-                                            {
-                                                "type": "Position Claim Vote",
-                                                "name": "NicN11 ",
-                                                "config": "{}",
-                                                "project": "Governance",
-                                                "id": "20a9fc9c-9866-4d3c-af36-3dfa00164901",
-                                                "savedPayload": {
-                                                    "position": {
-                                                        "x": 37562.52334627943,
-                                                        "y": 11970.22430388776
-                                                    },
-                                                    "targetPosition": {
-                                                        "x": 37772.794229002306,
-                                                        "y": 12368.076230964834
-                                                    },
-                                                    "floatingObject": {
-                                                        "isPinned": false,
-                                                        "isFrozen": false,
-                                                        "isCollapsed": false,
-                                                        "angleToParent": 3,
-                                                        "distanceToParent": 3,
-                                                        "arrangementStyle": 0
-                                                    },
-                                                    "uiObject": {
-                                                        "isRunning": false
-                                                    },
-                                                    "referenceParent": {
-                                                        "type": "Position Contribution Claim",
-                                                        "name": "",
-                                                        "id": "35649d72-68fd-4ed7-bb7c-97eb886974d4"
-                                                    },
-                                                    "referenceParentCombinedNodePath": [
-                                                        [
-                                                            "NicN11",
-                                                            "User Profile"
-                                                        ],
-                                                        [
-                                                            "New Token Power Switch",
-                                                            "Token Power Switch"
-                                                        ],
-                                                        [
-                                                            "New Votes And Claims Programs",
-                                                            "Votes And Claims Programs"
-                                                        ],
-                                                        [
-                                                            "New Claims Program",
-                                                            "Claims Program"
-                                                        ],
-                                                        [
-                                                            "Translations Teams",
-                                                            "Position Claims Folder"
-                                                        ],
-                                                        [
-                                                            "",
-                                                            "Position Contribution Claim"
-                                                        ]
-                                                    ]
-                                                }
-                                            },
-                                            {
-                                                "type": "Position Claim Vote",
-                                                "name": "BicMC22 ",
-                                                "config": "{}",
-                                                "project": "Governance",
-                                                "id": "1bbd9642-5d83-41f9-b3d3-2bbb4eef5199",
-                                                "savedPayload": {
-                                                    "position": {
-                                                        "x": 37730.78060519848,
-                                                        "y": 11920.041795441324
-                                                    },
-                                                    "targetPosition": {
-                                                        "x": 37772.794229002306,
-                                                        "y": 12368.076230964834
-                                                    },
-                                                    "floatingObject": {
-                                                        "isPinned": false,
-                                                        "isFrozen": false,
-                                                        "isCollapsed": false,
-                                                        "angleToParent": 3,
-                                                        "distanceToParent": 3,
-                                                        "arrangementStyle": 0
-                                                    },
-                                                    "uiObject": {
-                                                        "isRunning": false
-                                                    },
-                                                    "referenceParent": {
-                                                        "type": "Position Contribution Claim",
-                                                        "name": "",
-                                                        "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854"
-                                                    },
-                                                    "referenceParentCombinedNodePath": [
-                                                        [
-                                                            "BicMC22",
-                                                            "User Profile"
-                                                        ],
-                                                        [
-                                                            "New Token Power Switch",
-                                                            "Token Power Switch"
-                                                        ],
-                                                        [
-                                                            "New Votes And Claims Programs",
-                                                            "Votes And Claims Programs"
-                                                        ],
-                                                        [
-                                                            "New Claims Program",
-                                                            "Claims Program"
-                                                        ],
-                                                        [
-                                                            "April 2023 Teams Position Class",
-                                                            "Position Claims Folder"
-                                                        ],
-                                                        [
-                                                            "",
+                                                            "Spanish Team October 2024",
                                                             "Position Contribution Claim"
                                                         ]
                                                     ]
@@ -2289,14 +2171,41 @@
                                             "floatingObject": {
                                                 "isPinned": false,
                                                 "isFrozen": false,
-                                                "isCollapsed": true,
+                                                "isCollapsed": false,
                                                 "angleToParent": 2,
                                                 "distanceToParent": 3,
                                                 "arrangementStyle": 0
                                             },
                                             "uiObject": {
                                                 "isRunning": false
-                                            }
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position Claims Folder",
+                                                "name": "October 2024 Position Class",
+                                                "id": "77ca2f2e-567b-4444-a9f3-afd3b346a691"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "MarkTradeink",
+                                                    "User Profile"
+                                                ],
+                                                [
+                                                    "New Token Power Switch",
+                                                    "Token Power Switch"
+                                                ],
+                                                [
+                                                    "New Votes And Claims Programs",
+                                                    "Votes And Claims Programs"
+                                                ],
+                                                [
+                                                    "New Claims Program",
+                                                    "Claims Program"
+                                                ],
+                                                [
+                                                    "October 2024 Position Class",
+                                                    "Position Claims Folder"
+                                                ]
+                                            ]
                                         }
                                     }
                                 ],
@@ -4710,7 +4619,7 @@
             "claimsProgram": {
                 "type": "Claims Program",
                 "name": "New Claims Program",
-                "config": "{\r\n    \"percentage\": 26\r\n}",
+                "config": "{\r\n    \"percentage\": 0\r\n}",
                 "project": "Governance",
                 "assetClaimsFolders": [],
                 "featureClaimsFolders": [],
@@ -5009,7 +4918,7 @@
         "financialPrograms": {
             "type": "Financial Programs",
             "name": "New Financial Programs",
-            "config": "{\r\n  \"percentage\": 0\r\n}",
+            "config": "{\r\n  \"percentage\":26\r\n}",
             "project": "Governance",
             "stakingProgram": {
                 "type": "Staking Program",
@@ -5023,12 +4932,12 @@
                     "id": "c3d208ab-0f38-43ab-9cae-796618beee2f",
                     "savedPayload": {
                         "position": {
-                            "x": -618134.3933268223,
-                            "y": 213102.20386230724
+                            "x": 37955.62963741347,
+                            "y": 23434.85476331053
                         },
                         "targetPosition": {
-                            "x": -618421.0651685582,
-                            "y": 213190.63041463046
+                            "x": 37525.62187480971,
+                            "y": 23567.494591795436
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5046,12 +4955,12 @@
                 "id": "d1d8a2ab-12a6-4ea5-9165-3ee7dd087822",
                 "savedPayload": {
                     "position": {
-                        "x": -618421.0651685582,
-                        "y": 213190.63041463046
+                        "x": 37525.62187480971,
+                        "y": 23567.494591795436
                     },
                     "targetPosition": {
-                        "x": -618707.737010294,
-                        "y": 213279.05696695374
+                        "x": 37095.61411220595,
+                        "y": 23700.13442028034
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -5081,18 +4990,18 @@
                         "userDelegates": [
                             {
                                 "type": "User Delegate",
-                                "name": "akelmazulkuf",
+                                "name": "MarkTradeink",
                                 "config": "{}",
                                 "project": "Governance",
-                                "id": "48b8616f-fbee-43e8-a46d-662500165e4f",
+                                "id": "bf455544-4827-47fa-beea-04c57f3bdbdc",
                                 "savedPayload": {
                                     "position": {
-                                        "x": -617902.864701436,
-                                        "y": 213616.6213486588
+                                        "x": 38302.92257549301,
+                                        "y": 24206.480992837936
                                     },
                                     "targetPosition": {
-                                        "x": -618195.3430750906,
-                                        "y": 213549.86506847193
+                                        "x": 37864.20501501119,
+                                        "y": 24106.346572557595
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -5107,12 +5016,12 @@
                                     },
                                     "referenceParent": {
                                         "type": "User Profile",
-                                        "name": "akelmazulkuf",
-                                        "id": "b81709a6-2d7b-4f68-82c3-6eb5af9e8e55"
+                                        "name": "MarkTradeink",
+                                        "id": "32af3789-4f69-4333-b0b1-77bc38680570"
                                     },
                                     "referenceParentCombinedNodePath": [
                                         [
-                                            "akelmazulkuf",
+                                            "MarkTradeink",
                                             "User Profile"
                                         ]
                                     ]
@@ -5122,12 +5031,12 @@
                         "id": "6c3d8739-3968-497d-9036-70b2429c789a",
                         "savedPayload": {
                             "position": {
-                                "x": -618195.3430750906,
-                                "y": 213549.86506847193
+                                "x": 37864.20501501119,
+                                "y": 24106.346572557595
                             },
                             "targetPosition": {
-                                "x": -618487.8214487451,
-                                "y": 213483.10878828506
+                                "x": 37425.48745452937,
+                                "y": 24006.212152277254
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -5150,12 +5059,12 @@
                     "id": "8d2eaab2-2397-48df-8bf9-c7cefda1fd37",
                     "savedPayload": {
                         "position": {
-                            "x": -618399.3948964218,
-                            "y": 213769.7806300209
+                            "x": 37558.12728301428,
+                            "y": 24436.219914881018
                         },
                         "targetPosition": {
-                            "x": -618487.8214487451,
-                            "y": 213483.10878828506
+                            "x": 37425.48745452937,
+                            "y": 24006.212152277254
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5173,12 +5082,12 @@
                 "id": "a5145098-c102-4538-a6a4-d60c5078ff95",
                 "savedPayload": {
                     "position": {
-                        "x": -618487.8214487451,
-                        "y": 213483.10878828506
+                        "x": 37425.48745452937,
+                        "y": 24006.212152277254
                     },
                     "targetPosition": {
-                        "x": -618707.737010294,
-                        "y": 213279.05696695374
+                        "x": 37095.61411220595,
+                        "y": 23700.13442028034
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -5206,7 +5115,7 @@
                 "floatingObject": {
                     "isPinned": false,
                     "isFrozen": false,
-                    "isCollapsed": true,
+                    "isCollapsed": false,
                     "angleToParent": 2,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -5397,7 +5306,7 @@
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": true,
+                "isCollapsed": false,
                 "angleToParent": 1,
                 "distanceToParent": 4,
                 "arrangementStyle": 0
