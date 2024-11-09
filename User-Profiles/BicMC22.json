@@ -487,7 +487,7 @@
                                 "positionClaimVotes": [
                                     {
                                         "type": "Position Claim Vote",
-                                        "name": "MarkTradeink ",
+                                        "name": "MarkTradeink Spanish Team October 2024",
                                         "config": "{\r\n    \"amount\": 1000000\r\n}",
                                         "project": "Governance",
                                         "id": "1468287f-54c2-4657-95c7-395f58c4e62d",
@@ -513,8 +513,8 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position Contribution Claim",
-                                                "name": "",
-                                                "id": "1e7f84a8-03e7-433f-be30-80d42c8f68ea"
+                                                "name": "Spanish Team October 2024",
+                                                "id": "5ffc7b10-dc98-4ed6-abb0-0026067adfff"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -534,11 +534,11 @@
                                                     "Claims Program"
                                                 ],
                                                 [
-                                                    "New Position Claims Folder",
+                                                    "October 2024 Position Class",
                                                     "Position Claims Folder"
                                                 ],
                                                 [
-                                                    "",
+                                                    "Spanish Team October 2024",
                                                     "Position Contribution Claim"
                                                 ]
                                             ]
