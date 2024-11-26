@@ -150,7 +150,7 @@
         "communityBuildingPrograms": {
             "type": "Community Building Programs",
             "name": "New Community Building Programs",
-            "config": "{\r\n    \"percentage\": 0\r\n}",
+            "config": "{\r\n    \"percentage\": 90\r\n}",
             "project": "Governance",
             "referralProgram": {
                 "type": "Referral Program",
@@ -481,14 +481,14 @@
                             {
                                 "type": "Claim Votes Switch",
                                 "name": "New Claim Votes Switch",
-                                "config": "{\r\n    \"amount\": 1000000\r\n}",
+                                "config": "{\r\n    \"amount\": 0\r\n}",
                                 "project": "Governance",
                                 "claimVotesSwitch": [],
                                 "positionClaimVotes": [
                                     {
                                         "type": "Position Claim Vote",
                                         "name": "MarkTradeink Spanish Team October 2024",
-                                        "config": "{\r\n    \"amount\": 1000000\r\n}",
+                                        "config": "{\r\n    \"amount\": 0\r\n}",
                                         "project": "Governance",
                                         "id": "1468287f-54c2-4657-95c7-395f58c4e62d",
                                         "savedPayload": {
@@ -619,7 +619,7 @@
                                     "floatingObject": {
                                         "isPinned": false,
                                         "isFrozen": false,
-                                        "isCollapsed": false,
+                                        "isCollapsed": true,
                                         "angleToParent": 2,
                                         "distanceToParent": 4,
                                         "arrangementStyle": 0
@@ -702,7 +702,7 @@
                                     "floatingObject": {
                                         "isPinned": false,
                                         "isFrozen": false,
-                                        "isCollapsed": false,
+                                        "isCollapsed": true,
                                         "angleToParent": 2,
                                         "distanceToParent": 4,
                                         "arrangementStyle": 0
