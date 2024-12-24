@@ -6,18 +6,18 @@
     "positionClasss": [
         {
             "type": "Position Class",
-            "name": "October 2024",
+            "name": "November 2024",
             "config": "{}",
             "project": "Governance",
             "positions": [
                 {
                     "type": "Position",
-                    "name": "Spanish Team",
+                    "name": "Team Spain",
                     "config": "{}",
                     "project": "Governance",
                     "positions": [],
                     "positionClasss": [],
-                    "id": "534a6a26-f0a2-404e-86bc-1d39b22cf5f2",
+                    "id": "4fcc4697-6f59-42c5-acc9-97acbbb52145",
                     "savedPayload": {
                         "position": {
                             "x": 27720.58333333333,
@@ -80,7 +80,7 @@
         "floatingObject": {
             "isPinned": false,
             "isFrozen": false,
-            "isCollapsed": false,
+            "isCollapsed": true,
             "angleToParent": 1,
             "distanceToParent": 3,
             "arrangementStyle": 0
