@@ -702,8 +702,212 @@
         "id": "0812f717-a916-477c-9388-16e750c464c9",
         "savedPayload": {
             "position": {
+                "x": 13714.285714285712,
+                "y": 28700
+            },
+            "targetPosition": {
+                "x": 13714.285714285712,
+                "y": 28400
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "userApps": {
+        "type": "User Apps",
+        "name": "New User Apps",
+        "config": "{}",
+        "project": "User-Apps",
+        "serverApps": {
+            "type": "Server Apps",
+            "name": "New Server Apps",
+            "config": "{}",
+            "project": "User-Apps",
+            "taskServerApps": [
+                {
+                    "type": "Task Server App",
+                    "name": "Task Server App #1",
+                    "config": "{\n    \"codeName\": \"Task-Server-App-1\"\n}",
+                    "project": "User-Apps",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"Daveu\",\n        \"messageHash\": \"0xfccbc037bd6712cc00a66791810bac15014c4a028bf46c66fd9194e1a8b9d71a\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xd3b03244ab5dc07f5d483cfdd59b5bc2a0aee668564e9dfde0ccd724330b1983\",\n        \"s\": \"0x397e98be44428b6ec73e5f0663bcd67703e70f5df4bdd0bff307ab0312d87176\",\n        \"signature\": \"0xd3b03244ab5dc07f5d483cfdd59b5bc2a0aee668564e9dfde0ccd724330b1983397e98be44428b6ec73e5f0663bcd67703e70f5df4bdd0bff307ab0312d871761b\"\n    }\n}",
+                        "project": "Governance",
+                        "id": "548364e6-29e7-4241-aee7-d6b324fed3b0",
+                        "savedPayload": {
+                            "position": {
+                                "x": 12514.285714285712,
+                                "y": 28400
+                            },
+                            "targetPosition": {
+                                "x": 12814.285714285712,
+                                "y": 28400
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "id": "4825320e-3a61-43c9-8b59-7a86449fcc37",
+                    "savedPayload": {
+                        "position": {
+                            "x": 12814.285714285712,
+                            "y": 28400
+                        },
+                        "targetPosition": {
+                            "x": 13114.285714285712,
+                            "y": 28400
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "socialTradingServerApps": [],
+            "id": "40124092-5279-4c65-a950-bf1a7542ca87",
+            "savedPayload": {
+                "position": {
+                    "x": 13114.285714285712,
+                    "y": 28400
+                },
+                "targetPosition": {
+                    "x": 13414.285714285712,
+                    "y": 28400
+                },
+                "floatingObject": {
+                    "isPinned": false,
+                    "isFrozen": false,
+                    "isCollapsed": false,
+                    "angleToParent": 1,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        "id": "45336b70-dd33-4504-b90c-9231c2a7ff2c",
+        "savedPayload": {
+            "position": {
                 "x": 13414.285714285712,
                 "y": 28400
+            },
+            "targetPosition": {
+                "x": 13714.285714285712,
+                "y": 28400
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "forecastsProviders": {
+        "type": "Forecasts Providers",
+        "name": "New Forecasts Providers",
+        "config": "{}",
+        "project": "Governance",
+        "bitcoinFactoryForecasts": [
+            {
+                "type": "Bitcoin Factory Forecasts",
+                "name": "Testnet",
+                "config": "{}",
+                "project": "Governance",
+                "testClientInstances": [
+                    {
+                        "type": "Test Client Instance",
+                        "name": "Super-Unique-Client-Name",
+                        "config": "{\r\n    \"codeName\": \"Super-Unique-Client-Name\"\r\n}",
+                        "project": "Governance",
+                        "id": "839a5f92-12ff-4a32-90ba-26bc9427e5f8",
+                        "savedPayload": {
+                            "position": {
+                                "x": 13714.285714285712,
+                                "y": 27500
+                            },
+                            "targetPosition": {
+                                "x": 13714.285714285712,
+                                "y": 27800
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    }
+                ],
+                "forecastClientInstances": [],
+                "id": "e9b6ad77-c586-4b2a-ba88-95cf3e7af6ce",
+                "savedPayload": {
+                    "position": {
+                        "x": 13714.285714285712,
+                        "y": 27800
+                    },
+                    "targetPosition": {
+                        "x": 13714.285714285712,
+                        "y": 28100
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            }
+        ],
+        "id": "b67b3dfe-85f9-447d-a799-c408d3069719",
+        "savedPayload": {
+            "position": {
+                "x": 13714.285714285712,
+                "y": 28100
             },
             "targetPosition": {
                 "x": 13714.285714285712,
