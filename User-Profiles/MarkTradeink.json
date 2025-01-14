@@ -520,54 +520,6 @@
                         "weightVotesSwitch": [
                             {
                                 "type": "Weight Votes Switch",
-                                "name": "October 2024",
-                                "config": "{}",
-                                "project": "Governance",
-                                "weightVotesSwitch": [],
-                                "poolWeightVotes": [],
-                                "assetWeightVotes": [],
-                                "featureWeightVotes": [],
-                                "positionWeightVotes": [],
-                                "id": "e1243fd6-623f-4e07-b0c8-242b4aa1a278",
-                                "savedPayload": {
-                                    "position": {
-                                        "x": 30847.37633226026,
-                                        "y": 38180.51559023108
-                                    },
-                                    "targetPosition": {
-                                        "x": 30766.743543612567,
-                                        "y": 38390.57118619295
-                                    },
-                                    "floatingObject": {
-                                        "isPinned": false,
-                                        "isFrozen": false,
-                                        "isCollapsed": false,
-                                        "angleToParent": 1,
-                                        "distanceToParent": 3,
-                                        "arrangementStyle": 0
-                                    },
-                                    "uiObject": {
-                                        "isRunning": false
-                                    },
-                                    "referenceParent": {
-                                        "type": "Position Class",
-                                        "name": "November 2024",
-                                        "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
-                                    },
-                                    "referenceParentCombinedNodePath": [
-                                        [
-                                            "Teams of Contributors",
-                                            "Positions"
-                                        ],
-                                        [
-                                            "November 2024",
-                                            "Position Class"
-                                        ]
-                                    ]
-                                }
-                            },
-                            {
-                                "type": "Weight Votes Switch",
                                 "name": "Do Not Distribute",
                                 "config": "{\r\n    \"percentage\" : 100\r\n}",
                                 "project": "Governance",
@@ -581,12 +533,12 @@
                                         "id": "4e031b2b-ca67-4c38-b490-7e208332d010",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 31049.937719584996,
-                                                "y": 38740.28686884858
+                                                "x": 30928.009120907955,
+                                                "y": 37970.45999426921
                                             },
                                             "targetPosition": {
-                                                "x": 30908.34063159878,
-                                                "y": 38565.42902752077
+                                                "x": 30847.37633226026,
+                                                "y": 38180.51559023108
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -627,8 +579,8 @@
                                 "id": "3bc37a6e-047d-4dfd-89ef-82306420f190",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 30908.34063159878,
-                                        "y": 38565.42902752077
+                                        "x": 30847.37633226026,
+                                        "y": 38180.51559023108
                                     },
                                     "targetPosition": {
                                         "x": 30766.743543612567,
@@ -658,6 +610,102 @@
                                         [
                                             "Do Not Distribute",
                                             "Pool Class"
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "type": "Weight Votes Switch",
+                                "name": "November 2024",
+                                "config": "{}",
+                                "project": "Governance",
+                                "weightVotesSwitch": [],
+                                "poolWeightVotes": [],
+                                "assetWeightVotes": [],
+                                "featureWeightVotes": [],
+                                "positionWeightVotes": [
+                                    {
+                                        "type": "Position Weight Vote",
+                                        "name": "November 2024 Team Spain",
+                                        "config": "{}",
+                                        "project": "Governance",
+                                        "id": "2904f1cd-47f2-4917-9a3d-afc8fd4a017e",
+                                        "savedPayload": {
+                                            "position": {
+                                                "x": 31049.937719584996,
+                                                "y": 38740.28686884858
+                                            },
+                                            "targetPosition": {
+                                                "x": 30908.34063159878,
+                                                "y": 38565.42902752077
+                                            },
+                                            "floatingObject": {
+                                                "isPinned": false,
+                                                "isFrozen": false,
+                                                "isCollapsed": false,
+                                                "angleToParent": 1,
+                                                "distanceToParent": 3,
+                                                "arrangementStyle": 0
+                                            },
+                                            "uiObject": {
+                                                "isRunning": false
+                                            },
+                                            "referenceParent": {
+                                                "type": "Position",
+                                                "name": "Team Spain",
+                                                "id": "4fcc4697-6f59-42c5-acc9-97acbbb52145"
+                                            },
+                                            "referenceParentCombinedNodePath": [
+                                                [
+                                                    "Teams of Contributors",
+                                                    "Positions"
+                                                ],
+                                                [
+                                                    "November 2024",
+                                                    "Position Class"
+                                                ],
+                                                [
+                                                    "Team Spain",
+                                                    "Position"
+                                                ]
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "id": "b672340f-06eb-48a8-8579-7f3b7c8c95f8",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 30908.34063159878,
+                                        "y": 38565.42902752077
+                                    },
+                                    "targetPosition": {
+                                        "x": 30766.743543612567,
+                                        "y": 38390.57118619295
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 1,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    },
+                                    "referenceParent": {
+                                        "type": "Position Class",
+                                        "name": "November 2024",
+                                        "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
+                                    },
+                                    "referenceParentCombinedNodePath": [
+                                        [
+                                            "Teams of Contributors",
+                                            "Positions"
+                                        ],
+                                        [
+                                            "November 2024",
+                                            "Position Class"
                                         ]
                                     ]
                                 }
