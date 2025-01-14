@@ -551,7 +551,7 @@
                                     },
                                     "referenceParent": {
                                         "type": "Position Class",
-                                        "name": "October 2024",
+                                        "name": "November 2024",
                                         "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                     },
                                     "referenceParentCombinedNodePath": [
@@ -560,7 +560,7 @@
                                             "Positions"
                                         ],
                                         [
-                                            "October 2024",
+                                            "November 2024",
                                             "Position Class"
                                         ]
                                     ]
@@ -748,17 +748,17 @@
                 "positionClaimsFolders": [
                     {
                         "type": "Position Claims Folder",
-                        "name": "October 2024 Position Class",
+                        "name": "November 2024 Position Class",
                         "config": "{}",
                         "project": "Governance",
                         "positionClaimsFolders": [],
                         "positionContributionClaims": [
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "Spanish Team October 2024",
+                                "name": "Team Spain November 2024",
                                 "config": "{}",
                                 "project": "Governance",
-                                "id": "5ffc7b10-dc98-4ed6-abb0-0026067adfff",
+                                "id": "dccd04b0-1930-483e-a2ba-bdf1e7f11751",
                                 "savedPayload": {
                                     "position": {
                                         "x": 30873.82231638389,
@@ -781,8 +781,8 @@
                                     },
                                     "referenceParent": {
                                         "type": "Position",
-                                        "name": "Spanish Team",
-                                        "id": "534a6a26-f0a2-404e-86bc-1d39b22cf5f2"
+                                        "name": "Team Spain",
+                                        "id": "4fcc4697-6f59-42c5-acc9-97acbbb52145"
                                     },
                                     "referenceParentCombinedNodePath": [
                                         [
@@ -790,11 +790,11 @@
                                             "Positions"
                                         ],
                                         [
-                                            "October 2024",
+                                            "November 2024",
                                             "Position Class"
                                         ],
                                         [
-                                            "Spanish Team",
+                                            "Team Spain",
                                             "Position"
                                         ]
                                     ]
@@ -824,7 +824,7 @@
                             },
                             "referenceParent": {
                                 "type": "Position Class",
-                                "name": "October 2024",
+                                "name": "November 2024",
                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                             },
                             "referenceParentCombinedNodePath": [
@@ -833,7 +833,7 @@
                                     "Positions"
                                 ],
                                 [
-                                    "October 2024",
+                                    "November 2024",
                                     "Position Class"
                                 ]
                             ]
