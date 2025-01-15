@@ -30051,7 +30051,7 @@
             {
                 "type": "P2P Network Node",
                 "name": "P2P Network Node 2",
-                "config": "{\n    \"codeName\": \"P2P-Network-Node-2\",\n    \"host\": \"88.227.73.218\",\n    \"clientMinimunBalance\": 0,\n    \"peerMinimunBalance\": 0,\n    \"clientMinTokenAllocation\": 0,\n    \"peerMinTokenAllocation\": 0\n}",
+                "config": "{\n    \"codeName\": \"P2P-Network-Node-2\",\n    \"host\": \"152.70.27.91\",\n    \"clientMinimunBalance\": 0,\n    \"peerMinimunBalance\": 0,\n    \"clientMinTokenAllocation\": 0,\n    \"peerMinTokenAllocation\": 0\n}",
                 "project": "Network",
                 "signingAccount": {
                     "type": "Signing Account",
