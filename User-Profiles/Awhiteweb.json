@@ -180,7 +180,7 @@
                                         "positionClaimVotes": [
                                             {
                                                 "type": "Position Claim Vote",
-                                                "name": "BicMC22 Spanish Team October 2024",
+                                                "name": "BicMC22 ",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "0d773dea-af24-43b5-a2a6-de922a147a2b",
@@ -206,7 +206,7 @@
                                                     },
                                                     "referenceParent": {
                                                         "type": "Position Contribution Claim",
-                                                        "name": "Spanish Team October 2024",
+                                                        "name": "",
                                                         "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854"
                                                     },
                                                     "referenceParentCombinedNodePath": [
@@ -231,7 +231,7 @@
                                                             "Position Claims Folder"
                                                         ],
                                                         [
-                                                            "Spanish Team October 2024",
+                                                            "",
                                                             "Position Contribution Claim"
                                                         ]
                                                     ]
@@ -863,14 +863,14 @@
                                         "positionClaimVotes": [
                                             {
                                                 "type": "Position Claim Vote",
-                                                "name": "MarkTradeink Spanish Team October 2024",
+                                                "name": "MarkTradeink Team Spain November 2024",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "b6c78504-f1a3-4a22-afeb-e621b56f9d46",
                                                 "savedPayload": {
                                                     "position": {
-                                                        "x": 6191.251027985481,
-                                                        "y": 22189.202491072254
+                                                        "x": 6329.616702647811,
+                                                        "y": 22259.703323649177
                                                     },
                                                     "targetPosition": {
                                                         "x": 6128.877520740153,
@@ -889,8 +889,8 @@
                                                     },
                                                     "referenceParent": {
                                                         "type": "Position Contribution Claim",
-                                                        "name": "Spanish Team October 2024",
-                                                        "id": "5ffc7b10-dc98-4ed6-abb0-0026067adfff"
+                                                        "name": "Team Spain November 2024",
+                                                        "id": "dccd04b0-1930-483e-a2ba-bdf1e7f11751"
                                                     },
                                                     "referenceParentCombinedNodePath": [
                                                         [
@@ -910,70 +910,11 @@
                                                             "Claims Program"
                                                         ],
                                                         [
-                                                            "October 2024 Position Class",
+                                                            "November 2024 Position Class",
                                                             "Position Claims Folder"
                                                         ],
                                                         [
-                                                            "Spanish Team October 2024",
-                                                            "Position Contribution Claim"
-                                                        ]
-                                                    ]
-                                                }
-                                            },
-                                            {
-                                                "type": "Position Claim Vote",
-                                                "name": "BicMC22 Spanish Team October 2024",
-                                                "config": "{}",
-                                                "project": "Governance",
-                                                "id": "da5f8312-d573-420c-9646-b7ad9645c786",
-                                                "savedPayload": {
-                                                    "position": {
-                                                        "x": 6414.194475628699,
-                                                        "y": 22389.941672979912
-                                                    },
-                                                    "targetPosition": {
-                                                        "x": 6128.877520740153,
-                                                        "y": 22482.646771292395
-                                                    },
-                                                    "floatingObject": {
-                                                        "isPinned": false,
-                                                        "isFrozen": false,
-                                                        "isCollapsed": false,
-                                                        "angleToParent": 2,
-                                                        "distanceToParent": 3,
-                                                        "arrangementStyle": 0
-                                                    },
-                                                    "uiObject": {
-                                                        "isRunning": false
-                                                    },
-                                                    "referenceParent": {
-                                                        "type": "Position Contribution Claim",
-                                                        "name": "Spanish Team October 2024",
-                                                        "id": "d7fb6b5b-c487-44ce-ae39-9604a6203854"
-                                                    },
-                                                    "referenceParentCombinedNodePath": [
-                                                        [
-                                                            "BicMC22",
-                                                            "User Profile"
-                                                        ],
-                                                        [
-                                                            "New Token Power Switch",
-                                                            "Token Power Switch"
-                                                        ],
-                                                        [
-                                                            "New Votes And Claims Programs",
-                                                            "Votes And Claims Programs"
-                                                        ],
-                                                        [
-                                                            "New Claims Program",
-                                                            "Claims Program"
-                                                        ],
-                                                        [
-                                                            "April 2023 Teams Position Class",
-                                                            "Position Claims Folder"
-                                                        ],
-                                                        [
-                                                            "Spanish Team October 2024",
+                                                            "Team Spain November 2024",
                                                             "Position Contribution Claim"
                                                         ]
                                                     ]
@@ -1042,7 +983,7 @@
                                 "weightVotesSwitch": [
                                     {
                                         "type": "Weight Votes Switch",
-                                        "name": "October 2024",
+                                        "name": "November 2024",
                                         "config": "{}",
                                         "project": "Governance",
                                         "weightVotesSwitch": [],
@@ -1052,7 +993,7 @@
                                         "positionWeightVotes": [
                                             {
                                                 "type": "Position Weight Vote",
-                                                "name": "October 2024 Spanish Team",
+                                                "name": "November 2024 Team Spain",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "5ebdb7f4-a462-4e8f-bcd0-ce30eb8fa1e1",
@@ -1078,8 +1019,8 @@
                                                     },
                                                     "referenceParent": {
                                                         "type": "Position",
-                                                        "name": "Spanish Team",
-                                                        "id": "534a6a26-f0a2-404e-86bc-1d39b22cf5f2"
+                                                        "name": "Team Spain",
+                                                        "id": "4fcc4697-6f59-42c5-acc9-97acbbb52145"
                                                     },
                                                     "referenceParentCombinedNodePath": [
                                                         [
@@ -1087,11 +1028,11 @@
                                                             "Positions"
                                                         ],
                                                         [
-                                                            "October 2024",
+                                                            "November 2024",
                                                             "Position Class"
                                                         ],
                                                         [
-                                                            "Spanish Team",
+                                                            "Team Spain",
                                                             "Position"
                                                         ]
                                                     ]
@@ -1121,7 +1062,7 @@
                                             },
                                             "referenceParent": {
                                                 "type": "Position Class",
-                                                "name": "October 2024",
+                                                "name": "November 2024",
                                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                             },
                                             "referenceParentCombinedNodePath": [
@@ -1130,7 +1071,7 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "October 2024",
+                                                    "November 2024",
                                                     "Position Class"
                                                 ]
                                             ]
@@ -1343,7 +1284,7 @@
                                     },
                                     "referenceParent": {
                                         "type": "Position Class",
-                                        "name": "October 2024",
+                                        "name": "November 2024",
                                         "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                     },
                                     "referenceParentCombinedNodePath": [
@@ -1352,7 +1293,7 @@
                                             "Positions"
                                         ],
                                         [
-                                            "October 2024",
+                                            "November 2024",
                                             "Position Class"
                                         ]
                                     ]
@@ -1383,7 +1324,7 @@
                             },
                             "referenceParent": {
                                 "type": "Position Class",
-                                "name": "October 2024",
+                                "name": "November 2024",
                                 "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                             },
                             "referenceParentCombinedNodePath": [
@@ -1392,7 +1333,7 @@
                                     "Positions"
                                 ],
                                 [
-                                    "October 2024",
+                                    "November 2024",
                                     "Position Class"
                                 ]
                             ]
