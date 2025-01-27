@@ -1,7 +1,7 @@
 {
     "type": "User Profile",
     "name": "MarkTradeink",
-    "config": "{\"signature\":{\"message\":\"MarkTradeink\",\"messageHash\":\"0x2c364edfef2a599637e1079eff6c097032568aa208e5cb6aa0326ea0c3687694\",\"v\":\"0x1b\",\"r\":\"0x55febd52fe68efb711af1f5e80644a60ac5e9be51a10c5b41727e4182255a2ce\",\"s\":\"0x59fcdfbe878eb7cb571e268ca4a40b429d88918d07a08487252c17fdde1fde7c\",\"signature\":\"0x55febd52fe68efb711af1f5e80644a60ac5e9be51a10c5b41727e4182255a2ce59fcdfbe878eb7cb571e268ca4a40b429d88918d07a08487252c17fdde1fde7c1b\"},\"codeName\":\"MarkTradeink\"}",
+    "config": "{\r\n    \"signature\": {\r\n        \"message\": \"MarkTradeink\",\r\n        \"messageHash\": \"0x2c364edfef2a599637e1079eff6c097032568aa208e5cb6aa0326ea0c3687694\",\r\n        \"v\": \"0x1b\",\r\n        \"r\": \"0x55febd52fe68efb711af1f5e80644a60ac5e9be51a10c5b41727e4182255a2ce\",\r\n        \"s\": \"0x59fcdfbe878eb7cb571e268ca4a40b429d88918d07a08487252c17fdde1fde7c\",\r\n        \"signature\": \"0x55febd52fe68efb711af1f5e80644a60ac5e9be51a10c5b41727e4182255a2ce59fcdfbe878eb7cb571e268ca4a40b429d88918d07a08487252c17fdde1fde7c1b\"\r\n    },\r\n    \"codeName\": \"MarkTradeink\"\r\n}",
     "project": "Governance",
     "tokenPowerSwitch": {
         "type": "Token Power Switch",
@@ -1184,7 +1184,7 @@
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": false,
+                "isCollapsed": true,
                 "angleToParent": 1,
                 "distanceToParent": 4,
                 "arrangementStyle": 0
@@ -1201,8 +1201,8 @@
         "id": "9b643e75-5875-49d0-93ef-4ef20fb8658f",
         "savedPayload": {
             "position": {
-                "x": 29310.344827586196,
-                "y": 38150
+                "x": 29385.344827586196,
+                "y": 38129.90381056767
             },
             "targetPosition": {
                 "x": 29310.344827586196,
@@ -1226,6 +1226,152 @@
         "name": "New User Apps",
         "config": "{}",
         "project": "User-Apps",
+        "desktopApps": {
+            "type": "Desktop Apps",
+            "name": "New Desktop Apps",
+            "config": "{\r\n          \"userProfile\": {\r\n            \"id\": \"Superalgos Generated\",\r\n            \"codeName\": \"MarkTradeink\"\r\n          },\r\n          \"storageProvider\": {\r\n            \"name\": \"Github\",\r\n            \"userName\": \"MarkTradeink\",\r\n            \"token\": \"GitHub-Token\"\r\n          }\r\n        }",
+            "project": "User-Apps",
+            "socialTradingDesktopApps": [
+                {
+                    "type": "Social Trading Desktop App",
+                    "name": "New Social Trading Desktop App",
+                    "config": "{\n    \"codeName\": \"localhost\",\n    \"host\": \"localhost\",\n    \"webPort\": \"33248\",\n    \"webSocketsPort\": \"17042\"\n}",
+                    "project": "User-Apps",
+                    "id": "23fb8981-983d-4e52-af89-f7ccb89b1ff9",
+                    "savedPayload": {
+                        "position": {
+                            "x": 29450.122575472917,
+                            "y": 38761.71740337802
+                        },
+                        "targetPosition": {
+                            "x": 29237.990541116953,
+                            "y": 38549.585369022054
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "algoTradesPlatformApp": [
+                {
+                    "type": "Algo Traders Platform App",
+                    "name": "New Algo Traders Platform App",
+                    "config": "{\n    \"codeName\": \"localhost\",\n    \"host\": \"localhost\",\n    \"webPort\": \"34248\",\n    \"webSocketsPort\": \"18041\"\n}",
+                    "project": "User-Apps",
+                    "id": "446bb5d5-e9ca-4e70-a9e8-ff2ee7832122",
+                    "savedPayload": {
+                        "position": {
+                            "x": 29160.344827586196,
+                            "y": 38839.363116908775
+                        },
+                        "targetPosition": {
+                            "x": 29237.990541116953,
+                            "y": 38549.585369022054
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "id": "2ff6b2eb-adb4-4307-b240-bc70bba2ae82",
+            "savedPayload": {
+                "position": {
+                    "x": 29237.990541116953,
+                    "y": 38549.585369022054
+                },
+                "targetPosition": {
+                    "x": 29160.344827586196,
+                    "y": 38259.80762113533
+                },
+                "floatingObject": {
+                    "isPinned": false,
+                    "isFrozen": false,
+                    "isCollapsed": false,
+                    "angleToParent": 2,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        "mobileApps": {
+            "type": "Mobile Apps",
+            "name": "New Mobile Apps",
+            "config": "{}",
+            "project": "User-Apps",
+            "socialTradingMobileApps": [
+                {
+                    "type": "Social Trading Mobile App",
+                    "name": "New Social Trading Mobile App",
+                    "config": "{\n    \"codeName\": \"localhost\",\n    \"host\": \"localhost\",\n    \"webSocketsPort\": \"15042\"\n}",
+                    "project": "User-Apps",
+                    "id": "3719e8d9-2573-405e-a289-1561f6520da5",
+                    "savedPayload": {
+                        "position": {
+                            "x": 28860.344827586196,
+                            "y": 38779.422863406
+                        },
+                        "targetPosition": {
+                            "x": 29010.344827586196,
+                            "y": 38519.615242270665
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "id": "2fbab441-ad6b-4154-a594-4f50086270ed",
+            "savedPayload": {
+                "position": {
+                    "x": 29010.344827586196,
+                    "y": 38519.615242270665
+                },
+                "targetPosition": {
+                    "x": 29160.344827586196,
+                    "y": 38259.80762113533
+                },
+                "floatingObject": {
+                    "isPinned": false,
+                    "isFrozen": false,
+                    "isCollapsed": false,
+                    "angleToParent": 2,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
         "serverApps": {
             "type": "Server Apps",
             "name": "New Server Apps",
@@ -1245,12 +1391,12 @@
                         "id": "75cab636-9e14-42f6-a674-e9064cea1669",
                         "savedPayload": {
                             "position": {
-                                "x": 28110.344827586196,
-                                "y": 38000
+                                "x": 28291.011583926032,
+                                "y": 38492.744761727605
                             },
                             "targetPosition": {
-                                "x": 28410.344827586196,
-                                "y": 38000
+                                "x": 28580.789331812754,
+                                "y": 38415.09904819685
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1268,12 +1414,12 @@
                     "id": "146c3bf5-1767-4a78-94e0-50fd6c421fc1",
                     "savedPayload": {
                         "position": {
-                            "x": 28410.344827586196,
-                            "y": 38000
+                            "x": 28580.789331812754,
+                            "y": 38415.09904819685
                         },
                         "targetPosition": {
-                            "x": 28710.344827586196,
-                            "y": 38000
+                            "x": 28870.567079699475,
+                            "y": 38337.45333466609
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1293,18 +1439,18 @@
             "id": "cc95c21a-88c0-437d-bc9e-f0ee62fbfff4",
             "savedPayload": {
                 "position": {
-                    "x": 28710.344827586196,
-                    "y": 38000
+                    "x": 28870.567079699475,
+                    "y": 38337.45333466609
                 },
                 "targetPosition": {
-                    "x": 29010.344827586196,
-                    "y": 38000
+                    "x": 29160.344827586196,
+                    "y": 38259.80762113533
                 },
                 "floatingObject": {
                     "isPinned": false,
                     "isFrozen": false,
                     "isCollapsed": false,
-                    "angleToParent": 1,
+                    "angleToParent": 2,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
                 },
@@ -1316,8 +1462,8 @@
         "id": "948a322d-fc1e-4e67-985a-578692acec20",
         "savedPayload": {
             "position": {
-                "x": 29010.344827586196,
-                "y": 38000
+                "x": 29160.344827586196,
+                "y": 38259.80762113533
             },
             "targetPosition": {
                 "x": 29310.344827586196,
@@ -1326,7 +1472,7 @@
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": true,
+                "isCollapsed": false,
                 "angleToParent": 1,
                 "distanceToParent": 3,
                 "arrangementStyle": 0
@@ -1482,8 +1628,8 @@
         "id": "ca02601c-b303-4f4a-908c-f09d89294094",
         "savedPayload": {
             "position": {
-                "x": 29310.344827586196,
-                "y": 37700
+                "x": 29010.344827586196,
+                "y": 38000
             },
             "targetPosition": {
                 "x": 29310.344827586196,
@@ -1493,6 +1639,289 @@
                 "isPinned": false,
                 "isFrozen": false,
                 "isCollapsed": true,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "socialPersonas": {
+        "type": "Social Personas",
+        "name": "New Social Personas",
+        "config": "{}",
+        "project": "Social-Trading",
+        "socialPersonas": [
+            {
+                "type": "Social Persona",
+                "name": "New Social Persona",
+                "config": "{\"codeName\": \"\",\"handle\": \"\"}",
+                "project": "Social-Trading",
+                "availableStorage": {
+                    "type": "Available Storage",
+                    "name": "New Available Storage",
+                    "config": "{}",
+                    "project": "Open-Storage",
+                    "storageContainerReferences": [
+                        {
+                            "type": "Storage Container Reference",
+                            "name": "Github Storage Container",
+                            "config": "{}",
+                            "project": "Open-Storage",
+                            "id": "3b872a1e-3ae8-4cb4-b984-d0a6be8e50c4",
+                            "savedPayload": {
+                                "position": {
+                                    "x": 28710.344827586196,
+                                    "y": 36960.76951545867
+                                },
+                                "targetPosition": {
+                                    "x": 28860.344827586196,
+                                    "y": 37220.577136594
+                                },
+                                "floatingObject": {
+                                    "isPinned": false,
+                                    "isFrozen": false,
+                                    "isCollapsed": false,
+                                    "angleToParent": 1,
+                                    "distanceToParent": 3,
+                                    "arrangementStyle": 0
+                                },
+                                "uiObject": {
+                                    "isRunning": false
+                                },
+                                "referenceParent": {
+                                    "type": "Github Storage Container",
+                                    "name": "New Github Storage Container",
+                                    "id": "780845ce-8c4b-477c-a31f-f1ece5b073ee"
+                                },
+                                "referenceParentCombinedNodePath": [
+                                    [
+                                        "MarkTradeink",
+                                        "User Profile"
+                                    ],
+                                    [
+                                        "New User Storage",
+                                        "User Storage"
+                                    ],
+                                    [
+                                        "New Github Storage",
+                                        "Github Storage"
+                                    ],
+                                    [
+                                        "New Github Storage Container",
+                                        "Github Storage Container"
+                                    ]
+                                ]
+                            }
+                        }
+                    ],
+                    "id": "2b53f2d8-c311-4e4f-bab5-91a126b444e1",
+                    "savedPayload": {
+                        "position": {
+                            "x": 28860.344827586196,
+                            "y": 37220.577136594
+                        },
+                        "targetPosition": {
+                            "x": 29010.344827586196,
+                            "y": 37480.384757729335
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                "id": "98d73914-5a38-4e33-8a38-83ac5ab183ff",
+                "savedPayload": {
+                    "position": {
+                        "x": 29010.344827586196,
+                        "y": 37480.384757729335
+                    },
+                    "targetPosition": {
+                        "x": 29160.344827586196,
+                        "y": 37740.19237886467
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 1,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                }
+            }
+        ],
+        "id": "50f893c9-9c3d-40a4-b58c-87084ad8245c",
+        "savedPayload": {
+            "position": {
+                "x": 29160.344827586196,
+                "y": 37740.19237886467
+            },
+            "targetPosition": {
+                "x": 29310.344827586196,
+                "y": 38000
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+            },
+            "uiObject": {
+                "isRunning": false
+            }
+        }
+    },
+    "userStorage": {
+        "type": "User Storage",
+        "name": "New User Storage",
+        "config": "{}",
+        "project": "Open-Storage",
+        "githubStorage": {
+            "type": "Github Storage",
+            "name": "New Github Storage",
+            "config": "{}",
+            "project": "Open-Storage",
+            "githubStorageContainers": [
+                {
+                    "type": "Github Storage Container",
+                    "name": "New Github Storage Container",
+                    "config": "{\n    \"codeName\": \"Mark Storage\",\n    \"githubUserName\": \"MarkTradeink\",\n    \"repositoryName\": \"OpenStorage_SA\"\n}",
+                    "project": "Open-Storage",
+                    "id": "780845ce-8c4b-477c-a31f-f1ece5b073ee",
+                    "savedPayload": {
+                        "position": {
+                            "x": 29460.344827586196,
+                            "y": 37140.19237886467
+                        },
+                        "targetPosition": {
+                            "x": 29460.344827586196,
+                            "y": 37440.19237886467
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "id": "8fb02162-459f-4fe3-baba-52a166bdb740",
+            "savedPayload": {
+                "position": {
+                    "x": 29460.344827586196,
+                    "y": 37440.19237886467
+                },
+                "targetPosition": {
+                    "x": 29460.344827586196,
+                    "y": 37740.19237886467
+                },
+                "floatingObject": {
+                    "isPinned": false,
+                    "isFrozen": false,
+                    "isCollapsed": false,
+                    "angleToParent": 2,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        "superalgosStorage": {
+            "type": "Superalgos Storage",
+            "name": "New Superalgos Storage",
+            "config": "{}",
+            "project": "Open-Storage",
+            "superalgosStorageContainers": [
+                {
+                    "type": "Superalgos Storage Container",
+                    "name": "New Superalgos Storage Container",
+                    "config": "{\n    \"codeName\": \"\",\n    \"URL\": \"\"\n}",
+                    "project": "Open-Storage",
+                    "id": "ff3d4d56-efb5-4558-acc0-ac21d33fb2e2",
+                    "savedPayload": {
+                        "position": {
+                            "x": 29979.96006985686,
+                            "y": 37440.19237886467
+                        },
+                        "targetPosition": {
+                            "x": 29720.15244872153,
+                            "y": 37590.19237886467
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 1,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                }
+            ],
+            "id": "caf1934b-9861-49aa-b611-4e4667e46070",
+            "savedPayload": {
+                "position": {
+                    "x": 29720.15244872153,
+                    "y": 37590.19237886467
+                },
+                "targetPosition": {
+                    "x": 29460.344827586196,
+                    "y": 37740.19237886467
+                },
+                "floatingObject": {
+                    "isPinned": false,
+                    "isFrozen": false,
+                    "isCollapsed": false,
+                    "angleToParent": 2,
+                    "distanceToParent": 3,
+                    "arrangementStyle": 0
+                },
+                "uiObject": {
+                    "isRunning": false
+                }
+            }
+        },
+        "id": "c6a61d1c-97b9-43e2-a8d3-8109071072e3",
+        "savedPayload": {
+            "position": {
+                "x": 29460.344827586196,
+                "y": 37740.19237886467
+            },
+            "targetPosition": {
+                "x": 29310.344827586196,
+                "y": 38000
+            },
+            "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
                 "angleToParent": 1,
                 "distanceToParent": 3,
                 "arrangementStyle": 0
