@@ -1940,7 +1940,7 @@
                 },
                 "p2pNetworkReference": {
                     "type": "P2P Network Reference",
-                    "name": "Mainnet",
+                    "name": "Testnet",
                     "project": "Network",
                     "id": "13e8d77a-4784-433f-8c95-f1d090a1d68e",
                     "savedPayload": {
@@ -1965,12 +1965,12 @@
                         },
                         "referenceParent": {
                             "type": "P2P Network",
-                            "name": "Mainnet",
-                            "id": "f614fedc-e405-4260-9e17-90c863482c8d"
+                            "name": "Testnet",
+                            "id": "8cf3c984-f2ce-4ed5-9bfe-49255ed8a9e3"
                         },
                         "referenceParentCombinedNodePath": [
                             [
-                                "Mainnet",
+                                "Testnet",
                                 "P2P Network"
                             ]
                         ]
@@ -2294,12 +2294,12 @@
                     "id": "780845ce-8c4b-477c-a31f-f1ece5b073ee",
                     "savedPayload": {
                         "position": {
-                            "x": 33609.80563359667,
-                            "y": 17972.152059524513
+                            "x": 33894.4741550062,
+                            "y": 18096.351665778773
                         },
                         "targetPosition": {
-                            "x": 33565.09295374381,
-                            "y": 18268.801307392052
+                            "x": 33707.42721444858,
+                            "y": 18330.901110519182
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -2318,66 +2318,8 @@
             "id": "8fb02162-459f-4fe3-baba-52a166bdb740",
             "savedPayload": {
                 "position": {
-                    "x": 33565.09295374381,
-                    "y": 18268.801307392052
-                },
-                "targetPosition": {
-                    "x": 33520.38027389096,
-                    "y": 18565.45055525959
-                },
-                "floatingObject": {
-                    "isPinned": false,
-                    "isFrozen": false,
-                    "isCollapsed": false,
-                    "angleToParent": 2,
-                    "distanceToParent": 3,
-                    "arrangementStyle": 0
-                },
-                "uiObject": {
-                    "isRunning": false
-                }
-            }
-        },
-        "superalgosStorage": {
-            "type": "Superalgos Storage",
-            "name": "New Superalgos Storage",
-            "config": "{}",
-            "project": "Open-Storage",
-            "superalgosStorageContainers": [
-                {
-                    "type": "Superalgos Storage Container",
-                    "name": "New Superalgos Storage Container",
-                    "config": "{\n    \"codeName\": \"\",\n    \"URL\": \"\"\n}",
-                    "project": "Open-Storage",
-                    "id": "ff3d4d56-efb5-4558-acc0-ac21d33fb2e2",
-                    "savedPayload": {
-                        "position": {
-                            "x": 34078.90452307748,
-                            "y": 18346.24594063975
-                        },
-                        "targetPosition": {
-                            "x": 33799.64239848422,
-                            "y": 18455.84824794967
-                        },
-                        "floatingObject": {
-                            "isPinned": false,
-                            "isFrozen": false,
-                            "isCollapsed": false,
-                            "angleToParent": 1,
-                            "distanceToParent": 3,
-                            "arrangementStyle": 0
-                        },
-                        "uiObject": {
-                            "isRunning": false
-                        }
-                    }
-                }
-            ],
-            "id": "caf1934b-9861-49aa-b611-4e4667e46070",
-            "savedPayload": {
-                "position": {
-                    "x": 33799.64239848422,
-                    "y": 18455.84824794967
+                    "x": 33707.42721444858,
+                    "y": 18330.901110519182
                 },
                 "targetPosition": {
                     "x": 33520.38027389096,
