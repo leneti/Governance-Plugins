@@ -1993,6 +1993,125 @@
                     ],
                     "config": "{}"
                 }
+            },
+            {
+                "type": "Social Persona",
+                "name": "Social Persona #3",
+                "project": "Social-Trading",
+                "savedPayload": {
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "targetPosition": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 2,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                },
+                "id": "5ad166d1-c566-4b1e-b317-31218dcef744",
+                "config": "{\n    \"handle\": \"Pepe\",\n    \"codeName\": \"Social-Persona-3\"\n}",
+                "signingAccount": {
+                    "type": "Signing Account",
+                    "name": "New Signing Account",
+                    "project": "Governance",
+                    "id": "d3ff2938-2702-4bf6-95b2-9767a0371f7a",
+                    "config": "{\"codeName\":\"Social-Persona-3\",\"signature\":{\"message\":\"MarkTradeink\",\"messageHash\":\"0x2c364edfef2a599637e1079eff6c097032568aa208e5cb6aa0326ea0c3687694\",\"v\":\"0x1c\",\"r\":\"0xf96453e009ad4409fe9265665de5d1a32b03621f9cacb6da9e98aec1e76edc61\",\"s\":\"0x3cdb1491d452c835c32dd797d11e4a1e76d0301b39b3370866f261fb75bdf16b\",\"signature\":\"0xf96453e009ad4409fe9265665de5d1a32b03621f9cacb6da9e98aec1e76edc613cdb1491d452c835c32dd797d11e4a1e76d0301b39b3370866f261fb75bdf16b1c\"}}",
+                    "savedPayload": {
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "targetPosition": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                "availableStorage": {
+                    "type": "Available Storage",
+                    "name": "Pepe Available Storage",
+                    "project": "Open-Storage",
+                    "savedPayload": {
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "targetPosition": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    },
+                    "id": "ca40e121-ed20-4f91-8662-3405f3810e69",
+                    "storageContainerReferences": [
+                        {
+                            "type": "Storage Container Reference",
+                            "name": "New Storage Container Reference",
+                            "project": "Open-Storage",
+                            "id": "fa8218ec-4601-4fb5-9b26-eb5d0761c179",
+                            "config": "{}",
+                            "savedPayload": {
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "targetPosition": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "floatingObject": {
+                                    "isPinned": false,
+                                    "isFrozen": false,
+                                    "isCollapsed": false,
+                                    "angleToParent": 2,
+                                    "distanceToParent": 3,
+                                    "arrangementStyle": 0
+                                },
+                                "uiObject": {
+                                    "isRunning": false
+                                },
+                                "referenceParent": {
+                                    "type": "Github Storage Container",
+                                    "name": "Pepe-Social-Persona-Data",
+                                    "id": "5aeb8245-6c99-4fd8-b799-f4ad11a5f2a1"
+                                }
+                            }
+                        }
+                    ],
+                    "config": "{}"
+                }
             }
         ],
         "id": "50f893c9-9c3d-40a4-b58c-87084ad8245c",
@@ -2540,6 +2659,34 @@
                         }
                     },
                     "id": "7625e3b6-0469-420d-a801-81942862e162",
+                    "config": "{\"codeName\":\"Pepe-Social-Persona-Data\",\"githubUserName\":\"MarkTradeink\",\"repositoryName\":\"Pepe-Social-Persona-Data\"}"
+                },
+                {
+                    "type": "Github Storage Container",
+                    "name": "Pepe-Social-Persona-Data",
+                    "project": "Open-Storage",
+                    "savedPayload": {
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "targetPosition": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    },
+                    "id": "5aeb8245-6c99-4fd8-b799-f4ad11a5f2a1",
                     "config": "{\"codeName\":\"Pepe-Social-Persona-Data\",\"githubUserName\":\"MarkTradeink\",\"repositoryName\":\"Pepe-Social-Persona-Data\"}"
                 }
             ],
