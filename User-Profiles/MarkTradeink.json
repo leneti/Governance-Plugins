@@ -2469,6 +2469,125 @@
                     ],
                     "config": "{}"
                 }
+            },
+            {
+                "type": "Social Persona",
+                "name": "Social Persona #7",
+                "project": "Social-Trading",
+                "savedPayload": {
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "targetPosition": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "floatingObject": {
+                        "isPinned": false,
+                        "isFrozen": false,
+                        "isCollapsed": false,
+                        "angleToParent": 2,
+                        "distanceToParent": 3,
+                        "arrangementStyle": 0
+                    },
+                    "uiObject": {
+                        "isRunning": false
+                    }
+                },
+                "id": "3ccddd88-64fc-435e-9373-94c42d63d602",
+                "config": "{\n    \"handle\": \"MarkTradeink\",\n    \"codeName\": \"Social-Persona-7\"\n}",
+                "signingAccount": {
+                    "type": "Signing Account",
+                    "name": "New Signing Account",
+                    "project": "Governance",
+                    "id": "f2cfc5c5-0163-43b5-bfd9-e4c685683aa0",
+                    "config": "{\"codeName\":\"Social-Persona-7\",\"signature\":{\"message\":\"MarkTradeink\",\"messageHash\":\"0x2c364edfef2a599637e1079eff6c097032568aa208e5cb6aa0326ea0c3687694\",\"v\":\"0x1b\",\"r\":\"0x121e2e032fdd1a8ab1ededa91ab827499d8c95e10b70ccf4bbc4ba118b2a8786\",\"s\":\"0x0826c475caad4abddf372ee19ed29807b648c543403a44dc1e0e0ba1121cfb9c\",\"signature\":\"0x121e2e032fdd1a8ab1ededa91ab827499d8c95e10b70ccf4bbc4ba118b2a87860826c475caad4abddf372ee19ed29807b648c543403a44dc1e0e0ba1121cfb9c1b\"}}",
+                    "savedPayload": {
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "targetPosition": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    }
+                },
+                "availableStorage": {
+                    "type": "Available Storage",
+                    "name": "MarkTradeink Available Storage",
+                    "project": "Open-Storage",
+                    "savedPayload": {
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "targetPosition": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    },
+                    "id": "2f7268db-5e66-4e2d-a5b3-a9f23ff825b5",
+                    "storageContainerReferences": [
+                        {
+                            "type": "Storage Container Reference",
+                            "name": "New Storage Container Reference",
+                            "project": "Open-Storage",
+                            "id": "371b8ed3-e065-4b80-8323-3f58bfb0cd82",
+                            "config": "{}",
+                            "savedPayload": {
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "targetPosition": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "floatingObject": {
+                                    "isPinned": false,
+                                    "isFrozen": false,
+                                    "isCollapsed": false,
+                                    "angleToParent": 2,
+                                    "distanceToParent": 3,
+                                    "arrangementStyle": 0
+                                },
+                                "uiObject": {
+                                    "isRunning": false
+                                },
+                                "referenceParent": {
+                                    "type": "Github Storage Container",
+                                    "name": "MarkTradeink-Social-Persona-Data",
+                                    "id": "b576e5b1-eda5-4300-80d0-e4f4417a67bd"
+                                }
+                            }
+                        }
+                    ],
+                    "config": "{}"
+                }
             }
         ],
         "id": "50f893c9-9c3d-40a4-b58c-87084ad8245c",
@@ -3128,6 +3247,34 @@
                         }
                     },
                     "id": "f962594d-424c-4b4e-ad6e-89545944107d",
+                    "config": "{\"codeName\":\"MarkTradeink-Social-Persona-Data\",\"githubUserName\":\"MarkTradeink\",\"repositoryName\":\"MarkTradeink-Social-Persona-Data\"}"
+                },
+                {
+                    "type": "Github Storage Container",
+                    "name": "MarkTradeink-Social-Persona-Data",
+                    "project": "Open-Storage",
+                    "savedPayload": {
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "targetPosition": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    },
+                    "id": "b576e5b1-eda5-4300-80d0-e4f4417a67bd",
                     "config": "{\"codeName\":\"MarkTradeink-Social-Persona-Data\",\"githubUserName\":\"MarkTradeink\",\"repositoryName\":\"MarkTradeink-Social-Persona-Data\"}"
                 }
             ],
