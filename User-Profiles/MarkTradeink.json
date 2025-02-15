@@ -1590,8 +1590,8 @@
                         "id": "7ebffd37-fdf5-47b6-a046-4002dc514ab1",
                         "savedPayload": {
                             "position": {
-                                "x": 32500.042324145234,
-                                "y": 19489.656504360155
+                                "x": 32353.465334802077,
+                                "y": 19438.366997500598
                             },
                             "targetPosition": {
                                 "x": 32522.461352221162,
@@ -1601,7 +1601,7 @@
                                 "isPinned": false,
                                 "isFrozen": false,
                                 "isCollapsed": false,
-                                "angleToParent": 1,
+                                "angleToParent": 2,
                                 "distanceToParent": 3,
                                 "arrangementStyle": 0
                             },
@@ -1676,7 +1676,7 @@
                             "isPinned": false,
                             "isFrozen": false,
                             "isCollapsed": false,
-                            "angleToParent": 1,
+                            "angleToParent": 2,
                             "distanceToParent": 3,
                             "arrangementStyle": 0
                         },
@@ -1746,7 +1746,7 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\"codeName\":\"Social-Persona-6\",\"signature\":{\"message\":\"MarkTradeink\",\"messageHash\":\"0x2c364edfef2a599637e1079eff6c097032568aa208e5cb6aa0326ea0c3687694\",\"v\":\"0x1c\",\"r\":\"0xb5b747163786ae9389668888ce3e5fa8c4770e13e91f57b20925499ab7dd01b0\",\"s\":\"0x75763d08c40e8585d5132d209880fee7783d727520d2b5ea5be12d09850ab97a\",\"signature\":\"0xb5b747163786ae9389668888ce3e5fa8c4770e13e91f57b20925499ab7dd01b075763d08c40e8585d5132d209880fee7783d727520d2b5ea5be12d09850ab97a1c\"}}",
+                    "config": "{\r\n    \"codeName\": \"Social-Persona-6\",\r\n    \"signature\": {\r\n        \"message\": \"MarkTradeink\",\r\n        \"messageHash\": \"0x2c364edfef2a599637e1079eff6c097032568aa208e5cb6aa0326ea0c3687694\",\r\n        \"v\": \"0x1c\",\r\n        \"r\": \"0xb5b747163786ae9389668888ce3e5fa8c4770e13e91f57b20925499ab7dd01b0\",\r\n        \"s\": \"0x75763d08c40e8585d5132d209880fee7783d727520d2b5ea5be12d09850ab97a\",\r\n        \"signature\": \"0xb5b747163786ae9389668888ce3e5fa8c4770e13e91f57b20925499ab7dd01b075763d08c40e8585d5132d209880fee7783d727520d2b5ea5be12d09850ab97a1c\"\r\n    }\r\n}",
                     "project": "Governance",
                     "id": "145fa326-1cea-4244-913d-25044df8082b",
                     "savedPayload": {
@@ -1940,7 +1940,7 @@
                 },
                 "p2pNetworkReference": {
                     "type": "P2P Network Reference",
-                    "name": "Testnet",
+                    "name": "Mainnet",
                     "project": "Network",
                     "id": "13e8d77a-4784-433f-8c95-f1d090a1d68e",
                     "savedPayload": {
@@ -1965,12 +1965,12 @@
                         },
                         "referenceParent": {
                             "type": "P2P Network",
-                            "name": "Testnet",
-                            "id": "8cf3c984-f2ce-4ed5-9bfe-49255ed8a9e3"
+                            "name": "Mainnet",
+                            "id": "f614fedc-e405-4260-9e17-90c863482c8d"
                         },
                         "referenceParentCombinedNodePath": [
                             [
-                                "Testnet",
+                                "Mainnet",
                                 "P2P Network"
                             ]
                         ]
@@ -2370,7 +2370,7 @@
                 {
                     "type": "Github Storage Container",
                     "name": "MarkTradeink-Social-Persona-Data",
-                    "config": "{\"codeName\":\"MarkTradeink-Social-Persona-Data\",\"githubUserName\":\"MarkTradeink\",\"repositoryName\":\"MarkTradeink-Social-Persona-Data\"}",
+                    "config": "{\r\n    \"codeName\": \"MarkTradeink-Social-Persona-Data\",\r\n    \"githubUserName\": \"MarkTradeink\",\r\n    \"repositoryName\": \"MarkTradeink-Social-Persona-Data\"\r\n}",
                     "project": "Open-Storage",
                     "id": "f962594d-424c-4b4e-ad6e-89545944107d",
                     "savedPayload": {
