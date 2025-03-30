@@ -1,7 +1,7 @@
 {
     "type": "User Profile",
     "name": "end-debug",
-    "config": "{\"signature\":{\"message\":\"end-debug\",\"messageHash\":\"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\"v\":\"0x1b\",\"r\":\"0x0a6768607452ef641ccf2f938efca8cc76dd85a63bb1e10b9582093485641df9\",\"s\":\"0x08518b226eb7ccf4ec6ce9ab78a6ba4c5606253dc7bcab61e2519302a4909a37\",\"signature\":\"0x0a6768607452ef641ccf2f938efca8cc76dd85a63bb1e10b9582093485641df908518b226eb7ccf4ec6ce9ab78a6ba4c5606253dc7bcab61e2519302a4909a371b\"},\"codeName\":\"end-debug\"}",
+    "config": "{\r\n    \"signature\": {\r\n        \"message\": \"end-debug\",\r\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\r\n        \"v\": \"0x1b\",\r\n        \"r\": \"0x0a6768607452ef641ccf2f938efca8cc76dd85a63bb1e10b9582093485641df9\",\r\n        \"s\": \"0x08518b226eb7ccf4ec6ce9ab78a6ba4c5606253dc7bcab61e2519302a4909a37\",\r\n        \"signature\": \"0x0a6768607452ef641ccf2f938efca8cc76dd85a63bb1e10b9582093485641df908518b226eb7ccf4ec6ce9ab78a6ba4c5606253dc7bcab61e2519302a4909a371b\"\r\n    },\r\n    \"codeName\": \"end-debug\"\r\n}",
     "project": "Governance",
     "tokenPowerSwitch": {
         "type": "Token Power Switch",
@@ -127,12 +127,12 @@
             "id": "d1d5d745-af31-450b-8e90-96f99ddda58a",
             "savedPayload": {
                 "position": {
-                    "x": 17578.691482241866,
-                    "y": 18721.816851753196
+                    "x": 17110.691482241866,
+                    "y": 18796.816851753196
                 },
                 "targetPosition": {
-                    "x": 17641.04046242774,
-                    "y": 18800
+                    "x": 17173.04046242774,
+                    "y": 18875
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -160,7 +160,7 @@
                 "userReferrers": [
                     {
                         "type": "User Referrer",
-                        "name": "Luis-Fernando-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "9925f3f1-8769-4138-ab52-346a474467f4",
@@ -283,7 +283,7 @@
                 "userSupporters": [
                     {
                         "type": "User Supporter",
-                        "name": "Raplh2502",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "360b2100-1b94-404d-bd2d-2256337989bb",
@@ -322,7 +322,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "Luis-Fernando-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "6e47bf86-3d84-4898-8423-3fdfc35b657c",
@@ -400,7 +400,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "Julian-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "ab07b66f-142e-44d5-824e-f1c4969868f6",
@@ -439,7 +439,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "harrellbm",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "a7afe5ac-dda3-4b87-bf7a-d665bae445c3",
@@ -478,7 +478,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "Smidy13",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "8ac953cc-d3c7-4e63-969c-e3d644cb61f4",
@@ -517,7 +517,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "superharoun",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "ee2073a4-264b-4892-9a67-93a070aa0fd4",
@@ -556,7 +556,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "Tentacule23",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "cb5d3990-ca7b-42f0-b80a-af051f2fa1e4",
@@ -595,7 +595,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "prepheadrus",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "5c311013-a5c0-4efe-baab-f48b3cdf083b",
@@ -634,7 +634,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "alexandrustefan",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "e9f634ef-a1da-4666-b927-4c8e6639929f",
@@ -673,7 +673,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "EvaMaria70",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "fda2cb20-7e81-4cc8-a763-e0ec387b7a1e",
@@ -712,7 +712,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "gustavohcorradi",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "9bbe71c4-13d1-4bfc-b063-f806ce4d97e4",
@@ -751,7 +751,7 @@
                     },
                     {
                         "type": "User Supporter",
-                        "name": "gitforkgit",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "4aa38ec8-c69e-497f-afab-8c549b572792",
@@ -874,7 +874,7 @@
                 "userMentors": [
                     {
                         "type": "User Mentor",
-                        "name": "Luis-Fernando-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "4441d08b-31fe-43f8-a044-92bdf29cf472",
@@ -913,7 +913,7 @@
                     },
                     {
                         "type": "User Mentor",
-                        "name": "Julian-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "5709decd-446b-47ef-8a53-65f961b81de9",
@@ -952,7 +952,7 @@
                     },
                     {
                         "type": "User Mentor",
-                        "name": "ssplatt",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "84784a58-3dab-4cf6-b283-51f5a28ccd93",
@@ -991,7 +991,7 @@
                     },
                     {
                         "type": "User Mentor",
-                        "name": "cozed-gh",
+                        "name": "",
                         "config": "{\r\n    \"percentage\": 35\r\n}",
                         "project": "Governance",
                         "id": "765be402-9675-4033-b269-d64266295f47",
@@ -1114,7 +1114,7 @@
                 "userInfluencers": [
                     {
                         "type": "User Influencer",
-                        "name": "Julian-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "6b81507d-3b3f-41e0-b772-281683cfcf48",
@@ -1192,7 +1192,7 @@
                     },
                     {
                         "type": "User Influencer",
-                        "name": "ssplatt",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "b561f774-8e6e-4e19-80ff-2b06325db6a3",
@@ -1231,7 +1231,7 @@
                     },
                     {
                         "type": "User Influencer",
-                        "name": "harrellbm",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "57587fd3-5f93-4708-a7aa-6e3df9f0635c",
@@ -1270,7 +1270,7 @@
                     },
                     {
                         "type": "User Influencer",
-                        "name": "Luis-Fernando-Molina",
+                        "name": "",
                         "config": "{}",
                         "project": "Governance",
                         "id": "7360ba35-7e65-4c93-bcdc-26cb9660cae4",
@@ -1427,12 +1427,12 @@
             "id": "b47a7be7-985a-4ab1-baea-68ef554cb8a7",
             "savedPayload": {
                 "position": {
-                    "x": 17707.796742614635,
-                    "y": 18507.521626345453
+                    "x": 17239.796742614635,
+                    "y": 18582.521626345453
                 },
                 "targetPosition": {
-                    "x": 17641.04046242774,
-                    "y": 18800
+                    "x": 17173.04046242774,
+                    "y": 18875
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -1481,18 +1481,18 @@
                                         "poolWeightVotes": [
                                             {
                                                 "type": "Pool Weight Vote",
-                                                "name": "Team Positions Pool",
+                                                "name": "",
                                                 "config": "{}",
                                                 "project": "Governance",
                                                 "id": "a787ac7b-bf90-407e-8f0d-8038a6227616",
                                                 "savedPayload": {
                                                     "position": {
-                                                        "x": 18198.303830762827,
-                                                        "y": 17330.031052735747
+                                                        "x": 17730.303830762827,
+                                                        "y": 17405.031052735747
                                                     },
                                                     "targetPosition": {
-                                                        "x": 18187.08647247993,
-                                                        "y": 17629.821264172268
+                                                        "x": 17719.08647247993,
+                                                        "y": 17704.821264172268
                                                     },
                                                     "floatingObject": {
                                                         "isPinned": false,
@@ -1533,12 +1533,12 @@
                                         "id": "9b638b18-6027-448c-979e-43450e3d15bb",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 18187.08647247993,
-                                                "y": 17629.821264172268
+                                                "x": 17719.08647247993,
+                                                "y": 17704.821264172268
                                             },
                                             "targetPosition": {
-                                                "x": 18175.86911419703,
-                                                "y": 17929.611475608788
+                                                "x": 17707.86911419703,
+                                                "y": 18004.611475608788
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -1576,12 +1576,12 @@
                                 "id": "3ed48f6d-85c7-4713-9424-02e02f0f7a2a",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 18175.86911419703,
-                                        "y": 17929.611475608788
+                                        "x": 17707.86911419703,
+                                        "y": 18004.611475608788
                                     },
                                     "targetPosition": {
-                                        "x": 18164.651755914132,
-                                        "y": 18229.40168704531
+                                        "x": 17696.651755914132,
+                                        "y": 18304.40168704531
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -1612,12 +1612,12 @@
                         "id": "e4b89ee9-4372-4460-84d7-8470fa303eef",
                         "savedPayload": {
                             "position": {
-                                "x": 18164.651755914132,
-                                "y": 18229.40168704531
+                                "x": 17696.651755914132,
+                                "y": 18304.40168704531
                             },
                             "targetPosition": {
-                                "x": 18153.434397631234,
-                                "y": 18529.19189848183
+                                "x": 17685.434397631234,
+                                "y": 18604.19189848183
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1652,18 +1652,18 @@
                                 "positionWeightVotes": [
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "May 2024 VEX Team",
+                                        "name": "",
                                         "config": "{\r\n    \"percentage\": 10\r\n}",
                                         "project": "Governance",
                                         "id": "07e8e57e-02be-445c-841a-81f48d232124",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 18557.447253367056,
-                                                "y": 17823.23417791673
+                                                "x": 18089.447253367056,
+                                                "y": 17898.23417791673
                                             },
                                             "targetPosition": {
-                                                "x": 18593.26552072913,
-                                                "y": 18121.08825581928
+                                                "x": 18125.26552072913,
+                                                "y": 18196.08825581928
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -1699,18 +1699,18 @@
                                     },
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "May 2024 End Debug Team",
+                                        "name": "",
                                         "config": "{}",
                                         "project": "Governance",
                                         "id": "5c818d76-f884-42bd-a7fd-79d47d73ff60",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 18739.362168050437,
-                                                "y": 17859.06579563414
+                                                "x": 18271.362168050437,
+                                                "y": 17934.06579563414
                                             },
                                             "targetPosition": {
-                                                "x": 18593.26552072913,
-                                                "y": 18121.08825581928
+                                                "x": 18125.26552072913,
+                                                "y": 18196.08825581928
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -1746,18 +1746,18 @@
                                     },
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "May 2024 Turkish Team",
+                                        "name": "",
                                         "config": "{\r\n    \"percentage\": 5\r\n}",
                                         "project": "Governance",
                                         "id": "25212a7c-cf02-41be-8e4a-a56de00cfdd0",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 18865.473129099486,
-                                                "y": 17994.98108732641
+                                                "x": 18397.473129099486,
+                                                "y": 18069.98108732641
                                             },
                                             "targetPosition": {
-                                                "x": 18593.26552072913,
-                                                "y": 18121.08825581928
+                                                "x": 18125.26552072913,
+                                                "y": 18196.08825581928
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -1793,18 +1793,18 @@
                                     },
                                     {
                                         "type": "Position Weight Vote",
-                                        "name": "May 2024 Elves & Fairies Team",
+                                        "name": "",
                                         "config": "{\r\n    \"percentage\": 45\r\n}",
                                         "project": "Governance",
                                         "id": "47105cdb-ca97-4ddd-8d52-ea0c250af083",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 18887.61003574738,
-                                                "y": 18179.065031157945
+                                                "x": 18419.61003574738,
+                                                "y": 18254.065031157945
                                             },
                                             "targetPosition": {
-                                                "x": 18593.26552072913,
-                                                "y": 18121.08825581928
+                                                "x": 18125.26552072913,
+                                                "y": 18196.08825581928
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -1842,12 +1842,12 @@
                                 "id": "cf43aaf8-1563-4d14-a002-51ef620af488",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 18593.26552072913,
-                                        "y": 18121.08825581928
+                                        "x": 18125.26552072913,
+                                        "y": 18196.08825581928
                                     },
                                     "targetPosition": {
-                                        "x": 18373.34995918018,
-                                        "y": 18325.140077150554
+                                        "x": 17905.34995918018,
+                                        "y": 18400.140077150554
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -1882,12 +1882,12 @@
                         "id": "1ff3cc35-7801-4420-a11e-8125c13307a4",
                         "savedPayload": {
                             "position": {
-                                "x": 18373.34995918018,
-                                "y": 18325.140077150554
+                                "x": 17905.34995918018,
+                                "y": 18400.140077150554
                             },
                             "targetPosition": {
-                                "x": 18153.434397631234,
-                                "y": 18529.19189848183
+                                "x": 17685.434397631234,
+                                "y": 18604.19189848183
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -1910,12 +1910,12 @@
                     "id": "c2bd7064-ab64-43cf-8dd2-45d1b3184fa9",
                     "savedPayload": {
                         "position": {
-                            "x": 18453.224609067754,
-                            "y": 18540.409256764728
+                            "x": 17985.224609067754,
+                            "y": 18615.409256764728
                         },
                         "targetPosition": {
-                            "x": 18153.434397631234,
-                            "y": 18529.19189848183
+                            "x": 17685.434397631234,
+                            "y": 18604.19189848183
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -1933,12 +1933,12 @@
                 "id": "118bb650-7458-4a72-80e6-8d6952bbe22b",
                 "savedPayload": {
                     "position": {
-                        "x": 18153.434397631234,
-                        "y": 18529.19189848183
+                        "x": 17685.434397631234,
+                        "y": 18604.19189848183
                     },
                     "targetPosition": {
-                        "x": 17933.518836082287,
-                        "y": 18733.243719813105
+                        "x": 17465.518836082287,
+                        "y": 18808.243719813105
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -1970,18 +1970,18 @@
                         "positionContributionClaims": [
                             {
                                 "type": "Position Contribution Claim",
-                                "name": "End Debug Team May 2024",
+                                "name": "",
                                 "config": "{}",
                                 "project": "Governance",
                                 "id": "c6f99698-498e-4ae4-9000-0e8e66910349",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 18805.147425127223,
-                                        "y": 18688.157711762586
+                                        "x": 18337.147425127223,
+                                        "y": 18763.157711762586
                                     },
                                     "targetPosition": {
-                                        "x": 18512.669051472676,
-                                        "y": 18754.91399194948
+                                        "x": 18044.669051472676,
+                                        "y": 18829.91399194948
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -2019,12 +2019,12 @@
                         "id": "c4a0637d-d0a2-4bd6-b0cd-0ca6910b4a2b",
                         "savedPayload": {
                             "position": {
-                                "x": 18512.669051472676,
-                                "y": 18754.91399194948
+                                "x": 18044.669051472676,
+                                "y": 18829.91399194948
                             },
                             "targetPosition": {
-                                "x": 18220.19067781813,
-                                "y": 18821.670272136376
+                                "x": 17752.19067781813,
+                                "y": 18896.670272136376
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2062,12 +2062,12 @@
                     "id": "593d7bad-4be3-4802-9703-a4e599424f0c",
                     "savedPayload": {
                         "position": {
-                            "x": 18424.242499149404,
-                            "y": 19041.585833685323
+                            "x": 17956.242499149404,
+                            "y": 19116.585833685323
                         },
                         "targetPosition": {
-                            "x": 18220.19067781813,
-                            "y": 18821.670272136376
+                            "x": 17752.19067781813,
+                            "y": 18896.670272136376
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -2085,12 +2085,12 @@
                 "id": "b7fd60d9-820a-41d6-a8b5-343b441db441",
                 "savedPayload": {
                     "position": {
-                        "x": 18220.19067781813,
-                        "y": 18821.670272136376
+                        "x": 17752.19067781813,
+                        "y": 18896.670272136376
                     },
                     "targetPosition": {
-                        "x": 17933.518836082287,
-                        "y": 18733.243719813105
+                        "x": 17465.518836082287,
+                        "y": 18808.243719813105
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -2108,12 +2108,12 @@
             "id": "01108aa7-6972-4d9f-9707-b64431d3f096",
             "savedPayload": {
                 "position": {
-                    "x": 17933.518836082287,
-                    "y": 18733.243719813105
+                    "x": 17465.518836082287,
+                    "y": 18808.243719813105
                 },
                 "targetPosition": {
-                    "x": 17641.04046242774,
-                    "y": 18800
+                    "x": 17173.04046242774,
+                    "y": 18875
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -2191,12 +2191,12 @@
             "id": "7e4a1deb-c25d-4970-bfc6-11610e720fee",
             "savedPayload": {
                 "position": {
-                    "x": 18046.47645298383,
-                    "y": 18995.2476826029
+                    "x": 17578.47645298383,
+                    "y": 19070.2476826029
                 },
                 "targetPosition": {
-                    "x": 17641.04046242774,
-                    "y": 18800
+                    "x": 17173.04046242774,
+                    "y": 18875
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -2386,12 +2386,12 @@
             "id": "05fc60f4-4c52-46cc-a608-25ffeec88578",
             "savedPayload": {
                 "position": {
-                    "x": 17741.17488270808,
-                    "y": 19238.717560481822
+                    "x": 17273.17488270808,
+                    "y": 19313.717560481822
                 },
                 "targetPosition": {
-                    "x": 17641.04046242774,
-                    "y": 18800
+                    "x": 17173.04046242774,
+                    "y": 18875
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -2469,12 +2469,12 @@
             "id": "b8bff036-0cd1-4a42-aa94-a13abb0049db",
             "savedPayload": {
                 "position": {
-                    "x": 17360.47005159131,
-                    "y": 19151.824167110615
+                    "x": 16892.47005159131,
+                    "y": 19226.824167110615
                 },
                 "targetPosition": {
-                    "x": 17641.04046242774,
-                    "y": 18800
+                    "x": 17173.04046242774,
+                    "y": 18875
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -2492,12 +2492,12 @@
         "id": "1c8787dc-31af-4852-9c50-4fd2abeac607",
         "savedPayload": {
             "position": {
-                "x": 17641.04046242774,
-                "y": 18800
+                "x": 17173.04046242774,
+                "y": 18875
             },
             "targetPosition": {
-                "x": 17341.04046242774,
-                "y": 18800
+                "x": 16873.04046242774,
+                "y": 18875
             },
             "floatingObject": {
                 "isPinned": false,
@@ -2519,12 +2519,12 @@
         "id": "4d63da9f-7429-4ac4-b66c-b51c585ea14b",
         "savedPayload": {
             "position": {
-                "x": 17570.853795363433,
-                "y": 18992.836282905962
+                "x": 17102.853795363433,
+                "y": 19067.836282905962
             },
             "targetPosition": {
-                "x": 17341.04046242774,
-                "y": 18800
+                "x": 16873.04046242774,
+                "y": 18875
             },
             "floatingObject": {
                 "isPinned": false,
@@ -2558,17 +2558,17 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xf9b7c3c657a718627b08e577bddb5051552690eeb12fd60e63c5707fd95ce014\",\n        \"s\": \"0x032be75efd518b4d8fae84d7207cae8e12fa22ea89b449bcb8ba641591df7486\",\n        \"signature\": \"0xf9b7c3c657a718627b08e577bddb5051552690eeb12fd60e63c5707fd95ce014032be75efd518b4d8fae84d7207cae8e12fa22ea89b449bcb8ba641591df74861b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x5030b132479ba4cc13dd6879ac7113d65abc9b016133fa03e8c350ce7bb75961\",\n        \"s\": \"0x1f6fa268b97534b231aa9fc86fce9e18e2ce96f80c045387f1d54564ac66ade8\",\n        \"signature\": \"0x5030b132479ba4cc13dd6879ac7113d65abc9b016133fa03e8c350ce7bb759611f6fa268b97534b231aa9fc86fce9e18e2ce96f80c045387f1d54564ac66ade81b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "d2905d23-caae-4bf0-950e-4593d5280ce1",
+                        "id": "9466d0f5-0feb-4070-8ab3-160ee99c36e9",
                         "savedPayload": {
                             "position": {
-                                "x": 35331,
-                                "y": 29277.615242270665
+                                "x": 17504.413524537445,
+                                "y": 19438.161205539276
                             },
                             "targetPosition": {
-                                "x": 35300,
-                                "y": 29219.615242270665
+                                "x": 17413.413524537445,
+                                "y": 19348.161205539276
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2586,12 +2586,12 @@
                     "id": "4815a997-fd4b-428a-9e7a-94b6781d0ba2",
                     "savedPayload": {
                         "position": {
-                            "x": 35300,
-                            "y": 29219.615242270665
+                            "x": 17413.413524537445,
+                            "y": 19348.161205539276
                         },
                         "targetPosition": {
-                            "x": 35150,
-                            "y": 28959.807621135333
+                            "x": 17117.971198633782,
+                            "y": 19400.255658839356
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -2614,17 +2614,17 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xd7c1603856f6740e795452b5f28fc1851acfe95e791367096e090e7c900cf057\",\n        \"s\": \"0x61a940e9ad73ff63c9c03f24c89a5cde88c6da9f8576ade43aec9e70082aa064\",\n        \"signature\": \"0xd7c1603856f6740e795452b5f28fc1851acfe95e791367096e090e7c900cf05761a940e9ad73ff63c9c03f24c89a5cde88c6da9f8576ade43aec9e70082aa0641b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xcf2d19f8ceff1c17baf2ac8a786a7ce4bb9e05ea9d61e66c5972a4ce8599ca73\",\n        \"s\": \"0x5049ec9933fe3ed7fe7ab70c03b1ed920326b70343598c351a11975a4603b15a\",\n        \"signature\": \"0xcf2d19f8ceff1c17baf2ac8a786a7ce4bb9e05ea9d61e66c5972a4ce8599ca735049ec9933fe3ed7fe7ab70c03b1ed920326b70343598c351a11975a4603b15a1c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "cc688093-c855-40a3-8fd2-77e1f15a28a6",
+                        "id": "2a8ebc73-10ee-4f95-8a82-5f682fb487c1",
                         "savedPayload": {
                             "position": {
-                                "x": -22,
-                                "y": -18
+                                "x": 17195.065651933863,
+                                "y": 19703.69798474302
                             },
                             "targetPosition": {
-                                "x": 0,
-                                "y": 0
+                                "x": 17170.065651933863,
+                                "y": 19695.69798474302
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -2642,12 +2642,12 @@
                     "id": "a32fb852-bdfc-43ae-a4b3-f738ac529787",
                     "savedPayload": {
                         "position": {
-                            "x": 0,
-                            "y": 0
+                            "x": 17170.065651933863,
+                            "y": 19695.69798474302
                         },
                         "targetPosition": {
-                            "x": 0,
-                            "y": 0
+                            "x": 17117.971198633782,
+                            "y": 19400.255658839356
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -2667,17 +2667,17 @@
             "id": "510eba59-b4f0-402a-9748-e347419bb8dc",
             "savedPayload": {
                 "position": {
-                    "x": 35150,
-                    "y": 28959.807621135333
+                    "x": 17117.971198633782,
+                    "y": 19400.255658839356
                 },
                 "targetPosition": {
-                    "x": 35000,
-                    "y": 28700
+                    "x": 16925.13491572782,
+                    "y": 19170.442325903663
                 },
                 "floatingObject": {
                     "isPinned": false,
                     "isFrozen": false,
-                    "isCollapsed": true,
+                    "isCollapsed": false,
                     "angleToParent": 2,
                     "distanceToParent": 3,
                     "arrangementStyle": 0
@@ -2701,13 +2701,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xd481f29742df445fe5f62c6f5b73f6b2ab6e11d9c7d9dfe502d18878bb088467\",\n        \"s\": \"0x032da6a0e563200df66abf6d2f295df4846b6c76d41d60e622c7b9db13ddc4b9\",\n        \"signature\": \"0xd481f29742df445fe5f62c6f5b73f6b2ab6e11d9c7d9dfe502d18878bb088467032da6a0e563200df66abf6d2f295df4846b6c76d41d60e622c7b9db13ddc4b91b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x8c2d1e4a94f7b23390335166f11019493b0963740876ad5fe9fe3c423eb7d7a7\",\n        \"s\": \"0x42e4771764424d777f5852aa6fc15237ccc65f29880f9c682b49e5eb3fd4ebda\",\n        \"signature\": \"0x8c2d1e4a94f7b23390335166f11019493b0963740876ad5fe9fe3c423eb7d7a742e4771764424d777f5852aa6fc15237ccc65f29880f9c682b49e5eb3fd4ebda1c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "7ac821ba-7da1-4282-a3cc-f49a6c2894d9",
+                        "id": "f6a65ea1-bcd3-4a05-9184-06ed02d56c36",
                         "savedPayload": {
                             "position": {
-                                "x": 35155.02370344463,
-                                "y": 29237.927832566853
+                                "x": 35059.02370344463,
+                                "y": 29216.927832566853
                             },
                             "targetPosition": {
                                 "x": 35057.02370344463,
@@ -2757,13 +2757,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x1af14ac7b9adb3a136f252465ce7ef9f06f2ee2ade0f1e4dcd838b82272c27c2\",\n        \"s\": \"0x3bc0ccdbd836c673994364592a4259d37fa3bdfff830c7e62bc8a5ef57bab270\",\n        \"signature\": \"0x1af14ac7b9adb3a136f252465ce7ef9f06f2ee2ade0f1e4dcd838b82272c27c23bc0ccdbd836c673994364592a4259d37fa3bdfff830c7e62bc8a5ef57bab2701c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xa8d9e6c89395f5ff1094ca8ce721f8c0f1d263950a92ace7577e1f908fd22fc1\",\n        \"s\": \"0x07898d911fd6fa69fd102810a8599f2891f5623dce37fcc7502a523bc8b70818\",\n        \"signature\": \"0xa8d9e6c89395f5ff1094ca8ce721f8c0f1d263950a92ace7577e1f908fd22fc107898d911fd6fa69fd102810a8599f2891f5623dce37fcc7502a523bc8b708181b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "68706141-8708-4c6e-919c-c83e7448b199",
+                        "id": "f42a5364-a037-4b8f-a1fd-09b44315f35d",
                         "savedPayload": {
                             "position": {
-                                "x": 35051.46795651822,
-                                "y": 29249.45825573181
+                                "x": 35022.46795651822,
+                                "y": 29294.45825573181
                             },
                             "targetPosition": {
                                 "x": 34987.46795651822,
@@ -2813,13 +2813,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-3\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xd04078a89c5266c0c96a23f0bf001822ee99d525b5d22f55bac5a229231f4df0\",\n        \"s\": \"0x3fe95ad623cd75459eac0b6f67c8b4baa910dcc2599bcea1cd7133b7e805ac6c\",\n        \"signature\": \"0xd04078a89c5266c0c96a23f0bf001822ee99d525b5d22f55bac5a229231f4df03fe95ad623cd75459eac0b6f67c8b4baa910dcc2599bcea1cd7133b7e805ac6c1b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-3\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xde6461b0c41a89485c63eac681f8285ef11ddec60388d733ecb5361bdbedc708\",\n        \"s\": \"0x0728b27b2e316bee29b6b622a19109d139d3d005bf1a928f3dffb276d86eb014\",\n        \"signature\": \"0xde6461b0c41a89485c63eac681f8285ef11ddec60388d733ecb5361bdbedc7080728b27b2e316bee29b6b622a19109d139d3d005bf1a928f3dffb276d86eb0141b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "3a5501c8-65a8-43f6-a3c8-5731017a453d",
+                        "id": "a601e2dd-fe04-44e0-a9d2-462fb541cb9e",
                         "savedPayload": {
                             "position": {
-                                "x": 34861.775373308126,
-                                "y": 29189.386230314143
+                                "x": 34915.775373308126,
+                                "y": 29270.386230314143
                             },
                             "targetPosition": {
                                 "x": 34906.775373308126,
@@ -2869,13 +2869,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-4\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x9ca5e37deb1fafbf3d2040a0bd22dcd56f0e8409f558f87622496b98a2867ea2\",\n        \"s\": \"0x5189a6a7da198f256b8ef8f951ef4f9e93f976e71e90048658650e2740e2a430\",\n        \"signature\": \"0x9ca5e37deb1fafbf3d2040a0bd22dcd56f0e8409f558f87622496b98a2867ea25189a6a7da198f256b8ef8f951ef4f9e93f976e71e90048658650e2740e2a4301b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-4\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x9d3e221fc5fe5fa8c3b0148206707d5bb7719332b7a02a3da8ae7cdd6b14253d\",\n        \"s\": \"0x4a3c77922f93ae6eebd6fa6c4d96011546ea5cc58352051869609c53e193a11c\",\n        \"signature\": \"0x9d3e221fc5fe5fa8c3b0148206707d5bb7719332b7a02a3da8ae7cdd6b14253d4a3c77922f93ae6eebd6fa6c4d96011546ea5cc58352051869609c53e193a11c1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "bf129ab0-f966-428e-890a-70b1fff9e783",
+                        "id": "dddaa0f9-7cb1-4a96-8935-fa6c6764f1f4",
                         "savedPayload": {
                             "position": {
-                                "x": 34764.483187008744,
-                                "y": 29317.44919790726
+                                "x": 34783.483187008744,
+                                "y": 29180.44919790726
                             },
                             "targetPosition": {
                                 "x": 34821.483187008744,
@@ -2925,13 +2925,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-5\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xd82bda7eb4d6c626326c2450aa3cc4a1bcb256d081193d1feef148fa16d6e857\",\n        \"s\": \"0x6385f5c5e7207e5a8f806e843f0d5e1ec422b7c900a2ef72f528a32ef90a13e4\",\n        \"signature\": \"0xd82bda7eb4d6c626326c2450aa3cc4a1bcb256d081193d1feef148fa16d6e8576385f5c5e7207e5a8f806e843f0d5e1ec422b7c900a2ef72f528a32ef90a13e41b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-5\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x6defd2d071c33ee538b4adeb0d10ce79da68e524b32160d96169839ad5c775a2\",\n        \"s\": \"0x61a4a4eba6aea9498ce387606438bed260be98fbbe62794b6bd925e6f5cad097\",\n        \"signature\": \"0x6defd2d071c33ee538b4adeb0d10ce79da68e524b32160d96169839ad5c775a261a4a4eba6aea9498ce387606438bed260be98fbbe62794b6bd925e6f5cad0971b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "420e118d-3d4a-49bd-b0fb-d57d38013eca",
+                        "id": "8dfcde0f-6449-4707-8aea-4c3b80582b64",
                         "savedPayload": {
                             "position": {
-                                "x": 34761.5012633019,
-                                "y": 29308.318001040156
+                                "x": 34708.5012633019,
+                                "y": 29254.318001040156
                             },
                             "targetPosition": {
                                 "x": 34738.5012633019,
@@ -2981,13 +2981,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-6\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xaf125e37798605b6f009b8ab6b1d4ff544b5b07a06c8ad1721af330fed7d0d0e\",\n        \"s\": \"0x44450f8a85e69e25c257f8707aade1ad90ad8b8514ccac901bbfe6966b7dcc98\",\n        \"signature\": \"0xaf125e37798605b6f009b8ab6b1d4ff544b5b07a06c8ad1721af330fed7d0d0e44450f8a85e69e25c257f8707aade1ad90ad8b8514ccac901bbfe6966b7dcc981b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-6\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x396b8422b2dd63653be06e36aa37430ca56bfc19c81b18f61de6e9fc08520306\",\n        \"s\": \"0x7ca7c4cf8e08e79f5fa4e07e9488f85ed97e83a249cdca4361cbf745808b3888\",\n        \"signature\": \"0x396b8422b2dd63653be06e36aa37430ca56bfc19c81b18f61de6e9fc085203067ca7c4cf8e08e79f5fa4e07e9488f85ed97e83a249cdca4361cbf745808b38881c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "d1950ea5-5575-4ba3-8b44-81b9d682ab57",
+                        "id": "cbd18aeb-c3ab-43f8-ac5c-b7d589b3d6c4",
                         "savedPayload": {
                             "position": {
-                                "x": 34618.55230413382,
-                                "y": 29248.623549558168
+                                "x": 34727.55230413382,
+                                "y": 29121.623549558168
                             },
                             "targetPosition": {
                                 "x": 34664.55230413382,
@@ -3037,13 +3037,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-7\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x31419710e527b4a501ce9ec4a6f03baab58f49d91ca52e8f60a2dfed2751fcd9\",\n        \"s\": \"0x36335c2db58c7c0bd4e29130ba96970591088f6fdf432e91ec8de342865f4274\",\n        \"signature\": \"0x31419710e527b4a501ce9ec4a6f03baab58f49d91ca52e8f60a2dfed2751fcd936335c2db58c7c0bd4e29130ba96970591088f6fdf432e91ec8de342865f42741c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-7\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xb4ca4333f6090db40f77c0e51461e7e37991b6adfc7ca6497c9f108be6c691aa\",\n        \"s\": \"0x4a1f5472bad1f29376bb3d1d912c59a7f6da9aebbba1658ddf137df4579b512f\",\n        \"signature\": \"0xb4ca4333f6090db40f77c0e51461e7e37991b6adfc7ca6497c9f108be6c691aa4a1f5472bad1f29376bb3d1d912c59a7f6da9aebbba1658ddf137df4579b512f1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "2b61e0fe-ed62-4ea7-b73f-4ee4516d5e76",
+                        "id": "2e92f753-e3f2-4306-a43a-cb091e2efa66",
                         "savedPayload": {
                             "position": {
-                                "x": 34613.6272143849,
-                                "y": 29104.824694006693
+                                "x": 34646.6272143849,
+                                "y": 29077.824694006693
                             },
                             "targetPosition": {
                                 "x": 34605.6272143849,
@@ -3093,13 +3093,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-8\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x465889f902cdc8c88ba91f71c1d4926e1b77b766c2e5c188e978e25d07a17fb7\",\n        \"s\": \"0x00cf5ce1424d83fa160da18cc15d001e656c283451654bf9f383b2b7c9dc9ed2\",\n        \"signature\": \"0x465889f902cdc8c88ba91f71c1d4926e1b77b766c2e5c188e978e25d07a17fb700cf5ce1424d83fa160da18cc15d001e656c283451654bf9f383b2b7c9dc9ed21b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-8\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x447827135e69f94deac24d3118dacf0a6af5ca2a9b4a8634d5fa799bc755d476\",\n        \"s\": \"0x4320b5115840b7bac292efafea5df1c34a427ed3bf6bf0add1979982275f8117\",\n        \"signature\": \"0x447827135e69f94deac24d3118dacf0a6af5ca2a9b4a8634d5fa799bc755d4764320b5115840b7bac292efafea5df1c34a427ed3bf6bf0add1979982275f81171b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "d48392c1-0c19-4c59-8bfe-43049773e9ce",
+                        "id": "796d1b3b-3d14-485d-8cc0-64d170f1dc90",
                         "savedPayload": {
                             "position": {
-                                "x": 34640.4997543856,
-                                "y": 29099.92801013056
+                                "x": 34556.4997543856,
+                                "y": 29067.92801013056
                             },
                             "targetPosition": {
                                 "x": 34566.4997543856,
@@ -3149,13 +3149,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-9\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x3ffc1964aba21d97b85c46de8a5c77e9caffa1caff245cd63b937e106ef8a98d\",\n        \"s\": \"0x51b0bc9c2b67c2557ee445550b2dab7b1599eb59a7f7d59811461fe1e3206211\",\n        \"signature\": \"0x3ffc1964aba21d97b85c46de8a5c77e9caffa1caff245cd63b937e106ef8a98d51b0bc9c2b67c2557ee445550b2dab7b1599eb59a7f7d59811461fe1e32062111c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-9\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x5f6c1e91d67ef16338e746d99c6b8f09242f7d19819917496e6bda6bfc43789a\",\n        \"s\": \"0x3f97acccd169de241c9d1e7792b3124382a967fe5200b2ae8c4c816c57ee07d2\",\n        \"signature\": \"0x5f6c1e91d67ef16338e746d99c6b8f09242f7d19819917496e6bda6bfc43789a3f97acccd169de241c9d1e7792b3124382a967fe5200b2ae8c4c816c57ee07d21b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "2e17c4e3-1d87-4ae2-b5e8-363a7e9573a8",
+                        "id": "29f56860-025f-4233-9a19-8393b22458e0",
                         "savedPayload": {
                             "position": {
-                                "x": 34536.3397982451,
-                                "y": 28979.082195882456
+                                "x": 34616.3397982451,
+                                "y": 28915.082195882456
                             },
                             "targetPosition": {
                                 "x": 34550.3397982451,
@@ -3205,13 +3205,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-10\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x62acf7892b5c7c67546eca940a45ca67bb85398c9d883bf128ce07f9fdc4d6d4\",\n        \"s\": \"0x71348a556a5381a1100d975e40a661184f553e5dbeb9a3659fa724ff1d20fd65\",\n        \"signature\": \"0x62acf7892b5c7c67546eca940a45ca67bb85398c9d883bf128ce07f9fdc4d6d471348a556a5381a1100d975e40a661184f553e5dbeb9a3659fa724ff1d20fd651b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-10\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xcd69c40d05b5cec679f15d6f23f8b111ba11259ca0f623332607fe2135e3b46b\",\n        \"s\": \"0x30eca79f50e0a33d71a563bae02c3451a93e32ea783e942101229f3fec91e5e7\",\n        \"signature\": \"0xcd69c40d05b5cec679f15d6f23f8b111ba11259ca0f623332607fe2135e3b46b30eca79f50e0a33d71a563bae02c3451a93e32ea783e942101229f3fec91e5e71c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "1740af11-3b22-48e7-9360-202d414a2e35",
+                        "id": "600111a3-14ec-4490-a7ae-b8d40ad21891",
                         "savedPayload": {
                             "position": {
-                                "x": 34584.45652950294,
-                                "y": 28922.079940482505
+                                "x": 34504.45652950294,
+                                "y": 28822.079940482505
                             },
                             "targetPosition": {
                                 "x": 34558.45652950294,
@@ -3258,12 +3258,12 @@
             "id": "8a5c7f12-b0e7-480d-be99-f3cba3c88dd4",
             "savedPayload": {
                 "position": {
-                    "x": 34850,
-                    "y": 28959.807621135333
+                    "x": 16822.52887273012,
+                    "y": 19452.350112139437
                 },
                 "targetPosition": {
-                    "x": 35000,
-                    "y": 28700
+                    "x": 16925.13491572782,
+                    "y": 19170.442325903663
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -3281,17 +3281,17 @@
         "id": "3f598b66-d2a8-4151-b29f-27c19ce941fd",
         "savedPayload": {
             "position": {
-                "x": 17393.13491572782,
-                "y": 19095.442325903663
+                "x": 16925.13491572782,
+                "y": 19170.442325903663
             },
             "targetPosition": {
-                "x": 17341.04046242774,
-                "y": 18800
+                "x": 16873.04046242774,
+                "y": 18875
             },
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": true,
+                "isCollapsed": false,
                 "angleToParent": 1,
                 "distanceToParent": 3,
                 "arrangementStyle": 0
@@ -3320,13 +3320,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xf51cc17d6e05ad40b8a04cec8430dded1fbe02fd1332b323229d7475deca2103\",\n        \"s\": \"0x3f0bc8dadc897fc90f389465ecf839b74f87a76f82ad9c0578a2818691a7fffe\",\n        \"signature\": \"0xf51cc17d6e05ad40b8a04cec8430dded1fbe02fd1332b323229d7475deca21033f0bc8dadc897fc90f389465ecf839b74f87a76f82ad9c0578a2818691a7fffe1c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x52bf3c04c67f69653c7d00ee180129e2b36c53d7c963083fe17d3eddf45503dc\",\n        \"s\": \"0x33625431200b50646b34f0a62318886576ea2b8ff44e80031574f98e9159b8c1\",\n        \"signature\": \"0x52bf3c04c67f69653c7d00ee180129e2b36c53d7c963083fe17d3eddf45503dc33625431200b50646b34f0a62318886576ea2b8ff44e80031574f98e9159b8c11c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "ccfb1add-19f4-4eff-8b3b-e8e19a40c078",
+                        "id": "7c095155-c13a-4f19-a517-f6d55c206289",
                         "savedPayload": {
                             "position": {
-                                "x": 17691.157894736847,
-                                "y": 19644.422863406
+                                "x": 17595.157894736847,
+                                "y": 19661.422863406
                             },
                             "targetPosition": {
                                 "x": 17613.157894736847,
@@ -3405,13 +3405,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x7b493d9465fb6cfb5989e31aa051a52425d72a4e79f56cffe1ab53f8f47c7e7c\",\n        \"s\": \"0x642223b69afdde7b06f807c142a07200b6dcde83e759d0353388411d717a18a9\",\n        \"signature\": \"0x7b493d9465fb6cfb5989e31aa051a52425d72a4e79f56cffe1ab53f8f47c7e7c642223b69afdde7b06f807c142a07200b6dcde83e759d0353388411d717a18a91c\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x5400c2b86223294a2f6be19f80d62ac240d982ed6d44a04db33cf0c9084a2563\",\n        \"s\": \"0x03b5eaf52b53a348e1224e88457a0c80f29408b3a97cb521a83b0893144d361e\",\n        \"signature\": \"0x5400c2b86223294a2f6be19f80d62ac240d982ed6d44a04db33cf0c9084a256303b5eaf52b53a348e1224e88457a0c80f29408b3a97cb521a83b0893144d361e1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "97ec1ff4-5705-4dee-94dd-5995b802fd7a",
+                        "id": "d6da7e17-5931-49fd-b9cc-7139ccd5e500",
                         "savedPayload": {
                             "position": {
-                                "x": 17150.157894736847,
-                                "y": 19406.615242270665
+                                "x": 17102.157894736847,
+                                "y": 19368.615242270665
                             },
                             "targetPosition": {
                                 "x": 17163.157894736847,
@@ -3433,7 +3433,7 @@
                     "followedBotReference": [
                         {
                             "type": "Followed Bot Reference",
-                            "name": "Follower Test",
+                            "name": "",
                             "project": "Social-Trading",
                             "id": "3ee234ed-3125-41a7-9283-4d6dd03408af",
                             "savedPayload": {
@@ -3532,12 +3532,12 @@
         "id": "e14c7755-3ae8-4647-ac8f-d8c04c196634",
         "savedPayload": {
             "position": {
-                "x": 17191.04046242774,
-                "y": 19059.807621135333
+                "x": 16723.04046242774,
+                "y": 19134.807621135333
             },
             "targetPosition": {
-                "x": 17341.04046242774,
-                "y": 18800
+                "x": 16873.04046242774,
+                "y": 18875
             },
             "floatingObject": {
                 "isPinned": false,
@@ -3566,17 +3566,17 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"Social-Persona-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x72a893d6280b15538f040405266a730f0dca21b0f96ad6c9f839eb60278a79b3\",\n        \"s\": \"0x74ca2631ed78eee30abfd119d12f4fd8ed0328a8e79df232da62d8c68f6f2841\",\n        \"signature\": \"0x72a893d6280b15538f040405266a730f0dca21b0f96ad6c9f839eb60278a79b374ca2631ed78eee30abfd119d12f4fd8ed0328a8e79df232da62d8c68f6f28411c\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"Social-Persona-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x80940c5160ad6fb51f0e43bd5910d0352c253d4326d3da7d924e890d08d95cc3\",\n        \"s\": \"0x2cc7b8714d078179e26cc6c58f1abe3a8690be0917323ef0693c391111314ae1\",\n        \"signature\": \"0x80940c5160ad6fb51f0e43bd5910d0352c253d4326d3da7d924e890d08d95cc32cc7b8714d078179e26cc6c58f1abe3a8690be0917323ef0693c391111314ae11b\"\n    }\n}",
                     "project": "Governance",
-                    "id": "9f0dacc4-a2fe-43b5-9954-c2bbfbbeafe8",
+                    "id": "7bea9eb7-42fb-4b4f-8e09-fcffd4eab027",
                     "savedPayload": {
                         "position": {
-                            "x": 16864.21155372557,
-                            "y": 23877.03660401155
+                            "x": 16849.119940681612,
+                            "y": 19117.03660401155
                         },
                         "targetPosition": {
-                            "x": 16955.21155372557,
-                            "y": 23859.03660401155
+                            "x": 16847.119940681612,
+                            "y": 19134.03660401155
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -3726,12 +3726,12 @@
                 "id": "863967b6-eecd-4601-a7c4-91b44ada475b",
                 "savedPayload": {
                     "position": {
-                        "x": 17315.119940681612,
-                        "y": 19059.03660401155
+                        "x": 16847.119940681612,
+                        "y": 19134.03660401155
                     },
                     "targetPosition": {
-                        "x": 17059.132676191966,
-                        "y": 18902.6060429977
+                        "x": 16591.132676191966,
+                        "y": 18977.6060429977
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -3754,17 +3754,17 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"Social-Persona-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xcef0292aab5a05da8081820c8e2a1e2747fda90b74e5ab11585e0c5687b05079\",\n        \"s\": \"0x6a4d0381bb3a6129c245a22cf36b8f4df18470b970335aa9e69628ff01a9b31d\",\n        \"signature\": \"0xcef0292aab5a05da8081820c8e2a1e2747fda90b74e5ab11585e0c5687b050796a4d0381bb3a6129c245a22cf36b8f4df18470b970335aa9e69628ff01a9b31d1b\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"Social-Persona-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xf17e73017d3c7c768358be0c9ff551c22d1d82a6892f5f9fe80a0ccbda740f41\",\n        \"s\": \"0x464e4767bc3239ae845db3442df2d276c0d4dafc99c2e82c2ef0d51c91c7ce1e\",\n        \"signature\": \"0xf17e73017d3c7c768358be0c9ff551c22d1d82a6892f5f9fe80a0ccbda740f41464e4767bc3239ae845db3442df2d276c0d4dafc99c2e82c2ef0d51c91c7ce1e1b\"\n    }\n}",
                     "project": "Governance",
-                    "id": "a6f9d15a-882e-4214-aa17-356fcfac47bd",
+                    "id": "8aab18c1-9b5e-4a39-a025-8d536066c99c",
                     "savedPayload": {
                         "position": {
-                            "x": 16895.222907656695,
-                            "y": 19458.50006208759
+                            "x": 16394.702115178115,
+                            "y": 19274.593307487346
                         },
                         "targetPosition": {
-                            "x": 16902.702115178115,
-                            "y": 19158.593307487346
+                            "x": 16434.702115178115,
+                            "y": 19233.593307487346
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -3793,12 +3793,12 @@
                             "id": "ddba954f-4414-425b-9a54-62a665aeb890",
                             "savedPayload": {
                                 "position": {
-                                    "x": 16375.76917115598,
-                                    "y": 19445.54569466014
+                                    "x": 15907.769171155978,
+                                    "y": 19520.54569466014
                                 },
                                 "targetPosition": {
-                                    "x": 16639.23564316705,
-                                    "y": 19302.069501073744
+                                    "x": 16171.235643167047,
+                                    "y": 19377.069501073744
                                 },
                                 "floatingObject": {
                                     "isPinned": false,
@@ -3840,12 +3840,12 @@
                     "id": "09f745e1-2ac3-4cea-8070-d65c61599a8e",
                     "savedPayload": {
                         "position": {
-                            "x": 16639.23564316705,
-                            "y": 19302.069501073744
+                            "x": 16171.235643167047,
+                            "y": 19377.069501073744
                         },
                         "targetPosition": {
-                            "x": 16902.702115178115,
-                            "y": 19158.593307487346
+                            "x": 16434.702115178115,
+                            "y": 19233.593307487346
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -3863,12 +3863,12 @@
                 "id": "097c8df6-1cb8-45fd-93a9-dcbeaa4e44b1",
                 "savedPayload": {
                     "position": {
-                        "x": 16902.702115178115,
-                        "y": 19158.593307487346
+                        "x": 16434.702115178115,
+                        "y": 19233.593307487346
                     },
                     "targetPosition": {
-                        "x": 17059.132676191966,
-                        "y": 18902.6060429977
+                        "x": 16591.132676191966,
+                        "y": 18977.6060429977
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -3891,17 +3891,17 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"Social-Persona-3\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xdba9336a3872825d4644509ad6da41ce169cca52044dce9c2d2f27f32d624034\",\n        \"s\": \"0x4a0778d20db5ff9c91b898f5a7e49d0794da49f547177baf361763bf801a0ecc\",\n        \"signature\": \"0xdba9336a3872825d4644509ad6da41ce169cca52044dce9c2d2f27f32d6240344a0778d20db5ff9c91b898f5a7e49d0794da49f547177baf361763bf801a0ecc1b\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"Social-Persona-3\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x387d2f4068ae2fa2fc6218d08435ea305488043994b89026cc66d48bb535b1b2\",\n        \"s\": \"0x541f6e64a81c8f78e8db32c4232c8edd75c9c343344fe5105378533cd9cba59d\",\n        \"signature\": \"0x387d2f4068ae2fa2fc6218d08435ea305488043994b89026cc66d48bb535b1b2541f6e64a81c8f78e8db32c4232c8edd75c9c343344fe5105378533cd9cba59d1b\"\n    }\n}",
                     "project": "Governance",
-                    "id": "0ff2fdef-93a5-435e-8df1-76645ac691fa",
+                    "id": "0a4f4927-423e-4f81-851c-7725288474a9",
                     "savedPayload": {
                         "position": {
-                            "x": 16670.261702040785,
-                            "y": 19332.331464800867
+                            "x": 16318.124899246735,
+                            "y": 19081.369922157428
                         },
                         "targetPosition": {
-                            "x": 16807.124899246734,
-                            "y": 19065.369922157428
+                            "x": 16339.124899246735,
+                            "y": 19140.369922157428
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4000,17 +4000,17 @@
                 "id": "1511b8bd-bcca-4e60-af98-8e01f9b3bc67",
                 "savedPayload": {
                     "position": {
-                        "x": 16807.124899246734,
-                        "y": 19065.369922157428
+                        "x": 16339.124899246735,
+                        "y": 19140.369922157428
                     },
                     "targetPosition": {
-                        "x": 17059.132676191966,
-                        "y": 18902.6060429977
+                        "x": 16591.132676191966,
+                        "y": 18977.6060429977
                     },
                     "floatingObject": {
                         "isPinned": false,
                         "isFrozen": false,
-                        "isCollapsed": false,
+                        "isCollapsed": true,
                         "angleToParent": 2,
                         "distanceToParent": 3,
                         "arrangementStyle": 0
@@ -4028,17 +4028,17 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"Social-Persona-4\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x23f36e69d9a49c7a6d9c68f89adf1c0342335b8bfd7086243d5105ef65720209\",\n        \"s\": \"0x2df32baa1e516ce5ed2745cb1ff2ee3dfdf8350feed46d5d56cbc90457b42672\",\n        \"signature\": \"0x23f36e69d9a49c7a6d9c68f89adf1c0342335b8bfd7086243d5105ef657202092df32baa1e516ce5ed2745cb1ff2ee3dfdf8350feed46d5d56cbc90457b426721c\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"Social-Persona-4\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x9f0e60c410ab45e13ec87cc1d48e9c9666cff0ab58e9bc21a00f5f8ac27bcdb0\",\n        \"s\": \"0x6be0f8c6c733401dbeb8db1c22c648370f0ca5e69dcc592eb098a90e53dac0e0\",\n        \"signature\": \"0x9f0e60c410ab45e13ec87cc1d48e9c9666cff0ab58e9bc21a00f5f8ac27bcdb06be0f8c6c733401dbeb8db1c22c648370f0ca5e69dcc592eb098a90e53dac0e01b\"\n    }\n}",
                     "project": "Governance",
-                    "id": "acfac956-bd29-4edd-b9c7-3149a5b7e121",
+                    "id": "be12b15d-d5ac-4595-9e50-b68a8b78c76f",
                     "savedPayload": {
                         "position": {
-                            "x": 16522.32116204504,
-                            "y": 19121.05047748959
+                            "x": 16223.460914211915,
+                            "y": 19111.909154391946
                         },
                         "targetPosition": {
-                            "x": 16761.460914211915,
-                            "y": 18939.909154391946
+                            "x": 16293.460914211915,
+                            "y": 19014.909154391946
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4067,12 +4067,12 @@
                             "id": "498d4670-edda-48ae-aea8-b2f84b46818e",
                             "savedPayload": {
                                 "position": {
-                                    "x": 16208.575187089671,
-                                    "y": 18706.84827662713
+                                    "x": 15740.575187089671,
+                                    "y": 18781.84827662713
                                 },
                                 "targetPosition": {
-                                    "x": 16485.018050650793,
-                                    "y": 18823.378715509538
+                                    "x": 16017.018050650793,
+                                    "y": 18898.378715509538
                                 },
                                 "floatingObject": {
                                     "isPinned": false,
@@ -4114,12 +4114,12 @@
                     "id": "6ade691d-8fa1-4d31-aee4-2addd894eae1",
                     "savedPayload": {
                         "position": {
-                            "x": 16485.018050650793,
-                            "y": 18823.378715509538
+                            "x": 16017.018050650793,
+                            "y": 18898.378715509538
                         },
                         "targetPosition": {
-                            "x": 16761.460914211915,
-                            "y": 18939.909154391946
+                            "x": 16293.460914211915,
+                            "y": 19014.909154391946
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4137,12 +4137,12 @@
                 "id": "eea9a51b-4f19-4d6b-a21a-ba4bf1015140",
                 "savedPayload": {
                     "position": {
-                        "x": 16761.460914211915,
-                        "y": 18939.909154391946
+                        "x": 16293.460914211915,
+                        "y": 19014.909154391946
                     },
                     "targetPosition": {
-                        "x": 17059.132676191966,
-                        "y": 18902.6060429977
+                        "x": 16591.132676191966,
+                        "y": 18977.6060429977
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -4165,17 +4165,17 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"Social-Persona-5\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x3ba763476eb50c0fb22e7075257f659273bee6ef8d014d3b43ba64bd58fb5ebd\",\n        \"s\": \"0x4ff5a343ade39b7a9af4faf768272cc418ccf573d371207bb0f4cf1e0f960119\",\n        \"signature\": \"0x3ba763476eb50c0fb22e7075257f659273bee6ef8d014d3b43ba64bd58fb5ebd4ff5a343ade39b7a9af4faf768272cc418ccf573d371207bb0f4cf1e0f9601191b\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"Social-Persona-5\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x21ec3bc8165925c14c85f082734a27b3b3d36cf27e26259926f073099e6bba5c\",\n        \"s\": \"0x733473783faad380c13862eec6b186f89fa472e8d870582a8ffefe046072b7b6\",\n        \"signature\": \"0x21ec3bc8165925c14c85f082734a27b3b3d36cf27e26259926f073099e6bba5c733473783faad380c13862eec6b186f89fa472e8d870582a8ffefe046072b7b61c\"\n    }\n}",
                     "project": "Governance",
-                    "id": "6abdb0a3-12f8-41d1-a8c7-9cc45bfef439",
+                    "id": "e7596857-d9b2-4945-9a9d-41ba89582f17",
                     "savedPayload": {
                         "position": {
-                            "x": 16480.702725987263,
-                            "y": 18866.503890882013
+                            "x": 16284.754472341827,
+                            "y": 18814.060047922194
                         },
                         "targetPosition": {
-                            "x": 16774.754472341825,
-                            "y": 18807.060047922194
+                            "x": 16306.754472341827,
+                            "y": 18882.060047922194
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4204,12 +4204,12 @@
                             "id": "09a6acb7-7201-4d0a-a3fc-6865acd1cfbb",
                             "savedPayload": {
                                 "position": {
-                                    "x": 16377.742969783709,
-                                    "y": 18357.19132614155
+                                    "x": 15909.742969783712,
+                                    "y": 18432.19132614155
                                 },
                                 "targetPosition": {
-                                    "x": 16576.248721062766,
-                                    "y": 18582.125687031872
+                                    "x": 16108.24872106277,
+                                    "y": 18657.125687031872
                                 },
                                 "floatingObject": {
                                     "isPinned": false,
@@ -4251,12 +4251,12 @@
                     "id": "a0424385-438d-4e96-8454-b77027180bf2",
                     "savedPayload": {
                         "position": {
-                            "x": 16576.248721062766,
-                            "y": 18582.125687031872
+                            "x": 16108.24872106277,
+                            "y": 18657.125687031872
                         },
                         "targetPosition": {
-                            "x": 16774.754472341825,
-                            "y": 18807.060047922194
+                            "x": 16306.754472341827,
+                            "y": 18882.060047922194
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4274,12 +4274,12 @@
                 "id": "22492b5f-7dda-4029-8df4-4bc748f7554d",
                 "savedPayload": {
                     "position": {
-                        "x": 16774.754472341825,
-                        "y": 18807.060047922194
+                        "x": 16306.754472341827,
+                        "y": 18882.060047922194
                     },
                     "targetPosition": {
-                        "x": 17059.132676191966,
-                        "y": 18902.6060429977
+                        "x": 16591.132676191966,
+                        "y": 18977.6060429977
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -4302,17 +4302,17 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"Social-Persona-6\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x63d3faf1e5072145ddd717f537a7ac39bbe54f40ad8b45a43a076dee772e2f1b\",\n        \"s\": \"0x127e1a6fb723cd6e77ae2be8c9dee22a7005d99f43ee879db363774a4ee6db42\",\n        \"signature\": \"0x63d3faf1e5072145ddd717f537a7ac39bbe54f40ad8b45a43a076dee772e2f1b127e1a6fb723cd6e77ae2be8c9dee22a7005d99f43ee879db363774a4ee6db421c\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"Social-Persona-6\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0xcac9d34abe1bc144bf9c1fb2bc57c6c75594818153469bfdbcd160b1e2b69b05\",\n        \"s\": \"0x74ba75cb0fed501c51f10520547cf2ac6fde1ce14d20c00da3580f3ed49f45b5\",\n        \"signature\": \"0xcac9d34abe1bc144bf9c1fb2bc57c6c75594818153469bfdbcd160b1e2b69b0574ba75cb0fed501c51f10520547cf2ac6fde1ce14d20c00da3580f3ed49f45b51c\"\n    }\n}",
                     "project": "Governance",
-                    "id": "3db978cb-ca1d-4fa1-9488-55b45588c043",
+                    "id": "90462c7a-0d9f-406d-b313-928539b529b8",
                     "savedPayload": {
                         "position": {
-                            "x": 16553.64943554533,
-                            "y": 18619.10777826479
+                            "x": 16349.37262141405,
+                            "y": 18845.13499757188
                         },
                         "targetPosition": {
-                            "x": 16844.37262141405,
-                            "y": 18693.13499757188
+                            "x": 16376.37262141405,
+                            "y": 18768.13499757188
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4341,12 +4341,12 @@
                             "id": "bea7794c-b9de-4d0d-ab95-973623996551",
                             "savedPayload": {
                                 "position": {
-                                    "x": 16681.868340528246,
-                                    "y": 18115.560449401873
+                                    "x": 16213.868340528245,
+                                    "y": 18190.560449401873
                                 },
                                 "targetPosition": {
-                                    "x": 16763.12048097115,
-                                    "y": 18404.347723486877
+                                    "x": 16295.120480971147,
+                                    "y": 18479.347723486877
                                 },
                                 "floatingObject": {
                                     "isPinned": false,
@@ -4388,12 +4388,12 @@
                     "id": "032d93d9-2a72-46b4-abee-ddc9731434de",
                     "savedPayload": {
                         "position": {
-                            "x": 16763.12048097115,
-                            "y": 18404.347723486877
+                            "x": 16295.120480971147,
+                            "y": 18479.347723486877
                         },
                         "targetPosition": {
-                            "x": 16844.37262141405,
-                            "y": 18693.13499757188
+                            "x": 16376.37262141405,
+                            "y": 18768.13499757188
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4411,12 +4411,12 @@
                 "id": "c0353faa-6212-48ce-a8cd-c10107e9b391",
                 "savedPayload": {
                     "position": {
-                        "x": 16844.37262141405,
-                        "y": 18693.13499757188
+                        "x": 16376.37262141405,
+                        "y": 18768.13499757188
                     },
                     "targetPosition": {
-                        "x": 17059.132676191966,
-                        "y": 18902.6060429977
+                        "x": 16591.132676191966,
+                        "y": 18977.6060429977
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -4435,17 +4435,17 @@
         "id": "d010fb9a-e68a-48ec-a36b-028a55f5d981",
         "savedPayload": {
             "position": {
-                "x": 17059.132676191966,
-                "y": 18902.6060429977
+                "x": 16591.132676191966,
+                "y": 18977.6060429977
             },
             "targetPosition": {
-                "x": 17341.04046242774,
-                "y": 18800
+                "x": 16873.04046242774,
+                "y": 18875
             },
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": true,
+                "isCollapsed": false,
                 "angleToParent": 1,
                 "distanceToParent": 3,
                 "arrangementStyle": 0
@@ -4469,17 +4469,17 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x22f83863e0873ab69028299f29706bc670b8427d160ec8bc8c8fea4090d92383\",\n        \"s\": \"0x14e318205592014bc0d1cfe9493eb3503cc5d2542f833f3a1808c2700f3c030b\",\n        \"signature\": \"0x22f83863e0873ab69028299f29706bc670b8427d160ec8bc8c8fea4090d9238314e318205592014bc0d1cfe9493eb3503cc5d2542f833f3a1808c2700f3c030b1b\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"P2P-Network-Node-1\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x1dfb0d1d7426509323e503f70687ca5986bdd7229b3dfe7f9878235b25215ba5\",\n        \"s\": \"0x6638bfe35a2a54576faa7f8d6be353830946919c3f5e6d9bf73de73997fb10da\",\n        \"signature\": \"0x1dfb0d1d7426509323e503f70687ca5986bdd7229b3dfe7f9878235b25215ba56638bfe35a2a54576faa7f8d6be353830946919c3f5e6d9bf73de73997fb10da1c\"\n    }\n}",
                     "project": "Governance",
-                    "id": "749981e0-e40a-44fa-8e92-61a57271a6cb",
+                    "id": "07aa1415-abd5-4fc3-94c8-5fb8388f8119",
                     "savedPayload": {
                         "position": {
-                            "x": 16392.78196333226,
-                            "y": 23589.48841030238
+                            "x": 16208.690350288303,
+                            "y": 18865.48841030238
                         },
                         "targetPosition": {
-                            "x": 16403.78196333226,
-                            "y": 23549.48841030238
+                            "x": 16295.690350288303,
+                            "y": 18824.48841030238
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4784,12 +4784,12 @@
                 "id": "7d203f72-5822-407c-ba12-7d40919d4252",
                 "savedPayload": {
                     "position": {
-                        "x": 16403.78196333226,
-                        "y": 23549.48841030238
+                        "x": 16295.690350288303,
+                        "y": 18824.48841030238
                     },
                     "targetPosition": {
-                        "x": 16699.224289235925,
-                        "y": 23497.3939570023
+                        "x": 16591.132676191966,
+                        "y": 18772.3939570023
                     },
                     "floatingObject": {
                         "isPinned": false,
@@ -4812,17 +4812,17 @@
                 "signingAccount": {
                     "type": "Signing Account",
                     "name": "New Signing Account",
-                    "config": "{\n    \"codeName\": \"P2P-Network-Node-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x8acf69951e43935c8ff334f502652652c13ae4c7bbc21a3f92404c112d5859e5\",\n        \"s\": \"0x2b4d76923d6f60d949e37cb4ee76df6b713b3d8e97a72a7065d9208c0a47a751\",\n        \"signature\": \"0x8acf69951e43935c8ff334f502652652c13ae4c7bbc21a3f92404c112d5859e52b4d76923d6f60d949e37cb4ee76df6b713b3d8e97a72a7065d9208c0a47a7511c\"\n    }\n}",
+                    "config": "{\n    \"codeName\": \"P2P-Network-Node-2\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xed5f6ff69bc9fc249c0646e10d95f9f42f3a0dc841c94b6e6e265f85359cb0dd\",\n        \"s\": \"0x4301e2dbe83733a9519b0213d9f65f8a12bf6b12f8fb545b988d76ca451b511a\",\n        \"signature\": \"0xed5f6ff69bc9fc249c0646e10d95f9f42f3a0dc841c94b6e6e265f85359cb0dd4301e2dbe83733a9519b0213d9f65f8a12bf6b12f8fb545b988d76ca451b511a1b\"\n    }\n}",
                     "project": "Governance",
-                    "id": "fd6b61fb-da3d-4568-9537-5dcc97da06a8",
+                    "id": "dcabd412-29b2-429e-83d0-8816a862f1fd",
                     "savedPayload": {
                         "position": {
-                            "x": 16484.388006329962,
-                            "y": 23296.580624066606
+                            "x": 16390.296393286004,
+                            "y": 18588.580624066606
                         },
                         "targetPosition": {
-                            "x": 16506.388006329962,
-                            "y": 23267.580624066606
+                            "x": 16398.296393286004,
+                            "y": 18542.580624066606
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4844,12 +4844,12 @@
                     "id": "87426f25-2d95-4144-830f-de438e6ee217",
                     "savedPayload": {
                         "position": {
-                            "x": 16224.48022009419,
-                            "y": 23164.974581068906
+                            "x": 16584.38860705023,
+                            "y": 18364.974581068906
                         },
                         "targetPosition": {
-                            "x": 16506.388006329962,
-                            "y": 23267.580624066606
+                            "x": 16866.296393286004,
+                            "y": 18467.580624066606
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4939,12 +4939,12 @@
                     "id": "ff2d8618-4656-42fd-a359-8d88c08878cd",
                     "savedPayload": {
                         "position": {
-                            "x": 16313.551723424,
-                            "y": 23037.767291130913
+                            "x": 16673.46011038004,
+                            "y": 18237.767291130913
                         },
                         "targetPosition": {
-                            "x": 16506.388006329962,
-                            "y": 23267.580624066606
+                            "x": 16866.296393286004,
+                            "y": 18467.580624066606
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -4972,12 +4972,12 @@
                         "id": "9571c16f-24ad-4e92-b3f0-0efea336dca7",
                         "savedPayload": {
                             "position": {
-                                "x": 16208.547939743185,
-                                "y": 22800.06536725763
+                                "x": 16568.456326699226,
+                                "y": 18000.06536725763
                             },
                             "targetPosition": {
-                                "x": 16454.293553029882,
-                                "y": 22972.138298162943
+                                "x": 16814.201939985924,
+                                "y": 18172.138298162943
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -5000,12 +5000,12 @@
                         "id": "0c149808-78bf-4298-8770-875dd35c9520",
                         "savedPayload": {
                             "position": {
-                                "x": 16402.1990997298,
-                                "y": 22676.69597225928
+                                "x": 16762.107486685843,
+                                "y": 17876.69597225928
                             },
                             "targetPosition": {
-                                "x": 16454.293553029882,
-                                "y": 22972.138298162943
+                                "x": 16814.201939985924,
+                                "y": 18172.138298162943
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -5028,12 +5028,12 @@
                         "id": "65e76321-f3b2-46bd-8e5e-c7b21025567b",
                         "savedPayload": {
                             "position": {
-                                "x": 16626.366483935195,
-                                "y": 22726.392684876246
+                                "x": 16986.274870891237,
+                                "y": 17926.392684876246
                             },
                             "targetPosition": {
-                                "x": 16454.293553029882,
-                                "y": 22972.138298162943
+                                "x": 16814.201939985924,
+                                "y": 18172.138298162943
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -5051,12 +5051,12 @@
                     "id": "3b69aa0e-42e6-4c72-8132-42228511bcb0",
                     "savedPayload": {
                         "position": {
-                            "x": 16454.293553029882,
-                            "y": 22972.138298162943
+                            "x": 16814.201939985924,
+                            "y": 18172.138298162943
                         },
                         "targetPosition": {
-                            "x": 16506.388006329962,
-                            "y": 23267.580624066606
+                            "x": 16866.296393286004,
+                            "y": 18467.580624066606
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5085,12 +5085,12 @@
                             "id": "ba22f469-eb6c-4cb8-9f86-a19cdb6766b2",
                             "savedPayload": {
                                 "position": {
-                                    "x": 16711.600092325363,
-                                    "y": 22703.76505159506
+                                    "x": 17071.508479281405,
+                                    "y": 17903.76505159506
                                 },
                                 "targetPosition": {
-                                    "x": 16608.994049327663,
-                                    "y": 22985.672837830833
+                                    "x": 16968.902436283704,
+                                    "y": 18185.672837830833
                                 },
                                 "floatingObject": {
                                     "isPinned": false,
@@ -5132,12 +5132,12 @@
                     "id": "284e4d57-f725-462a-993c-c49e79c1248a",
                     "savedPayload": {
                         "position": {
-                            "x": 16608.994049327663,
-                            "y": 22985.672837830833
+                            "x": 16968.902436283704,
+                            "y": 18185.672837830833
                         },
                         "targetPosition": {
-                            "x": 16506.388006329962,
-                            "y": 23267.580624066606
+                            "x": 16866.296393286004,
+                            "y": 18467.580624066606
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5155,17 +5155,17 @@
                 "id": "71e6628f-13ee-4022-bb53-d1ad34f18d5b",
                 "savedPayload": {
                     "position": {
-                        "x": 16506.388006329962,
-                        "y": 23267.580624066606
+                        "x": 16398.296393286004,
+                        "y": 18542.580624066606
                     },
                     "targetPosition": {
-                        "x": 16699.224289235925,
-                        "y": 23497.3939570023
+                        "x": 16591.132676191966,
+                        "y": 18772.3939570023
                     },
                     "floatingObject": {
                         "isPinned": false,
                         "isFrozen": false,
-                        "isCollapsed": false,
+                        "isCollapsed": true,
                         "angleToParent": 2,
                         "distanceToParent": 3,
                         "arrangementStyle": 0
@@ -5179,17 +5179,17 @@
         "id": "203ed7f6-3c68-40ad-b911-cbe6156513c8",
         "savedPayload": {
             "position": {
-                "x": 17059.132676191966,
-                "y": 18697.3939570023
+                "x": 16591.132676191966,
+                "y": 18772.3939570023
             },
             "targetPosition": {
-                "x": 17341.04046242774,
-                "y": 18800
+                "x": 16873.04046242774,
+                "y": 18875
             },
             "floatingObject": {
                 "isPinned": false,
                 "isFrozen": false,
-                "isCollapsed": true,
+                "isCollapsed": false,
                 "angleToParent": 1,
                 "distanceToParent": 3,
                 "arrangementStyle": 0
@@ -5208,12 +5208,12 @@
         "id": "3fc011fc-9f07-48ef-a06b-c559f9b012be",
         "savedPayload": {
             "position": {
-                "x": 17191.04046242774,
-                "y": 18540.192378864667
+                "x": 16723.04046242774,
+                "y": 18615.192378864667
             },
             "targetPosition": {
-                "x": 17341.04046242774,
-                "y": 18800
+                "x": 16873.04046242774,
+                "y": 18875
             },
             "floatingObject": {
                 "isPinned": false,
@@ -5247,12 +5247,12 @@
                     "id": "eda21baf-d333-4b4b-9138-5505b5ba60c6",
                     "savedPayload": {
                         "position": {
-                            "x": 17058.059734184768,
-                            "y": 22833.992246522237
+                            "x": 17185.421747892568,
+                            "y": 18059.115348192674
                         },
                         "targetPosition": {
-                            "x": 17301.641135899525,
-                            "y": 23009.115348192674
+                            "x": 17445.2293690279,
+                            "y": 18209.115348192674
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5275,12 +5275,12 @@
                     "id": "9251abe1-03f0-45bb-883c-93067b530aae",
                     "savedPayload": {
                         "position": {
-                            "x": 17158.16494231313,
-                            "y": 22745.648876181607
+                            "x": 17252.393086121938,
+                            "y": 17979.30201525698
                         },
                         "targetPosition": {
-                            "x": 17301.641135899525,
-                            "y": 23009.115348192674
+                            "x": 17445.2293690279,
+                            "y": 18209.115348192674
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5303,12 +5303,12 @@
                     "id": "d838e71b-fe0c-43b0-8552-2ce48fc8eedf",
                     "savedPayload": {
                         "position": {
-                            "x": 17286.687370201314,
-                            "y": 22709.488271827
+                            "x": 17342.6233260302,
+                            "y": 17927.2075619569
                         },
                         "targetPosition": {
-                            "x": 17301.641135899525,
-                            "y": 23009.115348192674
+                            "x": 17445.2293690279,
+                            "y": 18209.115348192674
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5331,12 +5331,12 @@
                     "id": "a5a8825a-0c33-4d6e-808b-cc68e48aa2b8",
                     "savedPayload": {
                         "position": {
-                            "x": 17418.171574781933,
-                            "y": 22732.672484631552
+                            "x": 17445.2293690279,
+                            "y": 17909.115348192674
                         },
                         "targetPosition": {
-                            "x": 17301.641135899525,
-                            "y": 23009.115348192674
+                            "x": 17445.2293690279,
+                            "y": 18209.115348192674
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5359,12 +5359,12 @@
                     "id": "bcbfe9f2-190e-45d0-83f0-cbae300e63e5",
                     "savedPayload": {
                         "position": {
-                            "x": 17526.575496789847,
-                            "y": 22810.609596913615
+                            "x": 17547.8354120256,
+                            "y": 17927.2075619569
                         },
                         "targetPosition": {
-                            "x": 17301.641135899525,
-                            "y": 23009.115348192674
+                            "x": 17445.2293690279,
+                            "y": 18209.115348192674
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5387,12 +5387,12 @@
                     "id": "34270d03-3dc7-45a2-8f41-184d635d127c",
                     "savedPayload": {
                         "position": {
-                            "x": 17590.428409984528,
-                            "y": 22927.86320774977
+                            "x": 17638.065651933863,
+                            "y": 17979.30201525698
                         },
                         "targetPosition": {
-                            "x": 17301.641135899525,
-                            "y": 23009.115348192674
+                            "x": 17445.2293690279,
+                            "y": 18209.115348192674
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5415,12 +5415,12 @@
                     "id": "737c34e2-ad01-43ff-a188-6797d51d9cb7",
                     "savedPayload": {
                         "position": {
-                            "x": 0,
-                            "y": 0
+                            "x": 17705.036990163233,
+                            "y": 18059.115348192674
                         },
                         "targetPosition": {
-                            "x": 0,
-                            "y": 0
+                            "x": 17445.2293690279,
+                            "y": 18209.115348192674
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5443,12 +5443,12 @@
                     "id": "36dbc32e-a7a4-4803-bf56-a0da43672792",
                     "savedPayload": {
                         "position": {
-                            "x": 0,
-                            "y": 0
+                            "x": 17740.671694931563,
+                            "y": 18157.020894892594
                         },
                         "targetPosition": {
-                            "x": 0,
-                            "y": 0
+                            "x": 17445.2293690279,
+                            "y": 18209.115348192674
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -5467,12 +5467,12 @@
             "id": "ccfccd90-d06c-4e94-9e16-30ee573b2029",
             "savedPayload": {
                 "position": {
-                    "x": 17301.641135899525,
-                    "y": 23009.115348192674
+                    "x": 17445.2293690279,
+                    "y": 18209.115348192674
                 },
                 "targetPosition": {
-                    "x": 17249.546682599444,
-                    "y": 23304.557674096337
+                    "x": 17393.13491572782,
+                    "y": 18504.557674096337
                 },
                 "floatingObject": {
                     "isPinned": false,
@@ -5490,12 +5490,12 @@
         "id": "b6dbe022-4516-4d42-9d53-c7afdf390308",
         "savedPayload": {
             "position": {
-                "x": 17393.13491572782,
-                "y": 18504.557674096337
+                "x": 16925.13491572782,
+                "y": 18579.557674096337
             },
             "targetPosition": {
-                "x": 17341.04046242774,
-                "y": 18800
+                "x": 16873.04046242774,
+                "y": 18875
             },
             "floatingObject": {
                 "isPinned": false,
@@ -5831,12 +5831,12 @@
         "id": "b9372a81-f824-4f84-90ec-9b59870cd6e9",
         "savedPayload": {
             "position": {
-                "x": 17570.853795363433,
-                "y": 18607.163717094038
+                "x": 17102.853795363433,
+                "y": 18682.163717094038
             },
             "targetPosition": {
-                "x": 17341.04046242774,
-                "y": 18800
+                "x": 16873.04046242774,
+                "y": 18875
             },
             "floatingObject": {
                 "isPinned": false,
@@ -5854,17 +5854,17 @@
     "id": "2ba902c6-59f4-40f4-91f5-44d12f807061",
     "savedPayload": {
         "position": {
-            "x": 17341.04046242774,
-            "y": 18800
+            "x": 16873.04046242774,
+            "y": 18875
         },
         "targetPosition": {
-            "x": 17341.04046242774,
-            "y": 18800
+            "x": 16873.04046242774,
+            "y": 18875
         },
         "floatingObject": {
             "isPinned": false,
             "isFrozen": false,
-            "isCollapsed": false,
+            "isCollapsed": true,
             "angleToParent": 1,
             "distanceToParent": 3,
             "arrangementStyle": 0
