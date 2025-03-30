@@ -3504,6 +3504,125 @@
                             "isRunning": false
                         }
                     }
+                },
+                {
+                    "type": "Social Trading Bot",
+                    "name": "Social Trading Bot #3",
+                    "project": "Social-Trading",
+                    "savedPayload": {
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "targetPosition": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    },
+                    "id": "511cab1d-003f-4d21-b853-f86ffb2d9097",
+                    "config": "{\n    \"codeName\": \"Social-Trading-Bot-3\",\n    \"handle\": \"eZzy\"\n}",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "project": "Governance",
+                        "id": "748df7fa-ca74-4587-aece-6e42c93683be",
+                        "config": "{\"codeName\":\"Social-Trading-Bot-3\",\"signature\":{\"message\":\"end-debug\",\"v\":\"0x0x1c\",\"r\":\"0x373bb12f9cd9691ac5a13121fa2d2391084d2b554436f8fe1012f1cdd04e3bb9\",\"s\":\"0x4238d109219b829e6811b1f273c7467c2d678c7364d7349a1870ac95ba5d5ba9\",\"signature\":{\"message\":\"end-debug\",\"messageHash\":\"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\"v\":\"0x1c\",\"r\":\"0x373bb12f9cd9691ac5a13121fa2d2391084d2b554436f8fe1012f1cdd04e3bb9\",\"s\":\"0x4238d109219b829e6811b1f273c7467c2d678c7364d7349a1870ac95ba5d5ba9\",\"signature\":\"0x373bb12f9cd9691ac5a13121fa2d2391084d2b554436f8fe1012f1cdd04e3bb94238d109219b829e6811b1f273c7467c2d678c7364d7349a1870ac95ba5d5ba91c\"}}}",
+                        "savedPayload": {
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "targetPosition": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 2,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "availableStorage": {
+                        "type": "Available Storage",
+                        "name": "eZzy Available Storage",
+                        "project": "Open-Storage",
+                        "savedPayload": {
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "targetPosition": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 2,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        },
+                        "id": "140af8f7-6fc8-4b09-97e9-66ba77a22bf1",
+                        "storageContainerReferences": [
+                            {
+                                "type": "Storage Container Reference",
+                                "name": "New Storage Container Reference",
+                                "project": "Open-Storage",
+                                "id": "20b20d9e-bae3-46f7-9eba-f49b1e374517",
+                                "config": "{}",
+                                "savedPayload": {
+                                    "position": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "targetPosition": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "floatingObject": {
+                                        "isPinned": false,
+                                        "isFrozen": false,
+                                        "isCollapsed": false,
+                                        "angleToParent": 2,
+                                        "distanceToParent": 3,
+                                        "arrangementStyle": 0
+                                    },
+                                    "uiObject": {
+                                        "isRunning": false
+                                    },
+                                    "referenceParent": {
+                                        "type": "Github Storage Container",
+                                        "name": "eZzy-Social-Trading Bot-Data",
+                                        "id": "31561680-c3b2-43e6-9b3e-bb016d7a3ce3"
+                                    }
+                                }
+                            }
+                        ],
+                        "config": "{}"
+                    }
                 }
             ],
             "id": "64cda711-4026-4030-b987-d5cd83f5a9f0",
@@ -5462,6 +5581,34 @@
                             "isRunning": false
                         }
                     }
+                },
+                {
+                    "type": "Github Storage Container",
+                    "name": "eZzy-Social-Trading Bot-Data",
+                    "project": "Open-Storage",
+                    "savedPayload": {
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "targetPosition": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    },
+                    "id": "31561680-c3b2-43e6-9b3e-bb016d7a3ce3",
+                    "config": "{\"codeName\":\"eZzy-Social-Trading Bot-Data\",\"githubUserName\":\"end-debug\",\"repositoryName\":\"eZzy-Social-Trading Bot-Data\"}"
                 }
             ],
             "id": "ccfccd90-d06c-4e94-9e16-30ee573b2029",
