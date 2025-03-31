@@ -3504,6 +3504,62 @@
                             "isRunning": false
                         }
                     }
+                },
+                {
+                    "type": "Social Trading Bot",
+                    "name": "Social Trading Bot #3",
+                    "project": "Social-Trading",
+                    "savedPayload": {
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "targetPosition": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "floatingObject": {
+                            "isPinned": false,
+                            "isFrozen": false,
+                            "isCollapsed": false,
+                            "angleToParent": 2,
+                            "distanceToParent": 3,
+                            "arrangementStyle": 0
+                        },
+                        "uiObject": {
+                            "isRunning": false
+                        }
+                    },
+                    "id": "6ca46ae4-2425-4209-a5a8-991a14a3562c",
+                    "config": "{\n    \"codeName\": \"Social-Trading-Bot-3\",\n    \"handle\": \"eZzy\"\n}",
+                    "signingAccount": {
+                        "type": "Signing Account",
+                        "name": "New Signing Account",
+                        "project": "Governance",
+                        "id": "cd309f6a-fd64-4129-9cdb-c019efdf9fc6",
+                        "config": "{\"codeName\":\"Social-Trading-Bot-3\",\"signature\":{\"message\":\"end-debug\",\"messageHash\":\"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\"v\":\"0x1b\",\"r\":\"0x7f19d9f202f0e9fa01ca3551b4d4074b88c9b8df8fc3f82d6c2176f00f7aae29\",\"s\":\"0x172cc8122a01383ed8389053614c763a8715d131d17053563f2479e569344a7e\",\"signature\":\"0x7f19d9f202f0e9fa01ca3551b4d4074b88c9b8df8fc3f82d6c2176f00f7aae29172cc8122a01383ed8389053614c763a8715d131d17053563f2479e569344a7e1b\"}}",
+                        "savedPayload": {
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "targetPosition": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 2,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    }
                 }
             ],
             "id": "64cda711-4026-4030-b987-d5cd83f5a9f0",
