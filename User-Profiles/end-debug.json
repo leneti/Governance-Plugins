@@ -3559,7 +3559,59 @@
                                 "isRunning": false
                             }
                         }
-                    }
+                    },
+                    "followedBotReference": [
+                        {
+                            "name": "The BEAST - Social Trading Bot",
+                            "type": "Followed Bot Reference",
+                            "id": "8adab8ed-5a0f-429e-bb13-5b73ca087c43",
+                            "project": "Social-Trading",
+                            "savedPayload": {
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "targetPosition": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "floatingObject": {
+                                    "isPinned": false,
+                                    "isFrozen": false,
+                                    "isCollapsed": false,
+                                    "angleToParent": 2,
+                                    "distanceToParent": 3,
+                                    "arrangementStyle": 0
+                                },
+                                "uiObject": {
+                                    "isRunning": false
+                                },
+                                "referenceParent": {
+                                    "type": "Social Trading Bot",
+                                    "name": "The BEAST - Social Trading Bot",
+                                    "id": "076a7311-7191-4d3a-b790-f469c9be0e69"
+                                },
+                                "referenceParentCombinedNodePath": [
+                                    [
+                                        "BlaaSwe",
+                                        "User Profile"
+                                    ],
+                                    [
+                                        "New User Bots",
+                                        "User Bots"
+                                    ],
+                                    [
+                                        "Social Trading Bots",
+                                        "Social Trading Bots"
+                                    ],
+                                    [
+                                        "The BEAST - Social Trading Bot",
+                                        "Social Trading Bot"
+                                    ]
+                                ]
+                            }
+                        }
+                    ]
                 }
             ],
             "id": "64cda711-4026-4030-b987-d5cd83f5a9f0",
