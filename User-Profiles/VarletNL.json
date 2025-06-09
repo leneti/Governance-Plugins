@@ -1,7 +1,7 @@
 {
     "type": "User Profile",
     "name": "VarletNL",
-    "config": "{\r\n    \"signature\": {\r\n        \"message\": \"VarletNL\",\r\n        \"messageHash\": \"0x52d9c8260665dbf714795cc9ad3b250f8e4ad4ee846bde52c0a89d96293655b7\",\r\n        \"v\": \"0x1c\",\r\n        \"r\": \"0xda5249c7b284be937213d97a5e3a303e406854a287791f1ee8511baa9ff78cde\",\r\n        \"s\": \"0x2694454bff59fd302cdd168624419c0caf6716a88b06a89ed7975d1cf27bf4f2\",\r\n        \"signature\": \"0xda5249c7b284be937213d97a5e3a303e406854a287791f1ee8511baa9ff78cde2694454bff59fd302cdd168624419c0caf6716a88b06a89ed7975d1cf27bf4f21c\"\r\n    },\r\n    \"codeName\": \"VarletNL\"\r\n}",
+    "config": "{\"signature\":{\"message\":\"VarletNL\",\"messageHash\":\"0x52d9c8260665dbf714795cc9ad3b250f8e4ad4ee846bde52c0a89d96293655b7\",\"v\":\"0x1c\",\"r\":\"0xda5249c7b284be937213d97a5e3a303e406854a287791f1ee8511baa9ff78cde\",\"s\":\"0x2694454bff59fd302cdd168624419c0caf6716a88b06a89ed7975d1cf27bf4f2\",\"signature\":\"0xda5249c7b284be937213d97a5e3a303e406854a287791f1ee8511baa9ff78cde2694454bff59fd302cdd168624419c0caf6716a88b06a89ed7975d1cf27bf4f21c\"},\"codeName\":\"VarletNL\"}",
     "project": "Governance",
     "tokenPowerSwitch": {
         "type": "Token Power Switch",
@@ -3400,13 +3400,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"VarletNL\",\n        \"messageHash\": \"0x52d9c8260665dbf714795cc9ad3b250f8e4ad4ee846bde52c0a89d96293655b7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0x285320fe4a8750eac456c235c4de6dc1e9d1b754a2bb0e3a33bcf63d89e33034\",\n        \"s\": \"0x0017b883572855f24715c52269d7d21ce7cbc2f5c408050818514da52c878a56\",\n        \"signature\": \"0x285320fe4a8750eac456c235c4de6dc1e9d1b754a2bb0e3a33bcf63d89e330340017b883572855f24715c52269d7d21ce7cbc2f5c408050818514da52c878a561b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Task-Server-App-1\",\n    \"signature\": {\n        \"message\": \"VarletNL\",\n        \"messageHash\": \"0x52d9c8260665dbf714795cc9ad3b250f8e4ad4ee846bde52c0a89d96293655b7\",\n        \"v\": \"0x1c\",\n        \"r\": \"0x47a0991087ef960e65ab4875b686ea59c8d40077d3da9271d936c94023355e5b\",\n        \"s\": \"0x67ac81b8facb283a1a5e53a6961413f80f336752e4253b5f330259f3c49645a6\",\n        \"signature\": \"0x47a0991087ef960e65ab4875b686ea59c8d40077d3da9271d936c94023355e5b67ac81b8facb283a1a5e53a6961413f80f336752e4253b5f330259f3c49645a61c\"\n    }\n}",
                         "project": "Governance",
-                        "id": "86da52e6-b43a-4ec5-8e79-10e6837312be",
+                        "id": "3892ef56-ee04-454a-8800-5a45edc7b782",
                         "savedPayload": {
                             "position": {
-                                "x": 33500.90163794125,
-                                "y": 11071.40936037236
+                                "x": 33725.606736253736,
+                                "y": 10829.073784684617
                             },
                             "targetPosition": {
                                 "x": 33743.606736253736,
@@ -3504,7 +3504,7 @@
         "socialTradingBots": {
             "type": "Social Trading Bots",
             "name": "New Social Trading Bots",
-            "config": "{\r\n}",
+            "config": "{}",
             "project": "Social-Trading",
             "socialTradingBots": [
                 {
@@ -3515,13 +3515,13 @@
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"VarletNL\",\n        \"messageHash\": \"0x52d9c8260665dbf714795cc9ad3b250f8e4ad4ee846bde52c0a89d96293655b7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xb9d5afb28e43e5ccea0236a9b581008a8fdd4a0b9a4bfdf27ef7cef0ef7b7d47\",\n        \"s\": \"0x14947e2b0ea32c169632901f196c7be8b748f7044e43ef16e4e934af17b914b2\",\n        \"signature\": \"0xb9d5afb28e43e5ccea0236a9b581008a8fdd4a0b9a4bfdf27ef7cef0ef7b7d4714947e2b0ea32c169632901f196c7be8b748f7044e43ef16e4e934af17b914b21b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"Social-Trading-Bot-1\",\n    \"signature\": {\n        \"message\": \"VarletNL\",\n        \"messageHash\": \"0x52d9c8260665dbf714795cc9ad3b250f8e4ad4ee846bde52c0a89d96293655b7\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xca1777d74aabd3b6810ba34644f785c8d5e239b82632dfe64fd7d44bc208cae8\",\n        \"s\": \"0x5d0a903e22896ad73b1696508b3cb6c6d4cd8bcfad0530d6303b8b3e33b6444c\",\n        \"signature\": \"0xca1777d74aabd3b6810ba34644f785c8d5e239b82632dfe64fd7d44bc208cae85d0a903e22896ad73b1696508b3cb6c6d4cd8bcfad0530d6303b8b3e33b6444c1b\"\n    }\n}",
                         "project": "Governance",
-                        "id": "451bbf65-ce68-4785-842d-ffed590b2d92",
+                        "id": "21a04678-8147-423f-9cb8-1fa0ee998ca1",
                         "savedPayload": {
                             "position": {
-                                "x": 33500.90163794125,
-                                "y": 9660.724754870418
+                                "x": 33787.606736253736,
+                                "y": 9789.06033055816
                             },
                             "targetPosition": {
                                 "x": 33743.606736253736,
