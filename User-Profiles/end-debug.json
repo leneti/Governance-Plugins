@@ -2668,12 +2668,12 @@
                 {
                     "type": "Network Desktop App",
                     "name": "New Network Desktop App",
-                    "config": "{\n    \"codeName\": \"localhost\",\n    \"host\": \"localhost\",\n    \"webPort\": \"35248\",\n    \"webSocketsPort\": \"18042\"\n}",
+                    "config": "{\n    \"codeName\": \"Network-Desktop-App-1\",\n    \"host\": \"localhost\",\n    \"webPort\": \"35248\",\n    \"webSocketsPort\": \"18042\"\n}",
                     "project": "User-Apps",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
-                        "config": "{\n    \"codeName\": \"localhost\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xa9136b5452adeb952bb5dbd2c60609cfbddc885c255e84fe23ce0e1bfc713c8b\",\n        \"s\": \"0x4c4fae7882169a5faebdd13598f9394f4cfc08f619efa91f18138345174951d2\",\n        \"signature\": \"0xa9136b5452adeb952bb5dbd2c60609cfbddc885c255e84fe23ce0e1bfc713c8b4c4fae7882169a5faebdd13598f9394f4cfc08f619efa91f18138345174951d21b\"\n    }\n}",
+                        "config": "{\n    \"codeName\": \"locaNetwork-Desktop-App-1lhost\",\n    \"signature\": {\n        \"message\": \"end-debug\",\n        \"messageHash\": \"0x1f7f8bc57e6f5599e068e83eb802f255db43dfc4372420441068d244ab9304bb\",\n        \"v\": \"0x1b\",\n        \"r\": \"0xa9136b5452adeb952bb5dbd2c60609cfbddc885c255e84fe23ce0e1bfc713c8b\",\n        \"s\": \"0x4c4fae7882169a5faebdd13598f9394f4cfc08f619efa91f18138345174951d2\",\n        \"signature\": \"0xa9136b5452adeb952bb5dbd2c60609cfbddc885c255e84fe23ce0e1bfc713c8b4c4fae7882169a5faebdd13598f9394f4cfc08f619efa91f18138345174951d21b\"\n    }\n}",
                         "project": "Governance",
                         "id": "256ddd3b-6f2f-47e5-bd8a-997a9957cb6d",
                         "savedPayload": {
